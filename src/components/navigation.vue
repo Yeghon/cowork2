@@ -1,10 +1,104 @@
 <template>
-    <header class="position-fixed"><div class="container"><div class="row align-items-center"><div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2"> <a href="https://talentgarden.org/en" class="ml-3 logo"><img src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/tag-orange.svg" alt="Talent Garden" height="65px"></a></div><div class="d-lg-none d-block ml-auto pr-4"> <button id="menuCollapse"> <svg class="ham hamRotate" viewBox="0 0 100 100" width="52" onclick="this.classList.toggle('active')"> <path class="line top" d="m 30,33 h 40 c 0,0 9.044436,-0.654587 9.044436,-8.508902 0,-7.854315 -8.024349,-11.958003 -14.89975,-10.85914 -6.875401,1.098863 -13.637059,4.171617 -13.637059,16.368042 v 40"></path> <path class="line middle" d="m 30,50 h 40"></path> <path class="line bottom" d="m 30,67 h 40 c 12.796276,0 15.357889,-11.717785 15.357889,-26.851538 0,-15.133752 -4.786586,-27.274118 -16.667516,-27.274118 -11.88093,0 -18.499247,6.994427 -18.435284,17.125656 l 0.252538,40"></path></svg> </button></div><nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0"><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-12662877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877"><a href="https://talentgarden.org/en/coworking/">Coworking</a></li><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25"><a href="https://talentgarden.org/en/innovation-school/">School</a><ul class="sub-menu"><li id="menu-item-12651403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403"><a>Learn online</a><ul class="sub-menu"><li id="menu-item-12651408" class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408"><a href="https://talentgarden.org/en/innovation-school/online/">Online</a></li></ul></li><li id="menu-item-12651404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404"><a>Learn in campus</a><ul class="sub-menu"><li id="menu-item-12651405" class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405"><a href="https://talentgarden.org/en/innovation-school/austria/">Austria</a></li><li id="menu-item-12651406" class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651406"><a href="https://talentgarden.org/en/innovation-school/denmark/">Denmark</a></li><li id="menu-item-12651407" class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651407"><a href="https://talentgarden.org/en/innovation-school/italy/">Italy</a></li></ul></li></ul></li><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://talentgarden.org/en/corporate-program/">Corporates</a></li><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://talentgarden.org/en/event-spaces/">Event Spaces</a></li><li id="menu-item-579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579"><a href="https://talentgarden.org/en/agenda/">Agenda</a></li><li id="menu-item-12665441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441"><a href="https://talentgarden.org/en/guides/">Guides</a></li><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://talentgarden.org/en/about/">About</a></li><li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><a href="https://talentgarden.org/en/blog/">Blog</a></li></ul></div><div class="d-lg-none d-block text-left mt-5"><ul class="social-share list-unstyled mb-0 px-4"><li> <a href="https://www.facebook.com/talentgarden" target="_blank" rel="nofollow"> <img src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/facebook.svg" alt="talent garden facebook"> </a></li><li class="mr-4"> <a href="https://www.instagram.com/talentgarden/" target="_blank" rel="nofollow"> <img src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/instagram.svg" alt="talent garden instagram"> </a></li><li> <a href="https://www.linkedin.com/company/talent-garden" target="_blank" rel="nofollow"> <img src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/linkedin.svg" alt="talent garden linkedin"> </a></li><li> <a href="https://twitter.com/TalentGardenen" target="_blank" rel="nofollow"> <img src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/twitter.svg" alt="talent garden twitter"> </a></li><li> <a href="https://www.youtube.com/c/TalentGardenOfficial" target="_blank" rel="nofollow"> <img src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/youtube.svg" alt="talent garden youtube"> </a></li></ul></div></nav></div></div></header>
+  <header class="position-fixed">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
+          <router-link to="/" class="ml-3 logo"> <img
+              src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/tag-orange.svg"
+              alt="Talent Garden" height="65px"></router-link>
+        </div>
+        <div class="d-lg-none d-block ml-auto pr-4">
+          <button id="menuCollapse">
+            <svg class="ham hamRotate" viewBox="0 0 100 100" width="52" onclick="this.classList.toggle('active')">
+              <path class="line top"
+                    d="m 30,33 h 40 c 0,0 9.044436,-0.654587 9.044436,-8.508902 0,-7.854315 -8.024349,-11.958003 -14.89975,-10.85914 -6.875401,1.098863 -13.637059,4.171617 -13.637059,16.368042 v 40"></path>
+              <path class="line middle" d="m 30,50 h 40"></path>
+              <path class="line bottom"
+                    d="m 30,67 h 40 c 12.796276,0 15.357889,-11.717785 15.357889,-26.851538 0,-15.133752 -4.786586,-27.274118 -16.667516,-27.274118 -11.88093,0 -18.499247,6.994427 -18.435284,17.125656 l 0.252538,40"></path>
+            </svg>
+          </button>
+        </div>
+        <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0">
+          <div class="menu-main-menu-container">
+            <ul id="menu-main-menu" class="menu">
+              <li id="menu-item-12662877"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
+                <router-link to="/coworking">Coworking</router-link></li>
+              <li id="menu-item-25"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
+                <router-link to="/innovation-school">School</router-link>
+                <ul class="sub-menu">
+                  <li id="menu-item-12651403"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
+                    <a>Learn online</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-12651408"
+                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408"><router-link
+                          to="/school/online">Online</router-link></li>
+                    </ul>
+                  </li>
+                  <li id="menu-item-12651404"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
+                    <a>Learn in campus</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-12651405"
+                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405"><router-link
+                          to="/school/austria/">Austria</router-link></li>
+                      <li id="menu-item-12651406"
+                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651406"><router-link
+                          to="/school/denmark/">Denmark</router-link></li>
+                      <li id="menu-item-12651407"
+                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651407"><router-link
+                          to="/school/italy/">Italy</router-link></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
+                <router-link active-class="current-menu-item"
+                  to="/corporates">Corporates</router-link>
+              </li>
+              <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><router-link
+                  to="/event-spaces">Event Spaces</router-link></li>
+              <li id="menu-item-579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579"><router-link
+                  to="/agenda">Agenda</router-link></li>
+              <li id="menu-item-12665441"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441"><router-link
+                  to="/guides">Guides</router-link></li>
+              <li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><router-link
+                  to="/about">About</router-link></li>
+              <li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><router-link
+                  to="/blog">Blog</router-link></li>
+            </ul>
+          </div>
+          <div class="d-lg-none d-block text-left mt-5">
+            <ul class="social-share list-unstyled mb-0 px-4">
+              <li><a href="https://www.facebook.com/talentgarden" target="_blank" rel="nofollow"> <img
+                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/facebook.svg"
+                  alt="talent garden facebook"> </a></li>
+              <li class="mr-4"><a href="https://www.instagram.com/talentgarden/" target="_blank" rel="nofollow"> <img
+                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/instagram.svg"
+                  alt="talent garden instagram"> </a></li>
+              <li><a href="https://www.linkedin.com/company/talent-garden" target="_blank" rel="nofollow"> <img
+                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/linkedin.svg"
+                  alt="talent garden linkedin"> </a></li>
+              <li><a href="https://twitter.com/TalentGardenen" target="_blank" rel="nofollow"> <img
+                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/twitter.svg"
+                  alt="talent garden twitter"> </a></li>
+              <li><a href="https://www.youtube.com/c/TalentGardenOfficial" target="_blank" rel="nofollow"> <img
+                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/youtube.svg"
+                  alt="talent garden youtube"> </a></li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
 </template>
 
 <script>
-    export default {
-        name: 'navigation',
-        
-    }
+export default {
+  name: 'navigation',
+
+}
 </script>

@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Proxima';
+    src: url('ProximaNova-Light.eot');
+    src: url('ProximaNova-Light.eot?#iefix') format('embedded-opentype'),
+    url('ProximaNova-Light.woff2') format('woff2'),
+    url('ProximaNova-Light.woff') format('woff'),
+    url('ProximaNova-Light.ttf') format('truetype'),
+    url('ProximaNova-Light.svg#ProximaNova-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima';
+    src: url('ProximaNova-Regular.eot');
+    src: url('ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+    url('ProximaNova-Regular.woff2') format('woff2'),
+    url('ProximaNova-Regular.woff') format('woff'),
+    url('ProximaNova-Regular.ttf') format('truetype'),
+    url('ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima';
+    src: url('ProximaNova-Bold.eot');
+    src: url('ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+    url('ProximaNova-Bold.woff2') format('woff2'),
+    url('ProximaNova-Bold.woff') format('woff'),
+    url('ProximaNova-Bold.ttf') format('truetype'),
+    url('ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lubalin";
+    src: url('LubalinGraphStd-Book.eot');
+    src: url('LubalinGraphStd-Book.eot?#iefix') format("embedded-opentype"), url('LubalinGraphStd-Book.woff') format("woff"), url('LubalinGraphStd-Book.ttf') format("truetype"), url('LubalinGraphStd-Book.svg') format("svg");
+    font-style: normal;
+    font-weight: 400
+}
+@font-face {
+    font-family: "Lubalin";
+    src: url('LubalinGraphStd-BookOblique.eot');
+    src: url('LubalinGraphStd-BookOblique.eot?#iefix') format("embedded-opentype"), url('LubalinGraphStd-BookOblique.woff') format("woff"), url('LubalinGraphStd-BookOblique.ttf') format("truetype"), url('LubalinGraphStd-BookOblique.svg') format("svg");
+    font-style: italic;
+    font-weight: 400
+}
+@font-face {
+    font-family: "Lubalin";
+    src: url('LubalinGraphStd-Demi.eot');
+    src: url('LubalinGraphStd-Demi.eot?#iefix') format("embedded-opentype"), url('LubalinGraphStd-Demi.woff') format("woff"), url('LubalinGraphStd-Demi.ttf') format("truetype"), url('LubalinGraphStd-Demi.svg') format("svg");
+    font-style: normal;
+    font-weight: 600
+}
