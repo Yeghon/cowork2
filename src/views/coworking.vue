@@ -7,12 +7,13 @@
           <div class="row mb-5">
             <div class="col-lg-12">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                                     typeof="WebPage"
-                                                                                                     title="Go to Talent Garden."
-                                                                                                     href="https://talentgarden.org/en"
-                                                                                                     class="home"><span
-                  property="name">Home</span></a><meta property="position" content="1"></span><span
+                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
+                  property="item"
+                  typeof="WebPage"
+                  title="Go to Talent Garden."
+                  to="/"
+                  class="home"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
                   class="mx-1">/</span><span class="post post-page current-item">Coworking</span></nav>
               <div class="line d-block mb-5"></div>
             </div>

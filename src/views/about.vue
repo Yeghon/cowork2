@@ -7,12 +7,13 @@
           <div class="col-lg-5 order-lg-2">
             <div class="max-text mx-auto pt-4">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                                     typeof="WebPage"
-                                                                                                     title="Go to Talent Garden."
-                                                                                                     href="https://talentgarden.org/en"
-                                                                                                     class="home"><span
-                  property="name">Home</span></a><meta property="position" content="1"></span><span
+                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
+                  property="item"
+                  typeof="WebPage"
+                  title="Go to Talent Garden."
+                  to="/"
+                  class="home"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
                   class="mx-1">/</span><span class="post post-page current-item">About</span></nav>
               <div class="line"></div>
               <h1 class="mt-2">Talent Garden's mission is to
@@ -45,7 +46,7 @@ pl-lg-5		"><h2 class="mb-3">We are a Community, not just a space</h2>
                     <p><span style="font-weight: 400;">Founded in Brescia, Italy, in 2011, Talent Garden is now the leading European coworking network and educational institute for the digital and tech community. Today our network spans 18 campuses in 8 countries. (Austria, Denmark, Ireland, Italy, Lithuania, Romania, Spain and France).</span>
                     </p>
                     <div class="d-block mt-3"><a class="btn btn-primary d-block mt-1"
-                                                 href="https://talentgarden.org/about/community/" target="_self">Global
+                                                 href="#" target="_self">Global
                       community</a></div>
                     <p></p></div>
                 </div>
@@ -63,8 +64,11 @@ order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Creating Global Connections</h2>
               <p></p>
               <p><span style="font-weight: 400;">We host a community of over 4,500 innovators inside the network of campuses. These campuses are a base for ideas and collaborations to thrive, hosting a community of startups, agencies, corporate labs, freelancers, investors, media companies and students, who are all united by a like-minded vision for digital innovation.</span>
               </p>
-              <div class="d-block mt-3"><a class="btn btn-primary d-block mt-1" href="https://talentgarden.org/coworking"
-                                           target="_self">Coworking Space</a></div>
+              <div class="d-block mt-3">
+                <router-link class="btn btn-primary d-block mt-1" target="_self"
+                             to="/coworking">Coworking Space
+                </router-link>
+              </div>
               <p></p></div>
           </div>
         </div>
@@ -81,9 +85,12 @@ pl-lg-5		"><h2 class="mb-3">Developing leaders in the digital world</h2>
                     <p></p>
                     <p><span style="font-weight: 400;">To support our community we also launched in 2015 the Talent Garden Innovation School, our innovative educational institute offering training programs and courses for both individuals and companies, focusing on five key areas coding, data, marketing, design and business. </span>
                     </p>
-                    <div class="d-block mt-3"><a class="btn btn-primary d-block mt-1"
-                                                 href="https://talentgarden.org/innovation-school" target="_self">Innovation
-                      School</a></div>
+                    <div class="d-block mt-3">
+                      <router-link class="btn btn-primary d-block mt-1"
+                                   target="_self" to="/innovation-school">Innovation
+                        School
+                      </router-link>
+                    </div>
                     <p></p></div>
                 </div>
               </div>
@@ -101,7 +108,7 @@ order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Connecting with tech giants</h2>
               <p><span style="font-weight: 400;">Connecting digital innovators with the most important players in different industries is key to fostering relationships and collaboration between companies and our community. Innovation is a vital element for corporate growth and requires the right combination of people, processes and technologies.&nbsp;</span>
               </p>
               <div class="d-block mt-3"><a class="btn btn-primary d-block mt-1"
-                                           href="https://talentgarden.org/corporate-program/" target="_self">Corporate
+                                           href="#" target="_self">Corporate
                 Programs</a></div>
               <p></p></div>
           </div>

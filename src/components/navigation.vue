@@ -176,13 +176,13 @@
           </div>
           <div class="d-lg-none d-block text-left mt-5">
             <ul class="social-share list-unstyled mb-0 px-4">
-              <li><a href="https://www.facebook.com/talentgarden" target="_blank" rel="nofollow"> <img
+              <li><a href="#" rel="nofollow" target="_blank"> <img
                   src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/facebook.svg"
                   alt="talent garden facebook"> </a></li>
               <li class="mr-4"><a href="https://www.instagram.com/talentgarden/" target="_blank" rel="nofollow"> <img
                   src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/instagram.svg"
                   alt="talent garden instagram"> </a></li>
-              <li><a href="https://www.linkedin.com/company/talent-garden" target="_blank" rel="nofollow"> <img
+              <li><a href="#" rel="nofollow" target="_blank"> <img
                   src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/linkedin.svg"
                   alt="talent garden linkedin"> </a></li>
               <li><a href="https://twitter.com/TalentGardenen" target="_blank" rel="nofollow"> <img

@@ -7,12 +7,13 @@
           <div class="row mb-lg-5">
             <div class="col-lg-5 mb-lg-0 mb-5">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                                     typeof="WebPage"
-                                                                                                     title="Go to Talent Garden."
-                                                                                                     href="https://talentgarden.org/en"
-                                                                                                     class="home"><span
-                  property="name">Home</span></a><meta property="position" content="1"></span><span
+                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
+                  property="item"
+                  typeof="WebPage"
+                  title="Go to Talent Garden."
+                  to="/"
+                  class="home"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
                   class="mx-1">/</span><span class="post post-page current-item">Guides</span></nav>
               <div class="line d-block mb-5"></div>
               <h1>Talent Garden Guides</h1><h4></h4><h4>Guides, reports and resources on everything from Artificial
@@ -33,10 +34,11 @@
             <div class="col-md-6 ml-auto"><h2 class="mb-4">Innovation Report 2020</h2>
               <div class="text-editor"><p>Journey with us in our sixth edition of the Innovation Report and join the
                 conversations of change that are leading innovation.</p>
-                <p>Download the full report for an in-depth analysis of Twitter conversations in 2020 at a European level.
+                <p>Download the full report for an in-depth analysis of Twitter conversations in 2020 at a European
+                  level.
                   We captured the discussions, innovations, and progress that will continue to shape our lives in
                   2021.</p></div>
-              <a class="btn btn-primary" href="https://talentgarden.org/innovation-report/">Read More</a></div>
+              <a class="btn btn-primary" href="#">Read More</a></div>
           </div>
         </div>
       </div>
@@ -56,7 +58,7 @@
           <div class="mt-5 container-filter" id="MixItUp47763D">
             <div class="row">
               <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post guides  sustainability">
-                <div class="d-flex flex-column bg-light"><a href="https://talentgarden.org/en/guides/foodtech-report/"
+                <div class="d-flex flex-column bg-light"><a href="#"
                                                             class="bg-white d-block post bg-white">
                   <div class="effect-img"><img width="1080" height="1080"
                                                src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Foodtech-graphic-1080x1080-2.png"
@@ -64,7 +66,7 @@
                                                srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Foodtech-graphic-1080x1080-2.png 1080w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Foodtech-graphic-1080x1080-2-300x300.png 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Foodtech-graphic-1080x1080-2-1024x1024.png 1024w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Foodtech-graphic-1080x1080-2-150x150.png 150w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Foodtech-graphic-1080x1080-2-768x768.png 768w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Foodtech-graphic-1080x1080-2-600x600.png 600w"
                                                sizes="(max-width: 1080px) 100vw, 1080px"></div>
                 </a>
-                  <div class="p-4"><a href="https://talentgarden.org/en/guides/foodtech-report/"> <span
+                  <div class="p-4"><a href="#"> <span
                       class="primary font-weight-bold text-uppercase"
                       style="letter-spacing: 1px;font-size: 13px;"> Report</span><h6
                       class="font-size-18 dark font-weight-bold mt-2 campus-12668190">The Global Foodtech Report</h6>
@@ -73,7 +75,7 @@
               </div>
               <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post guides  marketing">
                 <div class="d-flex flex-column bg-light"><a
-                    href="https://talentgarden.org/en/guides/the-abcs-of-growth-hacking/"
+                    href="#"
                     class="bg-white d-block post bg-white">
                   <div class="effect-img"><img width="2251" height="2251"
                                                src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC.jpg"
@@ -81,7 +83,7 @@
                                                srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC.jpg 2251w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC-300x300.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC-1024x1024.jpg 1024w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC-150x150.jpg 150w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC-768x768.jpg 768w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC-1536x1536.jpg 1536w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC-2048x2048.jpg 2048w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/1080X1080_ABC-600x600.jpg 600w"
                                                sizes="(max-width: 2251px) 100vw, 2251px"></div>
                 </a>
-                  <div class="p-4"><a href="https://talentgarden.org/en/guides/the-abcs-of-growth-hacking/"> <span
+                  <div class="p-4"><a href="#"> <span
                       class="primary font-weight-bold text-uppercase"
                       style="letter-spacing: 1px;font-size: 13px;"> Guides</span><h6
                       class="font-size-18 dark font-weight-bold mt-2 campus-12665430">The ABC’s of Growth Hacking</h6>
@@ -90,7 +92,7 @@
               </div>
               <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post guides  data">
                 <div class="d-flex flex-column bg-light"><a
-                    href="https://talentgarden.org/en/guides/omnichannel-strategy/"
+                    href="#"
                     class="bg-white d-block post bg-white">
                   <div class="effect-img"><img width="2251" height="2250"
                                                src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN.jpg"
@@ -98,7 +100,7 @@
                                                srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN.jpg 2251w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN-300x300.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN-1024x1024.jpg 1024w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN-150x150.jpg 150w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN-768x768.jpg 768w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN-1536x1536.jpg 1536w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN-2048x2048.jpg 2048w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/1080x1080_paper-EN-600x600.jpg 600w"
                                                sizes="(max-width: 2251px) 100vw, 2251px"></div>
                 </a>
-                  <div class="p-4"><a href="https://talentgarden.org/en/guides/omnichannel-strategy/"> <span
+                  <div class="p-4"><a href="#"> <span
                       class="primary font-weight-bold text-uppercase"
                       style="letter-spacing: 1px;font-size: 13px;"> Guides</span><h6
                       class="font-size-18 dark font-weight-bold mt-2 campus-12664748">Omnichannel strategy</h6>
@@ -107,7 +109,7 @@
               </div>
               <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post guides  marketing">
                 <div class="d-flex flex-column bg-light"><a
-                    href="https://talentgarden.org/en/guides/ai-augmented-analytics/"
+                    href="#"
                     class="bg-white d-block post bg-white">
                   <div class="effect-img"><img width="2251" height="2250"
                                                src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080.jpg"
@@ -115,7 +117,7 @@
                                                srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080.jpg 2251w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080-300x300.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080-1024x1024.jpg 1024w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080-150x150.jpg 150w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080-768x768.jpg 768w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080-1536x1536.jpg 1536w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080-2048x2048.jpg 2048w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/From-Artificial-Intelligence-to-Augmented-Analytics_Digital-Marketing-Guide_-Talent-Garden_1080-600x600.jpg 600w"
                                                sizes="(max-width: 2251px) 100vw, 2251px"></div>
                 </a>
-                  <div class="p-4"><a href="https://talentgarden.org/en/guides/ai-augmented-analytics/"> <span
+                  <div class="p-4"><a href="#"> <span
                       class="primary font-weight-bold text-uppercase"
                       style="letter-spacing: 1px;font-size: 13px;"> Guides</span><h6
                       class="font-size-18 dark font-weight-bold mt-2 campus-12664745">AI &amp; Augmented Analytics</h6>
@@ -124,7 +126,7 @@
               </div>
               <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post guides  design">
                 <div class="d-flex flex-column bg-light"><a
-                    href="https://talentgarden.org/en/guides/how-design-can-shape-a-sustainable-future/"
+                    href="#"
                     class="bg-white d-block post bg-white">
                   <div class="effect-img"><img width="2560" height="2560"
                                                src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_HowDesignCanShape_2-scaled.jpg"
@@ -133,7 +135,7 @@
                                                sizes="(max-width: 2560px) 100vw, 2560px"></div>
                 </a>
                   <div class="p-4"><a
-                      href="https://talentgarden.org/en/guides/how-design-can-shape-a-sustainable-future/"> <span
+                      href="#"> <span
                       class="primary font-weight-bold text-uppercase"
                       style="letter-spacing: 1px;font-size: 13px;"> Guides</span><h6
                       class="font-size-18 dark font-weight-bold mt-2 campus-12664743">How Design can Shape a Sustainable
@@ -143,7 +145,7 @@
               </div>
               <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post guides  design">
                 <div class="d-flex flex-column bg-light"><a
-                    href="https://talentgarden.org/en/guides/the-ultimate-design-glossary/"
+                    href="#"
                     class="bg-white d-block post bg-white">
                   <div class="effect-img"><img width="2560" height="2560"
                                                src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-scaled.jpg"
@@ -151,7 +153,7 @@
                                                srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-scaled.jpg 2560w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-300x300.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-1024x1024.jpg 1024w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-150x150.jpg 150w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-768x768.jpg 768w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-1536x1536.jpg 1536w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-2048x2048.jpg 2048w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/04/Paper_1080x1080_TheUltimateDesignGlossary-600x600.jpg 600w"
                                                sizes="(max-width: 2560px) 100vw, 2560px"></div>
                 </a>
-                  <div class="p-4"><a href="https://talentgarden.org/en/guides/the-ultimate-design-glossary/"> <span
+                  <div class="p-4"><a href="#"> <span
                       class="primary font-weight-bold text-uppercase"
                       style="letter-spacing: 1px;font-size: 13px;"> Guides</span><h6
                       class="font-size-18 dark font-weight-bold mt-2 campus-12664740">The Ultimate Design Glossary</h6>
@@ -169,7 +171,7 @@
               <div class="col-lg-7 col-md-7  mb-md-0 mb-4"><h3 class="white mb-0">Want to take your digital skills to the
                 next level?</h3></div>
               <div class="col-lg-4 col-md-4 ml-auto"><a class="btn bg-white orange d-md-block text-center py-3 mx-auto"
-                                                        href="https://talentgarden.org/innovation-school/online/"
+                                                        href="#"
                                                         target="_self">Discover our online courses</a></div>
             </div>
           </div>

@@ -7,18 +7,19 @@
           <div class="col-lg-5 order-lg-2 pt-4">
             <div class="max-text mx-auto">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                                     typeof="WebPage"
-                                                                                                     title="Go to Talent Garden."
-                                                                                                     href="https://talentgarden.org/en"
-                                                                                                     class="home"><span
-                  property="name">Home</span></a><meta property="position" content="1"></span><span
-                  class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                             typeof="WebPage"
-                                                                                             title="Go to Innovation School."
-                                                                                             href="https://talentgarden.org/en/innovation-school/"
-                                                                                             class="courses-root post post-courses"><span
-                  property="name">Innovation School</span></a><meta property="position" content="2"></span><span
+                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link href="/"
+                                                                                                               typeof="WebPage"
+                                                                                                               title="Go to Talent Garden."
+                                                                                                               property="item"
+                                                                                                               class="home"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
+                  class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><router-link property="item"
+                                                                                                       typeof="WebPage"
+                                                                                                       title="Go to Innovation School."
+                                                                                                       to="/innovation-school"
+                                                                                                       class="courses-root post post-courses"><span
+                  property="name">Innovation School</span></router-link><meta content="2"
+                                                                              property="position"></span><span
                   class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><span
                   property="name">Online</span><meta property="position" content="3"></span></nav>
               <div class="line"></div>
@@ -70,7 +71,7 @@
             </form>
             <div class="mt-5 container-filter" id="MixItUp8ABD34">
               <div class="mix  online  part-time  calabiana-milan-innovation-school  italian  business"><a
-                  href="https://talentgarden.org/en/innovation-school/online/digital-hr-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -90,7 +91,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian  marketing"><a
-                  href="https://talentgarden.org/en/innovation-school/online/growth-hacking-marketing-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -109,7 +110,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian "><a
-                  href="https://talentgarden.org/en/innovation-school/online/master-impresa-digitale/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -128,7 +129,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian  data"><a
-                  href="https://talentgarden.org/en/innovation-school/online/business-data-analysis-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -147,7 +148,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian  design"><a
-                  href="https://talentgarden.org/en/innovation-school/online/content-design-creation-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -166,7 +167,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian  design"><a
-                  href="https://talentgarden.org/en/innovation-school/online/ui-design-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -185,7 +186,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian  design"><a
-                  href="https://talentgarden.org/en/innovation-school/online/ux-design-essentials-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -204,7 +205,7 @@
                 </div>
               </a></div>
               <div class="mix  online  full-time   italian  design"><a
-                  href="https://talentgarden.org/en/innovation-school/online/ux-design-master-italy/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -223,7 +224,7 @@
                 </div>
               </a></div>
               <div class="mix  online  full-time   italian  data"><a
-                  href="https://talentgarden.org/en/innovation-school/online/data-science-artificial-intelligence-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -242,7 +243,7 @@
                 </div>
               </a></div>
               <div class="mix  online  full-time   italian  marketing"><a
-                  href="https://talentgarden.org/en/innovation-school/online/digital-marketing-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -261,7 +262,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian  marketing"><a
-                  href="https://talentgarden.org/en/innovation-school/online/digital-marketing-essentials-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -280,7 +281,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian  business"><a
-                  href="https://talentgarden.org/en/innovation-school/online/digital-transformation-foodtech-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -299,7 +300,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   italian "><a
-                  href="https://talentgarden.org/en/innovation-school/online/career-development-program/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -318,7 +319,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   english  design"><a
-                  href="https://talentgarden.org/en/innovation-school/online/digital-product-management-online-program/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -337,7 +338,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   english  design"><a
-                  href="https://talentgarden.org/en/innovation-school/online/ux-design-course-part-time/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -356,7 +357,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   english  marketing"><a
-                  href="https://talentgarden.org/en/innovation-school/online/growth-marketing-bootcamp-part-time/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -375,7 +376,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time   english  data"><a
-                  href="https://talentgarden.org/en/innovation-school/online/business-data-science-online-program/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -394,7 +395,7 @@
                 </div>
               </a></div>
               <div class="mix  online  part-time  calabiana-milan-innovation-school  italian  business"><a
-                  href="https://talentgarden.org/en/innovation-school/online/digital-product-management-master/"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">

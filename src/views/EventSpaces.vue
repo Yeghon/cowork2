@@ -7,12 +7,13 @@
           <div class="col-lg-5 order-lg-2">
             <div class="max-text mx-auto pt-4">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                                     typeof="WebPage"
-                                                                                                     title="Go to Talent Garden."
-                                                                                                     href="https://talentgarden.org/en"
-                                                                                                     class="home"><span
-                  property="name">Home</span></a><meta property="position" content="1"></span><span
+                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
+                  property="item"
+                  typeof="WebPage"
+                  title="Go to Talent Garden."
+                  to="/"
+                  class="home"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
                   class="mx-1">/</span><span class="post post-page current-item">Event Spaces</span></nav>
               <div class="line"></div>
               <h1 class="mt-2">Looking for the perfect <span>event space</span> for any occasion?</h1>
@@ -35,7 +36,7 @@
                         <ul class="sub-menu">
                           <li id="menu-item-1796"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1796"><a
-                              href="https://talentgarden.org/en/event-spaces/austria/vienna/">Vienna</a></li>
+                              href="#">Vienna</a></li>
                         </ul>
                       </li>
                       <li id="menu-item-1793"
@@ -44,7 +45,7 @@
                         <ul class="sub-menu">
                           <li id="menu-item-2892"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-2892"><a
-                              href="https://talentgarden.org/en/event-spaces/denmark/copenhagen-rainmaking/">Copenhagen –
+                              href="#">Copenhagen –
                             Rainmaking</a></li>
                         </ul>
                       </li>
@@ -54,7 +55,7 @@
                         <ul class="sub-menu">
                           <li id="menu-item-12666162"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-12666162">
-                            <a href="https://talentgarden.org/en/event-spaces/france/lille/">Lille</a></li>
+                            <a href="#">Lille</a></li>
                         </ul>
                       </li>
                       <li id="menu-item-787"
@@ -63,25 +64,25 @@
                         <ul class="sub-menu">
                           <li id="menu-item-1803"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1803"><a
-                              href="https://talentgarden.org/en/event-spaces/italy/brescia/">Brescia</a></li>
+                              href="#">Brescia</a></li>
                           <li id="menu-item-947"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-947"><a
-                              href="https://talentgarden.org/en/event-spaces/italy/milan-calabiana/">Milan – Calabiana</a>
+                              href="#">Milan – Calabiana</a>
                           </li>
                           <li id="menu-item-1802"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1802"><a
-                              href="https://talentgarden.org/en/event-spaces/italy/milan-isola/">Milan – Isola</a></li>
+                              href="#">Milan – Isola</a></li>
                           <li id="menu-item-1809"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1809"><a
-                              href="https://talentgarden.org/en/event-spaces/italy/rome-ostiense/">Rome – Ostiense</a>
+                              href="#">Rome – Ostiense</a>
                           </li>
                           <li id="menu-item-946"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-946"><a
-                              href="https://talentgarden.org/en/event-spaces/italy/turin-fondazione-agnelli/">Turin –
+                              href="#">Turin –
                             Fondazione Agnelli</a></li>
                           <li id="menu-item-12646592"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-12646592">
-                            <a href="https://talentgarden.org/en/event-spaces/italy/turin-ogr-tech/">Turin – OGR Tech</a>
+                            <a href="#">Turin – OGR Tech</a>
                           </li>
                         </ul>
                       </li>
@@ -91,7 +92,7 @@
                         <ul class="sub-menu">
                           <li id="menu-item-1799"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1799"><a
-                              href="https://talentgarden.org/en/event-spaces/ireland/dublin/">Dublin</a></li>
+                              href="#">Dublin</a></li>
                         </ul>
                       </li>
                       <li id="menu-item-1811"
@@ -100,7 +101,7 @@
                         <ul class="sub-menu">
                           <li id="menu-item-1931"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1931"><a
-                              href="https://talentgarden.org/en/event-spaces/lithuania/vilnius/">Vilnius</a></li>
+                              href="#">Vilnius</a></li>
                         </ul>
                       </li>
                       <li id="menu-item-1815"
@@ -109,7 +110,7 @@
                         <ul class="sub-menu">
                           <li id="menu-item-1814"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1814"><a
-                              href="https://talentgarden.org/en/event-spaces/romania/bucharest/">Bucharest</a></li>
+                              href="#">Bucharest</a></li>
                         </ul>
                       </li>
                       <li id="menu-item-1818"
@@ -118,10 +119,10 @@
                         <ul class="sub-menu">
                           <li id="menu-item-1817"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1817"><a
-                              href="https://talentgarden.org/en/event-spaces/spain/barcelona/">Barcelona</a></li>
+                              href="#">Barcelona</a></li>
                           <li id="menu-item-1821"
                               class="menu-item menu-item-type-post_type menu-item-object-event-spaces menu-item-1821"><a
-                              href="https://talentgarden.org/en/event-spaces/spain/madrid/">Madrid</a></li>
+                              href="#">Madrid</a></li>
                         </ul>
                       </li>
                     </ul>
