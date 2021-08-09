@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
-          <router-link to="/" class="ml-3 logo"> <img
+          <router-link class="ml-3 logo" to="/"><img
               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/tag-orange.svg"
               alt="Talent Garden" height="65px"></router-link>
         </div>
@@ -21,10 +21,45 @@
         <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0">
           <div class="menu-main-menu-container">
             <ul id="menu-main-menu" class="menu">
-              <li id="menu-item-12662877"
+              <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
+                  class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
+                <router-link to="/coworking">Coworking</router-link>
+              </li>
+              <li v-else id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking">Coworking</router-link></li>
-              <li id="menu-item-25"
+                <router-link to="/coworking">Coworking</router-link>
+              </li>
+              <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
+                  class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
+                <router-link to="/innovation-school">School</router-link>
+                <ul class="sub-menu">
+                  <li id="menu-item-12651403"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
+                    <a>Learn online</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-12651408"
+                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
+                        <router-link
+                            to="/school/online">Online
+                        </router-link>
+                      </li>
+                    </ul>
+                  </li>
+                  <li id="menu-item-12651404"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
+                    <a>Learn in campus</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-12651405"
+                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
+                        <router-link
+                            to="/school/nairobi/">Nairobi
+                        </router-link>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li v-else id="menu-item-25"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
                 <router-link to="/innovation-school">School</router-link>
                 <ul class="sub-menu">
@@ -33,8 +68,11 @@
                     <a>Learn online</a>
                     <ul class="sub-menu">
                       <li id="menu-item-12651408"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408"><router-link
-                          to="/school/online">Online</router-link></li>
+                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
+                        <router-link
+                            to="/school/online">Online
+                        </router-link>
+                      </li>
                     </ul>
                   </li>
                   <li id="menu-item-12651404"
@@ -42,33 +80,98 @@
                     <a>Learn in campus</a>
                     <ul class="sub-menu">
                       <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405"><router-link
-                          to="/school/austria/">Austria</router-link></li>
-                      <li id="menu-item-12651406"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651406"><router-link
-                          to="/school/denmark/">Denmark</router-link></li>
-                      <li id="menu-item-12651407"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651407"><router-link
-                          to="/school/italy/">Italy</router-link></li>
+                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
+                        <router-link
+                            to="/school/nairobi/">Nairobi
+                        </router-link>
+                      </li>
                     </ul>
                   </li>
                 </ul>
               </li>
-              <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
+
+              <li v-if="$route.name === 'corporates'" id="menu-item-24"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
                 <router-link active-class="current-menu-item"
-                  to="/corporates">Corporates</router-link>
+                             to="/corporates">Corporates
+                </router-link>
               </li>
-              <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><router-link
-                  to="/event-spaces">Event Spaces</router-link></li>
-              <li id="menu-item-579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579"><router-link
-                  to="/agenda">Agenda</router-link></li>
-              <li id="menu-item-12665441"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441"><router-link
-                  to="/guides">Guides</router-link></li>
-              <li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><router-link
-                  to="/about">About</router-link></li>
-              <li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><router-link
-                  to="/blog">Blog</router-link></li>
+              <li v-else id="menu-item-24"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
+                <router-link active-class="current-menu-item"
+                             to="/corporates">Corporates
+                </router-link>
+              </li>
+
+              <li v-if="$route.name === 'event-spaces'" id="menu-item-23"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 current-menu-item">
+                <router-link
+                    to="/event-spaces">Event Spaces
+                </router-link>
+              </li>
+
+              <li v-else id="menu-item-23"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23">
+                <router-link
+                    to="/event-spaces">Event Spaces
+                </router-link>
+              </li>
+
+              <li v-if="$route.name === 'agenda'" id="menu-item-579"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579 current-menu-item">
+                <router-link
+                    to="/agenda">Agenda
+                </router-link>
+              </li>
+
+              <li v-else id="menu-item-579"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579">
+                <router-link
+                    to="/agenda">Agenda
+                </router-link>
+              </li>
+
+              <li v-if="$route.name === 'guides'" id="menu-item-12665441"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441 current-menu-item">
+                <router-link
+                    to="/guides">Guides
+                </router-link>
+              </li>
+
+              <li v-else id="menu-item-12665441"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441">
+                <router-link
+                    to="/guides">Guides
+                </router-link>
+              </li>
+
+              <li v-if="$route.name === 'about'" id="menu-item-21"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21 current-menu-item">
+                <router-link
+                    to="/about">About
+                </router-link>
+              </li>
+
+              <li v-else id="menu-item-21"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21">
+                <router-link
+                    to="/about">About
+                </router-link>
+              </li>
+
+              <li v-if="$route.name === 'blog'" id="menu-item-519"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519 current-menu-item">
+                <router-link
+                    to="/blog">Blog
+                </router-link>
+              </li>
+
+              <li v-else id="menu-item-519"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
+                <router-link
+                    to="/blog">Blog
+                </router-link>
+              </li>
             </ul>
           </div>
           <div class="d-lg-none d-block text-left mt-5">

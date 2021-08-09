@@ -23,77 +23,74 @@
         </div>
       </div>
       <div class="bg-light" id="course">
-        <div class="container pt-5">
-          <div class="col-12 px-0">
-            <div class="controls controls-btn d-lg-flex align-items-center w-100">
-              <button type="button" class="filter-btn my-2 mixitup-control-active" data-filter="all">All Countries
-              </button>
-              <button type="button" class="filter-btn my-2" data-filter=".italy">Italy</button>
-              <button type="button" class="filter-btn my-2" data-filter=".france">France</button>
-              <button type="button" class="filter-btn my-2" data-filter=".austria">Austria</button>
-              <button type="button" class="filter-btn my-2" data-filter=".ireland">Ireland</button>
-              <button type="button" class="filter-btn my-2" data-filter=".spain">Spain</button>
-              <button type="button" class="filter-btn my-2" data-filter=".denmark">Denmark</button>
-              <button type="button" class="filter-btn my-2" data-filter=".lithuania">Lithuania</button>
-              <button type="button" class="filter-btn my-2" data-filter=".romania">Romania</button>
-            </div>
-          </div>
-        </div>
         <div class="container-fluid">
           <div class="col-sm-11 mx-auto">
             <div class="mt-5 container-filter" id="MixItUp27E31C">
               <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/milan-calabiana/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/TAG-Calabiana-203-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/milan-calabiana/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-1699"><span>Talent Garden</span> Milan –
-                    Calabiana</h6>
-                    <p class="mb-0">Via Arcivescovo Calabiana 6<br> 20100 Milan</p></a></div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy">
+                  <router-link
+                      class="bg-white d-block post bg-white " to="/coworking/single">
+                    <div class="effect-img"><img width="900" height="720"
+                                                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/TAG-Calabiana-203-900x720.jpg"
+                                                 class="attachment-900x720 size-900x720 wp-post-image" alt=""
+                                                 loading="lazy"></div>
+                  </router-link>
+                  <div class="p-4 bg-white">
+                    <router-link to="/coworking/single"> <span
+                        class="primary font-weight-bold text-uppercase"
+                        style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
+                        class="font-size-18 dark font-weight-bold mt-2 campus-1699"><span>Talent Garden</span> Milan –
+                      Calabiana</h6>
+                      <p class="mb-0">Via Arcivescovo Calabiana 6<br> 20100 Milan</p></router-link>
+                  </div>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  france"><a
-                    href="https://talentgarden.org/en/coworking/lille/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="800" height="660"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1.jpeg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1.jpeg 800w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1-300x248.jpeg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1-768x634.jpeg 768w"
-                                               sizes="(max-width: 800px) 100vw, 800px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/lille/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> France</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-12655081"><span>Talent Garden</span> Lille
-                  </h6>
-                    <p class="mb-0">100 Avenue Willy Brandt<br> 59777 Lille</p></a></div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  france">
+                  <router-link
+                      class="bg-white d-block post bg-white " to="/coworking/single">
+                    <div class="effect-img"><img width="800" height="660"
+                                                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1.jpeg"
+                                                 class="attachment-900x720 size-900x720 wp-post-image" alt=""
+                                                 loading="lazy"
+                                                 srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1.jpeg 800w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1-300x248.jpeg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1-768x634.jpeg 768w"
+                                                 sizes="(max-width: 800px) 100vw, 800px"></div>
+                  </router-link>
+                  <div class="p-4 bg-white">
+                    <router-link to="/coworking/single"> <span
+                        class="primary font-weight-bold text-uppercase"
+                        style="letter-spacing: 1px;font-size: 13px;"> France</span><h6
+                        class="font-size-18 dark font-weight-bold mt-2 campus-12655081"><span>Talent Garden</span> Lille
+                    </h6>
+                      <p class="mb-0">100 Avenue Willy Brandt<br> 59777 Lille</p></router-link>
+                  </div>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  austria"><a
-                    href="https://talentgarden.org/en/coworking/vienna/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Copy-of-Grand_Opening_TAGVienna236-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/vienna/"> <span
-                      class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Austria</span>
-                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1114"><span>Talent Garden</span> Vienna</h6>
-                    <p class="mb-0">Liechtensteinstraße 111-115<br> 1090 Wien</p></a></div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  austria">
+                  <router-link
+                      class="bg-white d-block post bg-white " to="/coworking/single">
+                    <div class="effect-img"><img width="900" height="720"
+                                                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Copy-of-Grand_Opening_TAGVienna236-900x720.jpg"
+                                                 class="attachment-900x720 size-900x720 wp-post-image" alt=""
+                                                 loading="lazy"></div>
+                  </router-link>
+                  <div class="p-4 bg-white">
+                    <router-link to="/coworking/vienna"> <span
+                        class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Austria</span>
+                      <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1114"><span>Talent Garden</span> Vienna
+                      </h6>
+                      <p class="mb-0">Liechtensteinstraße 111-115<br> 1090 Wien</p></router-link>
+                  </div>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  ireland"><a
-                    href="https://talentgarden.org/en/coworking/dublin/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/12/Copy-of-4J3A1084-1-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  ireland">
+                  <router-link
+                      class="bg-white d-block post bg-white " to="/coworking/single">
+                    <div class="effect-img"><img width="900" height="720"
+                                                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/12/Copy-of-4J3A1084-1-900x720.jpg"
+                                                 class="attachment-900x720 size-900x720 wp-post-image" alt=""
+                                                 loading="lazy"></div>
+                  </router-link>
                   <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/dublin/"> <span
                       class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Ireland</span>
-                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1747"><span>Talent Garden</span> Dublin</h6>
+                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1747"><span>Talent Garden</span> Dublin
+                    </h6>
                     <p class="mb-0">Claremont Avenue, Glasnevin<br> Dublin 11, D11 YNR2</p></a></div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  spain"><a

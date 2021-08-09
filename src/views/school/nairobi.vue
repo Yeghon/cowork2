@@ -66,7 +66,7 @@
             </form>
             <div class="mt-5 container-filter" id="MixItUp8E8326">
               <div class="mix  italy  part-time  calabiana-milan-innovation-school  italian  business"><a
-                  href="https://talentgarden.org/en/innovation-school/italy/digital-transformation-master/"
+                  href="https://talentgarden.org/en/innovation-school/italy/digital-transformation-master/nairobi.vue"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -86,7 +86,7 @@
                 </div>
               </a></div>
               <div class="mix  italy   roma  italian "><a
-                  href="https://talentgarden.org/en/innovation-school/italy/data-drive-business-transformation/"
+                  href="https://talentgarden.org/en/innovation-school/italy/data-drive-business-transformation/nairobi.vue"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -105,7 +105,7 @@
                 </div>
               </a></div>
               <div class="mix  italy   milano-luiss-hub  italian "><a
-                  href="https://talentgarden.org/en/innovation-school/italy/digital-business-strategy-major/"
+                  href="https://talentgarden.org/en/innovation-school/italy/digital-business-strategy-major/nairobi.vue"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">

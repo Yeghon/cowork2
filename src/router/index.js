@@ -62,20 +62,14 @@ const router = new VueRouter({
             component: () => import('@/views/school/online')
         },
         {
-            path: '/school/italy',
-            name: 'italy-school',
-            component: () => import('@/views/school/italy'),
+            path: '/school/nairobi',
+            name: 'denmark-school',
+            component: () => import('@/views/school/nairobi')
         },
         {
-            path: '/school/denmark',
-            name: 'denmark-school',
-            component: () => import('@/views/school/denmark'),
-
-        },
-        {
-            path: '/school/australia',
-            name: 'denmark-school',
-            component: () => import('@/views/school/denmark')
+            path: '/coworking/single',
+            name: 'coworking-single-page',
+            component: () => import('@/views/coworking/single')
         }
     ],
 })
