@@ -52,7 +52,7 @@
                       <li id="menu-item-12651405"
                           class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
                         <router-link
-                            to="/school/nairobi/">Nairobi
+                            to="#">Nairobi
                         </router-link>
                       </li>
                     </ul>

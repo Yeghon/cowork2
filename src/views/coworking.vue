@@ -29,283 +29,20 @@
               <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy">
                   <router-link
-                      class="bg-white d-block post bg-white " to="/coworking/single">
+                      class="bg-white d-block post bg-white " to="/coworking">
                     <div class="effect-img"><img width="900" height="720"
                                                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/TAG-Calabiana-203-900x720.jpg"
                                                  class="attachment-900x720 size-900x720 wp-post-image" alt=""
                                                  loading="lazy"></div>
                   </router-link>
                   <div class="p-4 bg-white">
-                    <router-link to="/coworking/single"> <span
+                    <router-link to="/coworking"> <span
                         class="primary font-weight-bold text-uppercase"
-                        style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                        class="font-size-18 dark font-weight-bold mt-2 campus-1699"><span>Talent Garden</span> Milan –
-                      Calabiana</h6>
+                        style="letter-spacing: 1px;font-size: 13px;"> Kenya</span><h6
+                        class="font-size-18 dark font-weight-bold mt-2 campus-1699"><span>Talent Garden</span> Nairobi –
+                      CBD</h6>
                       <p class="mb-0">Via Arcivescovo Calabiana 6<br> 20100 Milan</p></router-link>
                   </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  france">
-                  <router-link
-                      class="bg-white d-block post bg-white " to="/coworking/single">
-                    <div class="effect-img"><img width="800" height="660"
-                                                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1.jpeg"
-                                                 class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                                 loading="lazy"
-                                                 srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1.jpeg 800w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1-300x248.jpeg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/1616144448191-1-768x634.jpeg 768w"
-                                                 sizes="(max-width: 800px) 100vw, 800px"></div>
-                  </router-link>
-                  <div class="p-4 bg-white">
-                    <router-link to="/coworking/single"> <span
-                        class="primary font-weight-bold text-uppercase"
-                        style="letter-spacing: 1px;font-size: 13px;"> France</span><h6
-                        class="font-size-18 dark font-weight-bold mt-2 campus-12655081"><span>Talent Garden</span> Lille
-                    </h6>
-                      <p class="mb-0">100 Avenue Willy Brandt<br> 59777 Lille</p></router-link>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  austria">
-                  <router-link
-                      class="bg-white d-block post bg-white " to="/coworking/single">
-                    <div class="effect-img"><img width="900" height="720"
-                                                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Copy-of-Grand_Opening_TAGVienna236-900x720.jpg"
-                                                 class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                                 loading="lazy"></div>
-                  </router-link>
-                  <div class="p-4 bg-white">
-                    <router-link to="/coworking/vienna"> <span
-                        class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Austria</span>
-                      <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1114"><span>Talent Garden</span> Vienna
-                      </h6>
-                      <p class="mb-0">Liechtensteinstraße 111-115<br> 1090 Wien</p></router-link>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  ireland">
-                  <router-link
-                      class="bg-white d-block post bg-white " to="/coworking/single">
-                    <div class="effect-img"><img width="900" height="720"
-                                                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/12/Copy-of-4J3A1084-1-900x720.jpg"
-                                                 class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                                 loading="lazy"></div>
-                  </router-link>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/dublin/"> <span
-                      class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Ireland</span>
-                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1747"><span>Talent Garden</span> Dublin
-                    </h6>
-                    <p class="mb-0">Claremont Avenue, Glasnevin<br> Dublin 11, D11 YNR2</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  spain"><a
-                    href="https://talentgarden.org/en/coworking/barcelona/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="800" height="660"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Talent_Garden_Barcelona_20201.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Talent_Garden_Barcelona_20201.jpg 800w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Talent_Garden_Barcelona_20201-300x248.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Talent_Garden_Barcelona_20201-768x634.jpg 768w"
-                                               sizes="(max-width: 800px) 100vw, 800px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/barcelona/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Spain</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-12644369"><span>Talent Garden</span> Barcelona
-                    22@</h6>
-                    <p class="mb-0">Carrer Ramón Turró 169-A<br> 08005 Barcelona</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  spain"><a
-                    href="https://talentgarden.org/en/coworking/madrid/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="799" height="660"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Hotdesk-Madrid-Coworking.jpg.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Hotdesk-Madrid-Coworking.jpg.jpg 799w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Hotdesk-Madrid-Coworking.jpg-300x248.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Hotdesk-Madrid-Coworking.jpg-768x634.jpg 768w"
-                                               sizes="(max-width: 799px) 100vw, 799px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/madrid/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Spain</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-880"><span>Talent Garden</span> Madrid</h6>
-                    <p class="mb-0">Calle de Juan de Mariana 15<br> 28045 Madrid</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  denmark"><a
-                    href="https://talentgarden.org/en/coworking/copenhagen-rainmaking/"
-                    class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-Rainmaking-eventspace.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-Rainmaking-eventspace.jpg 900w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-Rainmaking-eventspace-300x240.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-Rainmaking-eventspace-768x614.jpg 768w"
-                                               sizes="(max-width: 900px) 100vw, 900px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/copenhagen-rainmaking/"> <span
-                      class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Denmark</span>
-                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1614"><span>Talent Garden</span> Copenhagen
-                      – Rainmaking</h6>
-                    <p class="mb-0">Danneskiold-Samsøes Allé 41<br> 1434 Copenhagen</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/turin-fondazione-agnelli/"
-                    class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/6-talent-garden-fondazione-agnelli-torino-coworking-space-6.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/6-talent-garden-fondazione-agnelli-torino-coworking-space-6.jpg 900w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/6-talent-garden-fondazione-agnelli-torino-coworking-space-6-300x240.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/6-talent-garden-fondazione-agnelli-torino-coworking-space-6-768x614.jpg 768w"
-                                               sizes="(max-width: 900px) 100vw, 900px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/turin-fondazione-agnelli/">
-                    <span class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Italy</span>
-                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1304"><span>Talent Garden</span> Turin –
-                      Fondazione Agnelli</h6>
-                    <p class="mb-0">Via Giuseppe Giacosa 38<br> 10125 Turin</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/milano-isola/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/P1170499-3-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/milano-isola/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-789"><span>Talent Garden</span> Milan – Isola
-                  </h6>
-                    <p class="mb-0">Piazza Città di Lombardia 1<br> 20124 Milan</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/rome-ostiense/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Ostiense-terrazza_2-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/rome-ostiense/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-1459"><span>Talent Garden</span> Rome –
-                    Ostiense</h6>
-                    <p class="mb-0">Via Ostiense 92<br> 00154 Rome</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/brescia/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/12/TAG-Brescia-283-min-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/brescia/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-1518"><span>Talent Garden</span> Brescia</h6>
-                    <p class="mb-0">Via Cipro 66<br> 25124 Brescia</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/torino-ogr-tech/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/MG_0701-2-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/torino-ogr-tech/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-1606"><span>Talent Garden</span> Turin – OGR
-                    Tech</h6>
-                    <p class="mb-0">Corso Castelfidardo 22<br> 10128 Turin</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  denmark"><a
-                    href="https://talentgarden.org/en/coworking/the-camp-powered-by-talent-garden/"
-                    class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-the-camp-Copenhagen-coworking-space.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-the-camp-Copenhagen-coworking-space.jpg 900w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-the-camp-Copenhagen-coworking-space-300x240.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-the-camp-Copenhagen-coworking-space-768x614.jpg 768w"
-                                               sizes="(max-width: 900px) 100vw, 900px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a
-                      href="https://talentgarden.org/en/coworking/the-camp-powered-by-talent-garden/"> <span
-                      class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Denmark</span>
-                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1634"><span>Talent Garden</span> The Camp
-                      powered by Talent Garden</h6>
-                    <p class="mb-0">Klausdalsbrovej 601, <br> 2750 Ballerup, <br> Denmark</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  lithuania"><a
-                    href="https://talentgarden.org/en/coworking/vilnius/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="800" height="660"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Talent-Garrden-Vilnius-4.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Talent-Garrden-Vilnius-4.jpg 800w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Talent-Garrden-Vilnius-4-300x248.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Talent-Garrden-Vilnius-4-768x634.jpg 768w"
-                                               sizes="(max-width: 800px) 100vw, 800px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/vilnius/"> <span
-                      class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Lithuania</span>
-                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1339"><span>Talent Garden</span> Vilnius
-                    </h6>
-                    <p class="mb-0">Vilniaus g. 33<br> 01402 Vilnius</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/cosenza/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/03-talent-garden-cosenza-coworking-space.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/03-talent-garden-cosenza-coworking-space.jpg 900w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/03-talent-garden-cosenza-coworking-space-300x240.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/03-talent-garden-cosenza-coworking-space-768x614.jpg 768w"
-                                               sizes="(max-width: 900px) 100vw, 900px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/cosenza/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-1540"><span>Talent Garden</span> Cosenza</h6>
-                    <p class="mb-0">Via Alberto Savinio<br> 87036 Rende (CS)</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/genova/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-genova-coworking-space.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-genova-coworking-space.jpg 900w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-genova-coworking-space-300x240.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/02-talent-garden-genova-coworking-space-768x614.jpg 768w"
-                                               sizes="(max-width: 900px) 100vw, 900px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/genova/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-1480"><span>Talent Garden</span> Genova</h6>
-                    <p class="mb-0">Via Enrico Melen 83<br> 16152 Genova</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/pordenone/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/ingressocampuspordenone-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/pordenone/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-1500"><span>Talent Garden</span> Pordenone
-                  </h6>
-                    <p class="mb-0">Piazzetta Aldo Furlan 4<br> 33170 Pordenone</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  italy"><a
-                    href="https://talentgarden.org/en/coworking/rome-cinecitta/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="900" height="720"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/TAG-Cinecittà-386-900x720.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt=""
-                                               loading="lazy"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/rome-cinecitta/"> <span
-                      class="primary font-weight-bold text-uppercase"
-                      style="letter-spacing: 1px;font-size: 13px;"> Italy</span><h6
-                      class="font-size-18 dark font-weight-bold mt-2 campus-1561"><span>Talent Garden</span> Rome –
-                    Cinecittà</h6>
-                    <p class="mb-0">Via Quinto Publicio 90<br> 00175 Rome</p></a></div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mb-5 mix post  romania"><a
-                    href="https://talentgarden.org/en/coworking/bucharest/" class="bg-white d-block post bg-white ">
-                  <div class="effect-img"><img width="800" height="660"
-                                               src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/bucharest-event-space.jpg"
-                                               class="attachment-900x720 size-900x720 wp-post-image" alt="" loading="lazy"
-                                               srcset="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/bucharest-event-space.jpg 800w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/bucharest-event-space-300x248.jpg 300w, https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/bucharest-event-space-768x634.jpg 768w"
-                                               sizes="(max-width: 800px) 100vw, 800px"></div>
-                </a>
-                  <div class="p-4 bg-white"><a href="https://talentgarden.org/en/coworking/bucharest/"> <span
-                      class="primary font-weight-bold text-uppercase" style="letter-spacing: 1px;font-size: 13px;"> Romania</span>
-                    <h6 class="font-size-18 dark font-weight-bold mt-2 campus-1166"><span>Talent Garden</span> Bucharest
-                    </h6>
-                    <p class="mb-0">Strada Ion Brezoianu, Nr. 23-25<br> Bucuresti, Sectorul 1</p></a></div>
                 </div>
               </div>
             </div>
@@ -1171,7 +908,8 @@
                         <div
                             style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;">
                           <a href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank"
-                             rel="noopener" style="text-decoration: none; cursor: pointer; color: rgb(0, 0, 0);">Terms of
+                             rel="noopener" style="text-decoration: none; cursor: pointer; color: rgb(0, 0, 0);">Terms
+                            of
                             Use</a></div>
                       </div>
                       <div draggable="false" class="gm-style-cc"
