@@ -47,7 +47,7 @@
                   </li>
                   <li id="menu-item-12651404"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <a>Learn in campus</a>
+                    <a style="color: limegreen">Learn in campus</a>
                     <ul class="sub-menu">
                       <li id="menu-item-12651405"
                           class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
@@ -65,7 +65,7 @@
                 <ul class="sub-menu">
                   <li id="menu-item-12651403"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
-                    <a>Learn online</a>
+                    <a style="color: limegreen">Learn online</a>
                     <ul class="sub-menu">
                       <li id="menu-item-12651408"
                           class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
@@ -77,7 +77,7 @@
                   </li>
                   <li id="menu-item-12651404"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <a>Learn in campus</a>
+                    <a style="color: limegreen">Learn in campus</a>
                     <ul class="sub-menu">
                       <li id="menu-item-12651405"
                           class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
