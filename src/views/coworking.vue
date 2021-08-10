@@ -7,12 +7,13 @@
           <div class="row mb-5">
             <div class="col-lg-12">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                                     typeof="WebPage"
-                                                                                                     title="Go to Talent Garden."
-                                                                                                     href="https://talentgarden.org/en"
-                                                                                                     class="home"><span
-                  property="name">Home</span></a><meta property="position" content="1"></span><span
+                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
+                  property="item"
+                  typeof="WebPage"
+                  title="Go to Talent Garden."
+                  to="/"
+                  class="home"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
                   class="mx-1">/</span><span class="post post-page current-item">Coworking</span></nav>
               <div class="line d-block mb-5"></div>
             </div>
@@ -39,9 +40,8 @@
                     <router-link to="/coworking"> <span
                         class="primary font-weight-bold text-uppercase"
                         style="letter-spacing: 1px;font-size: 13px;"> Kenya</span><h6
-                        class="font-size-18 dark font-weight-bold mt-2 campus-1699"><span>Talent Garden</span> Nairobi –
-                      CBD</h6>
-                      <p class="mb-0">Via Arcivescovo Calabiana 6<br> 20100 Milan</p></router-link>
+                        class="font-size-18 dark font-weight-bold mt-2 campus-1699"><span>Nairobi Business Park</span></h6>
+                      <p class="mb-0">P.O. Box 001100<br> Nairobi</p></router-link>
                   </div>
                 </div>
               </div>

@@ -7,10 +7,11 @@
           <div class="row align-items-strecth">
             <div class="col-12 mb-3 d-lg-none d-block text-center">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" role="navigation"><span
-                  property="itemListElement" typeof="ListItem"><a class="home" href="https://talentgarden.org/en"
-                                                                  property="item"
-                                                                  title="Go to Talent Garden." typeof="WebPage"><span
-                  property="name">Home</span></a><meta content="1" property="position"></span><span
+                  property="itemListElement" typeof="ListItem"><router-link class="home" to="/"
+                                                                            property="item"
+                                                                            title="Go to Talent Garden."
+                                                                            typeof="WebPage"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
                   class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><span property="name"
                                                                                                 style="font-weight: normal">Italy</span><meta
                   content="2" property="position"></span><span class="mx-1">/</span><span
@@ -95,11 +96,11 @@
             <div class="col-lg-5 pt-4">
               <div class="max-text mx-auto bg-white p-lg-0 p-4">
                 <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3 d-lg-block d-none" role="navigation"><span
-                    property="itemListElement" typeof="ListItem"><a class="home" href="https://talentgarden.org/en"
-                                                                    property="item"
-                                                                    title="Go to Talent Garden."
-                                                                    typeof="WebPage"><span
-                    property="name">Home</span></a><meta
+                    property="itemListElement" typeof="ListItem"><router-link class="home" to="/"
+                                                                              property="item"
+                                                                              title="Go to Talent Garden."
+                                                                              typeof="WebPage"><span
+                    property="name">Home</span></router-link><meta
                     content="1" property="position"></span><span class="mx-1">/</span><span property="itemListElement"
                                                                                             typeof="ListItem"><span
                     property="name" style="font-weight: normal">Italy</span><meta content="2"
@@ -740,7 +741,7 @@
                       </div>
                       <div class="legal-consent-container" data-reactid=".hbspt-forms-0.2">
                         <div class="hs-richtext" data-reactid=".hbspt-forms-0.2.2"><p>I have read and agree to the <a
-                            href="https://talentgarden.org/en/privacy-policy/" rel="noopener" target="_blank">Privacy
+                            href="#" rel="noopener" target="_blank">Privacy
                           Policy</a> of&nbsp;Talent Garden S.p.A.</p></div>
                       </div>
                       <div class="hs_submit hs-submit" data-reactid=".hbspt-forms-0.5">
@@ -754,7 +755,7 @@
                       <noscript data-reactid=".hbspt-forms-0.6"></noscript>
                       <input data-reactid=".hbspt-forms-0.7" name="hs_context"
                              type="hidden"
-                             value="{&quot;rumScriptExecuteTime&quot;:1171.5,&quot;rumServiceResponseTime&quot;:1820.8999999985099,&quot;rumFormRenderTime&quot;:3.8000000044703484,&quot;rumTotalRenderTime&quot;:1830.8999999985099,&quot;rumTotalRequestTime&quot;:647.3000000044703,&quot;lang&quot;:&quot;en&quot;,&quot;legalConsentOptions&quot;:&quot;{\&quot;legitimateInterestSubscriptionTypes\&quot;:[5275298,5269082],\&quot;communicationConsentCheckboxes\&quot;:[{\&quot;communicationTypeId\&quot;:5269082,\&quot;label\&quot;:\&quot;Accetto di ricevere altre comunicazioni da Talent Garden.\&quot;,\&quot;required\&quot;:false}],\&quot;legitimateInterestLegalBasis\&quot;:\&quot;LEGITIMATE_INTEREST_PQL\&quot;,\&quot;communicationConsentText\&quot;:\&quot;Talent Garden si impegna a proteggere e rispettare la privacy degli utenti: le informazioni personali raccolte vengono utilizzate solo per amministrare gli account e fornire i prodotti e servizi richiesti. Gli utenti potrebbero essere contatti con suggerimenti su prodotti, servizi o altri contenuti che a nostro giudizio potrebbero interessare loro. Se si desidera essere contattati a questo scopo, selezionare una delle seguenti modalità di contatto:\&quot;,\&quot;processingConsentType\&quot;:\&quot;IMPLICIT\&quot;,\&quot;processingConsentText\&quot;:\&quot;Per fornirti il contenuto richiesto dobbiamo poter archiviare e utilizzare i tuoi dati personali. Se ci consenti di archiviare i tuoi dati a questo scopo, seleziona la casella di controllo qui sotto.\&quot;,\&quot;processingConsentCheckboxLabel\&quot;:\&quot;Consento a Talent Garden di archiviare e elaborare i miei dati personali.\&quot;,\&quot;privacyPolicyText\&quot;:\&quot;<p>I have read and agree to the <a href=\\\&quot;https://talentgarden.org/en/privacy-policy/\\\&quot; rel=\\\&quot;noopener\\\&quot; target=\\\&quot;_blank\\\&quot;>Privacy Policy</a> of&amp;nbsp;Talent Garden S.p.A.</p>\&quot;,\&quot;isLegitimateInterest\&quot;:true}&quot;,&quot;renderRawHtml&quot;:&quot;true&quot;,&quot;embedAtTimestamp&quot;:&quot;1628488547414&quot;,&quot;formDefinitionUpdatedAt&quot;:&quot;1605808202299&quot;,&quot;pageUrl&quot;:&quot;https://talentgarden.org/en/coworking/turin-fondazione-agnelli/&quot;,&quot;pageTitle&quot;:&quot;Talent Garden Turin Fondazione Agnelli | Coworking for Freelancers &amp; Startups | Talent Garden&quot;,&quot;source&quot;:&quot;FormsNext-static-5.349&quot;,&quot;timestamp&quot;:1628488547414,&quot;userAgent&quot;:&quot;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&quot;,&quot;referrer&quot;:&quot;https://talentgarden.org/en/coworking/&quot;,&quot;originalEmbedContext&quot;:{&quot;portalId&quot;:&quot;4808925&quot;,&quot;formId&quot;:&quot;48c3cd2a-1c19-40e7-a7e0-eabfda358bc3&quot;,&quot;target&quot;:&quot;#hbspt-form-1628488572252-9337670783&quot;,&quot;hutk&quot;:&quot;b50c5037e58794b963e65e8c34ea57db&quot;},&quot;boolCheckBoxFields&quot;:&quot;newsletter_optin&quot;,&quot;redirectUrl&quot;:&quot;https://talentgarden.org/en/thank-you-page-coworking-italy-torinofondazioneagnelli&quot;,&quot;formTarget&quot;:&quot;#hbspt-form-1628488572252-9337670783&quot;,&quot;correlationId&quot;:&quot;5de8b866-54be-4a23-b64f-f4f2f13bbd32&quot;,&quot;hutk&quot;:&quot;b50c5037e58794b963e65e8c34ea57db&quot;,&quot;useRecaptchaEnterprise&quot;:true}">
+                             value="{&quot;rumScriptExecuteTime&quot;:1171.5,&quot;rumServiceResponseTime&quot;:1820.8999999985099,&quot;rumFormRenderTime&quot;:3.8000000044703484,&quot;rumTotalRenderTime&quot;:1830.8999999985099,&quot;rumTotalRequestTime&quot;:647.3000000044703,&quot;lang&quot;:&quot;en&quot;,&quot;legalConsentOptions&quot;:&quot;{\&quot;legitimateInterestSubscriptionTypes\&quot;:[5275298,5269082],\&quot;communicationConsentCheckboxes\&quot;:[{\&quot;communicationTypeId\&quot;:5269082,\&quot;label\&quot;:\&quot;Accetto di ricevere altre comunicazioni da Talent Garden.\&quot;,\&quot;required\&quot;:false}],\&quot;legitimateInterestLegalBasis\&quot;:\&quot;LEGITIMATE_INTEREST_PQL\&quot;,\&quot;communicationConsentText\&quot;:\&quot;Talent Garden si impegna a proteggere e rispettare la privacy degli utenti: le informazioni personali raccolte vengono utilizzate solo per amministrare gli account e fornire i prodotti e servizi richiesti. Gli utenti potrebbero essere contatti con suggerimenti su prodotti, servizi o altri contenuti che a nostro giudizio potrebbero interessare loro. Se si desidera essere contattati a questo scopo, selezionare una delle seguenti modalità di contatto:\&quot;,\&quot;processingConsentType\&quot;:\&quot;IMPLICIT\&quot;,\&quot;processingConsentText\&quot;:\&quot;Per fornirti il contenuto richiesto dobbiamo poter archiviare e utilizzare i tuoi dati personali. Se ci consenti di archiviare i tuoi dati a questo scopo, seleziona la casella di controllo qui sotto.\&quot;,\&quot;processingConsentCheckboxLabel\&quot;:\&quot;Consento a Talent Garden di archiviare e elaborare i miei dati personali.\&quot;,\&quot;privacyPolicyText\&quot;:\&quot;<p>I have read and agree to the <a href=\\\&quot;#\\\&quot; rel=\\\&quot;noopener\\\&quot; target=\\\&quot;_blank\\\&quot;>Privacy Policy</a> of&amp;nbsp;Talent Garden S.p.A.</p>\&quot;,\&quot;isLegitimateInterest\&quot;:true}&quot;,&quot;renderRawHtml&quot;:&quot;true&quot;,&quot;embedAtTimestamp&quot;:&quot;1628488547414&quot;,&quot;formDefinitionUpdatedAt&quot;:&quot;1605808202299&quot;,&quot;pageUrl&quot;:&quot;&quot;,&quot;pageTitle&quot;:&quot;Talent Garden Turin Fondazione Agnelli | Coworking for Freelancers &amp; Startups | Talent Garden&quot;,&quot;source&quot;:&quot;FormsNext-static-5.349&quot;,&quot;timestamp&quot;:1628488547414,&quot;userAgent&quot;:&quot;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36&quot;,&quot;referrer&quot;:&quot;$quot;,&quot;originalEmbedContext&quot;:{&quot;portalId&quot;:&quot;4808925&quot;,&quot;formId&quot;:&quot;48c3cd2a-1c19-40e7-a7e0-eabfda358bc3&quot;,&quot;target&quot;:&quot;#hbspt-form-1628488572252-9337670783&quot;,&quot;hutk&quot;:&quot;b50c5037e58794b963e65e8c34ea57db&quot;},&quot;boolCheckBoxFields&quot;:&quot;newsletter_optin&quot;,&quot;redirectUrl&quot;:&quot;https://talentgarden.org/en/thank-you-page-coworking-italy-torinofondazioneagnelli&quot;,&quot;formTarget&quot;:&quot;#hbspt-form-1628488572252-9337670783&quot;,&quot;correlationId&quot;:&quot;5de8b866-54be-4a23-b64f-f4f2f13bbd32&quot;,&quot;hutk&quot;:&quot;b50c5037e58794b963e65e8c34ea57db&quot;,&quot;useRecaptchaEnterprise&quot;:true}">
                       <iframe data-gtm-yt-inspected-11809038_69="true" data-reactid=".hbspt-forms-0.8"
                               name="target_iframe_48c3cd2a-1c19-40e7-a7e0-eabfda358bc3" style="display:none;"></iframe>
                     </form>
@@ -1228,7 +1229,7 @@
                     </a></div>
                     <div class="swiper-slide swiper-slide-next" style="width: 255px; margin-right: 30px;"><a
                         class="h-100 d-flex flex-column smooth bg-white"
-                        href="https://talentgarden.org/italy/lazienda-che-ho-sempre-voluto-la-storia-di-barbara-vecchi/"
+                        href="#"
                         target="_blank">
                       <figure class="mb-0 d-flex justify-content-center align-items-center bg-white">
                         <div class="effect-img"><img alt=""
@@ -1247,7 +1248,7 @@
                     </a></div>
                     <div class="swiper-slide" style="width: 255px; margin-right: 30px;"><a
                         class="h-100 d-flex flex-column smooth bg-white"
-                        href="https://talentgarden.org/italy/startup-it/weschool-la-scuola-diventa-digitale/"
+                        href="#"
                         target="_blank">
                       <figure class="mb-0 d-flex justify-content-center align-items-center bg-white">
                         <div class="effect-img"><img alt=""
@@ -1266,7 +1267,7 @@
                     </a></div>
                     <div class="swiper-slide" style="width: 255px; margin-right: 30px;"><a
                         class="h-100 d-flex flex-column smooth bg-white"
-                        href="https://talentgarden.org/italy/freelance-it/freelance-5-domande-per-costruire-propria-strada/"
+                        href="#"
                         target="_blank">
                       <figure class="mb-0 d-flex justify-content-center align-items-center bg-white">
                         <div class="effect-img"><img alt="Freelancer working"
@@ -1285,7 +1286,7 @@
                     </a></div>
                     <div class="swiper-slide" style="width: 255px; margin-right: 30px;"><a
                         class="h-100 d-flex flex-column smooth bg-white"
-                        href="https://talentgarden.org/italy/impact-report-torino-2020-ecosistema-innovazione-torino/"
+                        href="#"
                         target="_blank">
                       <figure class="mb-0 d-flex justify-content-center align-items-center bg-white">
                         <div class="effect-img"><img alt=""
@@ -1304,8 +1305,7 @@
                     </a></div>
                     <div class="swiper-slide" style="width: 255px; margin-right: 30px;"><a
                         class="h-100 d-flex flex-column smooth bg-white"
-                        href="https://talentgarden.org/it/italy/restorative-neurotechnologies-tecnologia-innovazione-per-neuro-riabilitazione/"
-                        target="_blank">
+                        href="" target="_blank">
                       <figure class="mb-0 d-flex justify-content-center align-items-center bg-white">
                         <div class="effect-img"><img alt=""
                                                      class="w-100"
@@ -1355,7 +1355,7 @@
               <div class="col-lg-7 col-md-7  mb-md-0 mb-4"><h3 class="white mb-0">Do you want to host an event inside
                 our campus?</h3></div>
               <div class="col-lg-4 col-md-4 ml-auto"><a class="btn btn-primary d-md-block text-center py-3 mx-auto"
-                                                        href="https://talentgarden.org/event-spaces/italy/turin-fondazione-agnelli/"
+                                                        href="#"
                                                         target="_self">Learn More</a></div>
             </div>
           </div>

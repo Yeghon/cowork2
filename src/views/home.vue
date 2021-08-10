@@ -26,15 +26,24 @@
         <div class="container">
           <div class="row mx-0">
             <ul class="bg-primary w-100 list-unstyled d-sm-flex justify-content-between text-center no-gutters">
-              <li class="d-sm-inline-block d-block col-sm-4"><a href="https://talentgarden.org/en/coworking/"
-                                                                class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
-                Become a member </a></li>
-              <li class="d-sm-inline-block d-block col-sm-4"><a href="https://talentgarden.org/en/innovation-school/"
-                                                                class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
-                Learn with us </a></li>
-              <li class="d-sm-inline-block d-block col-sm-4"><a href="https://talentgarden.org/en/corporate-program/"
-                                                                class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
-                Corporate programmes </a></li>
+              <li class="d-sm-inline-block d-block col-sm-4">
+                <router-link to="/coworking"
+                             class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
+                  Become a member
+                </router-link>
+              </li>
+              <li class="d-sm-inline-block d-block col-sm-4">
+                <router-link to="/innovation-school"
+                             class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
+                  Learn with us
+                </router-link>
+              </li>
+              <li class="d-sm-inline-block d-block col-sm-4">
+                <router-link to="/corporate"
+                             class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
+                  Corporate programmes
+                </router-link>
+              </li>
             </ul>
           </div>
         </div>
@@ -53,7 +62,8 @@ pl-lg-5		"><h2 class="mb-3">The place for explorers and innovators</h2>
               <p></p>
               <p><span style="font-weight: 400;">Talent Garden offers an unprecedented combination of creative coworking campuses, an internal educational institution and industry-driven events to connect tech talents. Our mission is to create local, vibrant, globally connected campuses that empower digital and tech communities.</span>
               </p>
-              <p></p> <a class="btn btn-primary mt-3" href="https://talentgarden.org/about" target="_self">Learn More</a>
+              <p></p>
+              <router-link class="btn btn-primary mt-3" target="_self" to="/about">Learn More</router-link>
             </div>
           </div>
         </div>
@@ -63,22 +73,31 @@ pl-lg-5		"><h2 class="mb-3">The place for explorers and innovators</h2>
               <div class="col-lg-4 mb-lg-0 mb-5 flex-column d-flex"><h2 class="mb-4">Coworking Space</h2>
                 <div class="text-editor"><p><span style="font-weight: 400;">We host over 4,500 innovators inside the network of campuses across Europe. These campuses are a base for ideas and collaborations to thrive among our community of startups, agencies, corporate labs, freelancers, investors, media companies and students, who are all united by a like-minded vision for digital innovation.</span>
                 </p></div>
-                <div class="d-block mt-auto"><a class="btn btn-primary mt-4" href="https://talentgarden.org/coworking"
-                                                target="_self">Become a member</a></div>
+                <div class="d-block mt-auto">
+                  <router-link class="btn btn-primary mt-4" target="_self"
+                               to="/coworking">Become a member
+                  </router-link>
+                </div>
               </div>
               <div class="col-lg-4 mb-lg-0 mb-5 flex-column d-flex"><h2 class="mb-4">Innovation School</h2>
                 <div class="text-editor"><p><span style="font-weight: 400;">Our innovative educational institute uses a disruptive learning approach that puts people at the centre through a cutting-edge training methodology. We deliver in-depth courses and training programs for both individuals and companies, focusing on five key areas: coding, data, marketing, design and business.</span>
                 </p></div>
-                <div class="d-block mt-auto"><a class="btn btn-primary mt-4"
-                                                href="https://talentgarden.org/innovation-school" target="_self">Learn
-                  with us</a></div>
+                <div class="d-block mt-auto">
+                  <router-link class="btn btn-primary mt-4"
+                               target="_self" to="/innovation-school">Learn
+                    with us
+                  </router-link>
+                </div>
               </div>
               <div class="col-lg-4 mb-lg-0 mb-5 flex-column d-flex"><h2 class="mb-4">Corporate Programmes</h2>
                 <div class="text-editor"><p><span style="font-weight: 400;">Innovation is a key element of corporate growth and requires the right combination of people, processes and technologies. Talent Garden supports corporates and SMEs by analysing their business needs and devising ad-hoc projects to help them embrace the opportunities offered by digital technologies to reach their full potential.</span>
                 </p></div>
-                <div class="d-block mt-auto"><a class="btn btn-primary mt-4"
-                                                href="https://talentgarden.org/corporate-program/" target="_self">Transform
-                  your business</a></div>
+                <div class="d-block mt-auto">
+                  <router-link class="btn btn-primary mt-4"
+                               target="_self" to="/corporate-program">Transform
+                    your business
+                  </router-link>
+                </div>
               </div>
             </div>
           </div>
@@ -151,7 +170,7 @@ pl-lg-5		"><h2 class="mb-3">The place for explorers and innovators</h2>
             <div class="col-12 mb-5"><h2>Agenda</h2></div>
             <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenDenmark  ">
               <div class="bg-white d-block event bg-white h-100 w-100"><a
-                  href="https://talentgarden.org/en/event/event-space-open-house/" class="bg-white d-block post">
+                  class="bg-white d-block post" href="#">
                 <div class="effect-img position-relative"
                      style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/12668410_image.png'); height:200px; background-size: cover;">
                   <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span
@@ -171,7 +190,7 @@ pl-lg-5		"><h2 class="mb-3">The place for explorers and innovators</h2>
             </div>
             <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenMadrid   other">
               <div class="bg-white d-block event bg-white h-100 w-100"><a
-                  href="https://talentgarden.org/en/event/meet-us-virtual-15/" class="bg-white d-block post">
+                  class="bg-white d-block post" href="#">
                 <div class="effect-img position-relative"
                      style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/12665174_image.png'); height:200px; background-size: cover;">
                   <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span
@@ -192,7 +211,7 @@ pl-lg-5		"><h2 class="mb-3">The place for explorers and innovators</h2>
             </div>
             <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenMadrid   other">
               <div class="bg-white d-block event bg-white h-100 w-100"><a
-                  href="https://talentgarden.org/en/event/meet-us-virtual-16/" class="bg-white d-block post">
+                  class="bg-white d-block post" href="#">
                 <div class="effect-img position-relative"
                      style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/12665174_image.png'); height:200px; background-size: cover;">
                   <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span

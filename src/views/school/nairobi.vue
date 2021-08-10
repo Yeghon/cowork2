@@ -7,18 +7,20 @@
           <div class="col-lg-5 order-lg-2 pt-4">
             <div class="max-text mx-auto">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                                     typeof="WebPage"
-                                                                                                     title="Go to Talent Garden."
-                                                                                                     href="https://talentgarden.org/en"
-                                                                                                     class="home"><span
-                  property="name">Home</span></a><meta property="position" content="1"></span><span
-                  class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                             typeof="WebPage"
-                                                                                             title="Go to Innovation School."
-                                                                                             href="https://talentgarden.org/en/innovation-school/"
-                                                                                             class="courses-root post post-courses"><span
-                  property="name">Innovation School</span></a><meta property="position" content="2"></span><span
+                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
+                  property="item"
+                  typeof="WebPage"
+                  title="Go to Talent Garden."
+                  to="/"
+                  class="home"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
+                  class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><router-link property="item"
+                                                                                                       typeof="WebPage"
+                                                                                                       title="Go to Innovation School."
+                                                                                                       to="/innovation-school"
+                                                                                                       class="courses-root post post-courses"><span
+                  property="name">Innovation School</span></router-link><meta content="2"
+                                                                              property="position"></span><span
                   class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><span
                   property="name">Italy</span><meta property="position" content="3"></span></nav>
               <div class="line"></div>
@@ -66,7 +68,7 @@
             </form>
             <div class="mt-5 container-filter" id="MixItUp8E8326">
               <div class="mix  italy  part-time  calabiana-milan-innovation-school  italian  business"><a
-                  href="https://talentgarden.org/en/innovation-school/italy/digital-transformation-master/nairobi.vue"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -86,7 +88,7 @@
                 </div>
               </a></div>
               <div class="mix  italy   roma  italian "><a
-                  href="https://talentgarden.org/en/innovation-school/italy/data-drive-business-transformation/nairobi.vue"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
@@ -105,7 +107,7 @@
                 </div>
               </a></div>
               <div class="mix  italy   milano-luiss-hub  italian "><a
-                  href="https://talentgarden.org/en/innovation-school/italy/digital-business-strategy-major/nairobi.vue"
+                  href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">

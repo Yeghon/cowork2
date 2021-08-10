@@ -7,12 +7,13 @@
           <div class="row mb-5">
             <div class="col-lg-12">
               <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><a property="item"
-                                                                                                     typeof="WebPage"
-                                                                                                     title="Go to Talent Garden."
-                                                                                                     href="https://talentgarden.org/en"
-                                                                                                     class="home"><span
-                  property="name">Home</span></a><meta property="position" content="1"></span><span
+                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
+                  property="item"
+                  typeof="WebPage"
+                  title="Go to Talent Garden."
+                  to="/"
+                  class="home"><span
+                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
                   class="mx-1">/</span><span class="post post-page current-item">Agenda</span></nav>
               <div class="line d-block mb-5"></div>
             </div>
@@ -45,7 +46,7 @@
             <div class="mt-5 container-filter row" id="MixItUpDD01FA">
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenDenmark  ">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/event-space-open-house/" class="bg-white d-block post">
+                    class="bg-white d-block post" href="#">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/12668410_image.png'); height:200px; background-size: cover;">
                     <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span
@@ -65,7 +66,7 @@
               </div>
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenMadrid   other">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/meet-us-virtual-15/" class="bg-white d-block post">
+                    class="bg-white d-block post" href="#">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/12665174_image.png'); height:200px; background-size: cover;">
                     <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span
@@ -86,7 +87,7 @@
               </div>
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenMadrid   other">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/meet-us-virtual-16/" class="bg-white d-block post">
+                    class="bg-white d-block post" href="#">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/12665174_image.png'); height:200px; background-size: cover;">
                     <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span
@@ -107,7 +108,7 @@
               </div>
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenMadrid   other">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/meet-us-virtual-17/" class="bg-white d-block post">
+                    class="bg-white d-block post" href="#">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/05/12665174_image.png'); height:200px; background-size: cover;">
                     <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span
@@ -128,7 +129,7 @@
               </div>
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGarden  ">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/scholarship-challenge-talent-garden-innovation-school/"
+                    href="#"
                     class="bg-white d-block post">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/12668679_image.png'); height:200px; background-size: cover;">
@@ -147,7 +148,7 @@
               </div>
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenItalia  ">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/scholarship-challenge-digital-marketing-essentials/"
+                    href="#"
                     class="bg-white d-block post">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/12670470_image.png'); height:200px; background-size: cover;">
@@ -166,7 +167,7 @@
               </div>
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenAustria  ">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/talent-days/" class="bg-white d-block post">
+                    class="bg-white d-block post" href="#">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/12668687_image.png'); height:200px; background-size: cover;">
                     <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span
@@ -184,7 +185,7 @@
               </div>
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGarden  ">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/how-to-break-through-the-noise-lead-generation-2-0-with-vasco-duarte/"
+                    href="#"
                     class="bg-white d-block post">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/08/12671131_image.png'); height:200px; background-size: cover;">
@@ -203,7 +204,7 @@
               </div>
               <div class="col-lg-4 col-sm-6 mb-4 mix TalentGardenItalia  ">
                 <div class="bg-white d-block event bg-white h-100 w-100"><a
-                    href="https://talentgarden.org/en/event/challenge-day-mumwork/" class="bg-white d-block post">
+                    class="bg-white d-block post" href="#">
                   <div class="effect-img position-relative"
                        style="background-image: url('https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/12670472_image.png'); height:200px; background-size: cover;">
                     <div class="date px-4 pt-3 pb-2 text-center bg-primary"><span
