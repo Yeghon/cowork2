@@ -32,24 +32,9 @@ const router = new VueRouter({
             component: () => import('@/views/corporates')
         },
         {
-            path: '/blog',
-            name: 'blog',
-            component: () => import('@/views/blog')
-        },
-        {
-            path: '/guides',
-            name: 'guides',
-            component: () => import('@/views/Guides')
-        },
-        {
             path: '/event-spaces',
             name: 'event-spaces',
             component: () => import('@/views/EventSpaces'),
-        },
-        {
-            path: '/agenda',
-            name: 'agenda',
-            component: () => import('@/views/Agenda')
         },
         {
             path: '/innovation-school',
@@ -57,14 +42,14 @@ const router = new VueRouter({
             component: () => import('@/views/InnovationSchool')
         },
         {
-            path: '/school/online',
-            name: 'online-school',
-            component: () => import('@/views/school/online')
+            path: '/school/campus',
+            name: 'campus-school',
+            component: () => import('@/views/school/LearnInCampus')
         },
         {
-            path: '/school/nairobi',
-            name: 'denmark-school',
-            component: () => import('@/views/school/nairobi')
+            path: '/school/online',
+            name: 'online-school',
+            component: () => import('@/views/school/LearnOnline')
         },
         {
             path: '/coworking/single',
