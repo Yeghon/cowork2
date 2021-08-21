@@ -31,9 +31,9 @@
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/innovation-school">School</router-link>
+                <router-link to="/innovation-school">Campus</router-link>
                 <ul class="sub-menu">
-                  <li id="menu-item-12651403"
+                  <li style="color: limegreen" id="menu-item-12651403"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
                     <a>Learn online</a>
                     <ul class="sub-menu">
@@ -61,7 +61,7 @@
               </li>
               <li v-else id="menu-item-25"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/innovation-school">School</router-link>
+                <router-link to="/innovation-school">Campus</router-link>
                 <ul class="sub-menu">
                   <li id="menu-item-12651403"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
@@ -117,33 +117,33 @@
                 </router-link>
               </li>
 
-              <li v-if="$route.name === 'agenda'" id="menu-item-579"
-                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579 current-menu-item">
-                <router-link
-                    to="/agenda">Agenda
-                </router-link>
-              </li>
+              <!--              <li v-if="$route.name === 'agenda'" id="menu-item-579"-->
+              <!--                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579 current-menu-item">-->
+              <!--                <router-link-->
+              <!--                    to="/agenda">Agenda-->
+              <!--                </router-link>-->
+              <!--              </li>-->
 
-              <li v-else id="menu-item-579"
-                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579">
-                <router-link
-                    to="/agenda">Agenda
-                </router-link>
-              </li>
+              <!--              <li v-else id="menu-item-579"-->
+              <!--                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579">-->
+              <!--                <router-link-->
+              <!--                    to="/agenda">Agenda-->
+              <!--                </router-link>-->
+              <!--              </li>-->
 
-              <li v-if="$route.name === 'guides'" id="menu-item-12665441"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441 current-menu-item">
-                <router-link
-                    to="/guides">Guides
-                </router-link>
-              </li>
+              <!--              <li v-if="$route.name === 'guides'" id="menu-item-12665441"-->
+              <!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441 current-menu-item">-->
+              <!--                <router-link-->
+              <!--                    to="/guides">Guides-->
+              <!--                </router-link>-->
+              <!--              </li>-->
 
-              <li v-else id="menu-item-12665441"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441">
-                <router-link
-                    to="/guides">Guides
-                </router-link>
-              </li>
+              <!--              <li v-else id="menu-item-12665441"-->
+              <!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665441">-->
+              <!--                <router-link-->
+              <!--                    to="/guides">Guides-->
+              <!--                </router-link>-->
+              <!--              </li>-->
 
               <li v-if="$route.name === 'about'" id="menu-item-21"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21 current-menu-item">
@@ -159,19 +159,19 @@
                 </router-link>
               </li>
 
-              <li v-if="$route.name === 'blog'" id="menu-item-519"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519 current-menu-item">
-                <router-link
-                    to="/blog">Blog
-                </router-link>
-              </li>
+              <!--              <li v-if="$route.name === 'blog'" id="menu-item-519"-->
+              <!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519 current-menu-item">-->
+              <!--                <router-link-->
+              <!--                    to="/blog">Blog-->
+              <!--                </router-link>-->
+              <!--              </li>-->
 
-              <li v-else id="menu-item-519"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
-                <router-link
-                    to="/blog">Blog
-                </router-link>
-              </li>
+              <!--              <li v-else id="menu-item-519"-->
+              <!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">-->
+              <!--                <router-link-->
+              <!--                    to="/blog">Blog-->
+              <!--                </router-link>-->
+              <!--              </li>-->
             </ul>
           </div>
           <div class="d-lg-none d-block text-left mt-5">

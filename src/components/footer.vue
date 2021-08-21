@@ -20,17 +20,17 @@
               </li>
               <li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a
                   href="/about">About</a></li>
-              <li id="menu-item-12648110"
-                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12648110"><a
-                  href="#">Give&amp;Take</a></li>
-              <li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a
-                  to="/blog">Blog</a></li>
-              <li id="menu-item-12657419"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12657419"><a
-                  href="#">Faq</a></li>
-              <li id="menu-item-12645836"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12645836"><a
-                  href="#">Careers</a></li>
+<!--              <li id="menu-item-12648110"-->
+<!--                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12648110"><a-->
+<!--                  href="#">Give&amp;Take</a></li>-->
+<!--              <li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a-->
+<!--                  to="/blog">Blog</a></li>-->
+<!--              <li id="menu-item-12657419"-->
+<!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12657419"><a-->
+<!--                  href="#">Faq</a></li>-->
+<!--              <li id="menu-item-12645836"-->
+<!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12645836"><a-->
+<!--                  href="#">Careers</a></li>-->
             </ul>
           </div>
         </div>
@@ -72,9 +72,9 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-sm-6 col-12 mt-5"><a class="collapse-campus mb-3 d-inline-block" data-toggle="collapse"
-                                                      href="#collapseMenu" role="button" aria-expanded="false"
-                                                      aria-controls="collapseMenu">All campuses</a></div>
+<!--        <div class="col-lg-3 col-sm-6 col-12 mt-5"><a class="collapse-campus mb-3 d-inline-block" data-toggle="collapse"-->
+<!--                                                      href="#collapseMenu" role="button" aria-expanded="false"-->
+<!--                                                      aria-controls="collapseMenu">All campuses</a></div>-->
       </div>
     </div>
     <div style="background: #2b2b2b">

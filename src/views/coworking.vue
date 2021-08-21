@@ -18,8 +18,11 @@
               <div class="line d-block mb-5"></div>
             </div>
             <div class="col-md-9"><h1 class="mb-4">Your Workplace, Meeting Place, Community &amp; Inspiration.</h1><h4>
-              Whether you’re a solo entrepreneur, a growing startup or an established enterprise, discover a workplace
-              that will empower your business.</h4></div>
+              Welcome to the garden of innovation,
+              A green eco ecosystem to work like no other. <br>
+              We equip you with skills and technologies to build the next generation of  innovations.<br>
+              Welcome to our community and be part of the next generation of <b>DIGITAL</b> leaders
+            </h4></div>
           </div>
         </div>
       </div>
