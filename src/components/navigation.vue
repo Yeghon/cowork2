@@ -24,159 +24,22 @@
               <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
                 <router-link to="/coworking">Coworking</router-link>
-                <ul class="sub-menu">
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651408"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
-                        <router-link
-                            to="#">Coworking
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-12651404"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
-                        <router-link
-                            to="#">Private Office
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-12651404"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
-                        <router-link
-                            to="#">Meeting Room
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-12651404"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
-                        <router-link
-                            to="#">Other
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
+                <coworking-sub-menu/>
               </li>
               <li v-else id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
                 <router-link to="/coworking">Coworking</router-link>
-                <ul class="sub-menu">
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651408"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
-                        <router-link
-                            to="#">Coworking
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-12651404"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
-                        <router-link
-                            to="#">Private Office
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-12651404"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
-                        <router-link
-                            to="#">Meeting Room
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-12651404"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
-                        <router-link
-                            to="#">Other
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
+                <coworking-sub-menu/>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
                 <router-link to="/innovation-school">Campus</router-link>
-                <ul class="sub-menu">
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
-                    <!--                    <a style="color: limegreen" >Learn in Campus</a>-->
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651408"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
-                        <router-link
-                            to="/school/campus">Learn In Campus
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-12651404"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <!--                    <a style="color: limegreen">Learn in campus</a>-->
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
-                        <router-link
-                            to="/school/online">Learn Online
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
+                <SchoolSubMenu/>
               </li>
               <li v-else id="menu-item-25"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
                 <router-link to="/innovation-school">Campus</router-link>
-                <ul class="sub-menu">
-                  <li id="menu-item-12651403"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
-                    <!--                    <a style="color: limegreen">Learn in Campus</a>-->
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651408"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
-                        <router-link
-                            to="/school/campus">Learn In Campus
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li id="menu-item-12651404"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <!--                    <a style="color: limegreen">Learn in campus</a>-->
-                    <ul class="sub-menu">
-                      <li id="menu-item-12651405"
-                          class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
-                        <router-link
-                            to="/school/online">Learn Online
-                        </router-link>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
+                <SchoolSubMenu/>
               </li>
 
               <li v-if="$route.name === 'corporates'" id="menu-item-24"
@@ -289,8 +152,10 @@
 </template>
 
 <script>
+import CoworkingSubMenu from "@/views/coworking/CoworkingSubMenu";
+import SchoolSubMenu from "@/views/school/SchoolSubMenu";
 export default {
   name: 'navigation',
-
+  components: {SchoolSubMenu, CoworkingSubMenu},
 }
 </script>
