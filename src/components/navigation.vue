@@ -33,26 +33,25 @@
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
                 <router-link to="/innovation-school">Campus</router-link>
                 <ul class="sub-menu">
-                  <li style="color: limegreen" id="menu-item-12651403"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
-                    <a>Learn online</a>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
+<!--                    <a style="color: limegreen" >Learn in Campus</a>-->
                     <ul class="sub-menu">
                       <li id="menu-item-12651408"
                           class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
                         <router-link
-                            to="/school/online">Online
+                            to="/school/online">Learn In Campus
                         </router-link>
                       </li>
                     </ul>
                   </li>
                   <li id="menu-item-12651404"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <a style="color: limegreen">Learn in campus</a>
+<!--                    <a style="color: limegreen">Learn in campus</a>-->
                     <ul class="sub-menu">
                       <li id="menu-item-12651405"
                           class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
                         <router-link
-                            to="#">Nairobi
+                            to="#">Learn Online
                         </router-link>
                       </li>
                     </ul>
@@ -65,24 +64,24 @@
                 <ul class="sub-menu">
                   <li id="menu-item-12651403"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
-                    <a style="color: limegreen">Learn online</a>
+<!--                    <a style="color: limegreen">Learn in Campus</a>-->
                     <ul class="sub-menu">
                       <li id="menu-item-12651408"
                           class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
                         <router-link
-                            to="/school/online">Online
+                            to="/school/online">Learn In Campus
                         </router-link>
                       </li>
                     </ul>
                   </li>
                   <li id="menu-item-12651404"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651404">
-                    <a style="color: limegreen">Learn in campus</a>
+<!--                    <a style="color: limegreen">Learn in campus</a>-->
                     <ul class="sub-menu">
                       <li id="menu-item-12651405"
                           class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
                         <router-link
-                            to="/school/nairobi/">Nairobi
+                            to="/school/nairobi/">Learn Online
                         </router-link>
                       </li>
                     </ul>
