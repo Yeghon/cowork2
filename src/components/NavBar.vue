@@ -4,7 +4,7 @@
       <div class="row align-items-center">
         <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
           <router-link class="ml-3 logo" to="/"><img
-              src="/public/images/deflogo.jpeg"
+              src="../../public/images/deflogo.jpeg"
               alt="Talent Garden" height="65px"></router-link>
         </div>
         <div class="d-lg-none d-block ml-auto pr-4">

@@ -3,9 +3,8 @@
     <div class="container">
       <div class="row pt-3 pb-3">
         <div class="col-lg-3 col-md-4 col-12 mb-md-0 mb-5">
-          <router-link itemprop="url" to="/"><img
-              src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/tag_white.png"
-              alt="Talent Garden Logo" class="logo-footer" height="80" itemprop="logo"></router-link>
+          <router-link itemprop="url" to="/"><img src="../../public/images/deflogo.jpeg"
+               class="logo-footer" height="80" itemprop="logo"></router-link>
         </div>
         <div class="col-lg-3 col-md-5 col-6"><h5 class="white text-uppercase font-size-12 font-weight-bold lett-space-1"
                                                  itemprop="name">Nairobi Business Park</h5>
@@ -20,17 +19,6 @@
               </li>
               <li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a
                   href="/about">About</a></li>
-<!--              <li id="menu-item-12648110"-->
-<!--                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12648110"><a-->
-<!--                  href="#">Give&amp;Take</a></li>-->
-<!--              <li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a-->
-<!--                  to="/blog">Blog</a></li>-->
-<!--              <li id="menu-item-12657419"-->
-<!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12657419"><a-->
-<!--                  href="#">Faq</a></li>-->
-<!--              <li id="menu-item-12645836"-->
-<!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12645836"><a-->
-<!--                  href="#">Careers</a></li>-->
             </ul>
           </div>
         </div>
@@ -72,9 +60,6 @@
             </div>
           </div>
         </div>
-<!--        <div class="col-lg-3 col-sm-6 col-12 mt-5"><a class="collapse-campus mb-3 d-inline-block" data-toggle="collapse"-->
-<!--                                                      href="#collapseMenu" role="button" aria-expanded="false"-->
-<!--                                                      aria-controls="collapseMenu">All campuses</a></div>-->
       </div>
     </div>
     <div style="background: #2b2b2b">
