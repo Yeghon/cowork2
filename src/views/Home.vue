@@ -15,36 +15,13 @@
         </div>
         <div class="hover d-flex align-items-center">
           <div class="container">
-            <div class="content-text p-sm-5 p-4"><h1 class="lubalin mb-4">We create <span>campuses</span> to empower
-              digital and tech communities by connecting them globally</h1>
-              <p class="font-size-14 text-uppercase lett-space-1 font-weight-bold mb-0">Join the biggest community of
-                digital and tech professionals in Europe.</p></div>
-          </div>
-        </div>
-      </div>
-      <div class="menu-select">
-        <div class="container">
-          <div class="row mx-0">
-            <ul class="bg-primary w-100 list-unstyled d-sm-flex justify-content-between text-center no-gutters">
-              <li class="d-sm-inline-block d-block col-sm-4">
-                <router-link to="/coworking"
-                             class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
-                  Become a member
-                </router-link>
-              </li>
-              <li class="d-sm-inline-block d-block col-sm-4">
-                <router-link to="/innovation-school"
-                             class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
-                  Learn with us
-                </router-link>
-              </li>
-              <li class="d-sm-inline-block d-block col-sm-4">
-                <router-link to="/corporate"
-                             class="btn btn-primary text-uppercase py-sm-4 py-3 white d-block font-weight-bold lett-space-1 font-size-13">
-                  Corporate programmes
-                </router-link>
-              </li>
-            </ul>
+            <div class="content-text p-sm-5 p-4"><h3 class="lubalin mb-4">Welcome to the <span style="color: limegreen">garden</span>
+              of innovation,
+              A green eco ecosystem to work like no other,
+              We equip you with skills and technologies to build the next generation of innovations.
+              Welcome to our community and be part of the next generation DIGITAL leaders
+            </h3>
+            </div>
           </div>
         </div>
       </div>
@@ -58,12 +35,14 @@
                       allowfullscreen="" data-gtm-yt-inspected-11809038_69="true"></iframe>
             </div>
             <div class="col-lg-5  mt-lg-0 mt-5 text-editor
-pl-lg-5		"><h2 class="mb-3">The place for explorers and innovators</h2>
+pl-lg-5		"><h2 class="mb-3">What makes us unique</h2>
               <p></p>
-              <p><span style="font-weight: 400;">Talent Garden offers an unprecedented combination of creative coworking campuses, an internal educational institution and industry-driven events to connect tech talents. Our mission is to create local, vibrant, globally connected campuses that empower digital and tech communities.</span>
+              <p><span style="font-weight: 400;">Work within the greenest space in nairobi.<br>
+                Excellent outdoor gazebos.<br>
+                The space is set to give you clean, quiet and wellness centered co-working and training space.</span>
               </p>
               <p></p>
-              <router-link class="btn btn-primary mt-3" target="_self" to="/about">Learn More</router-link>
+              <router-link class="btn btn-primary mt-3" target="_self" to="#">Learn More</router-link>
             </div>
           </div>
         </div>
@@ -241,9 +220,9 @@ pl-lg-5		"><h2 class="mb-3">The place for explorers and innovators</h2>
 </template>
 
 <script>
-import navigation from "@/components/navigation";
-import Footer from "@/components/footer";
-import Newsletter from "@/components/newsletter";
+import navigation from "@/components/NavBar";
+import Footer from "@/components/Footer";
+import Newsletter from "@/components/NewsLetter";
 
 export default {
   name: 'home',

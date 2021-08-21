@@ -122,9 +122,9 @@ order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Connecting with tech giants</h2>
 </template>
 
 <script>
-import Navigation from "@/components/navigation";
-import Footer from "@/components/footer";
-import Newsletter from "@/components/newsletter";
+import Navigation from "@/components/NavBar";
+import Footer from "@/components/Footer";
+import Newsletter from "@/components/NewsLetter";
 
 export default {
   name: "about",

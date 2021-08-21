@@ -7,19 +7,19 @@ const router = new VueRouter({
     mode: 'history',
     base: '/',
     scrollBehavior() {
-        return { x: 0, y: 0 }
+        return {x: 0, y: 0}
     },
     linkActiveClass: 'current-menu-item',
     routes: [
         {
             path: '/',
             name: 'home',
-            component: () => import('@/views/home')
+            component: () => import('@/views/Home')
         },
         {
             path: '/about',
             name: 'about',
-            component: () => import('@/views/about'),
+            component: () => import('@/views/AboutUs'),
         },
         {
             path: '/coworking',
@@ -29,7 +29,7 @@ const router = new VueRouter({
         {
             path: '/corporates',
             name: 'corporates',
-            component: () => import('@/views/corporates')
+            component: () => import('@/views/Corporates')
         },
         {
             path: '/event-spaces',
@@ -54,7 +54,22 @@ const router = new VueRouter({
         {
             path: '/coworking/single',
             name: 'coworking-single-page',
-            component: () => import('@/views/coworking/single')
+            component: () => import('@/views/coworking/Single')
+        },
+        {
+            path: '/coworking/subcoworking',
+            name: 'sub-coworking-single-page',
+            component: () => import('@/views/coworking/Coworking')
+        },
+        {
+            path: '/coworking/meetingroom',
+            name: 'meeting-room',
+            component: () => import('@/views/coworking/MeetingRoom')
+        },
+        {
+            path: '/coworking/privateoffice',
+            name: 'private-office',
+            component: () => import('@/views/coworking/PrivateOffice')
         }
     ],
 })

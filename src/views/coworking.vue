@@ -952,9 +952,9 @@
 </template>
 
 <script>
-import Navigation from "@/components/navigation";
-import Footer from "@/components/footer";
-import Newsletter from "@/components/newsletter";
+import Navigation from "@/components/NavBar";
+import Footer from "@/components/Footer";
+import Newsletter from "@/components/NewsLetter";
 
 export default {
   name: "coworking",

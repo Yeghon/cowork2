@@ -5,7 +5,7 @@
         <li id="menu-item-12651408"
             class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651408">
           <router-link
-              to="#">Coworking
+              to="/coworking/subcoworking">Coworking
           </router-link>
         </li>
       </ul>
@@ -16,7 +16,7 @@
         <li id="menu-item-12651405"
             class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
           <router-link
-              to="#">Private Office
+              to="/coworking/privateoffice">Private Office
           </router-link>
         </li>
       </ul>
@@ -27,7 +27,7 @@
         <li id="menu-item-12651405"
             class="menu-item menu-item-type-taxonomy menu-item-object-courses_tax menu-item-12651405">
           <router-link
-              to="#">Meeting Room
+              to="/coworking/meetingroom">Meeting Room
           </router-link>
         </li>
       </ul>

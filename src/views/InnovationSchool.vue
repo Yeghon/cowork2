@@ -801,9 +801,9 @@
 </template>
 
 <script>
-import Navigation from "@/components/navigation";
-import Newsletter from "@/components/newsletter";
-import Footer from "@/components/footer";
+import Navigation from "@/components/NavBar";
+import Newsletter from "@/components/NewsLetter";
+import Footer from "@/components/Footer";
 
 export default {
   name: "InnovationSchool",
