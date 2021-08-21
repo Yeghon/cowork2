@@ -6,15 +6,14 @@
            style="background-image: url(https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intro-home.jpg)">
         <div class="video">
           <div class="embed-responsive embed-responsive-16by9 overlay-img">
-            <iframe id="ytplayer" frameborder="0" allowfullscreen="1"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    title="YouTube video player" width="1280" height="720"
-                    src="https://www.youtube.com/embed/q47Cuj_xJs0?playlist=q47Cuj_xJs0&amp;autoplay=1&amp;autohide=0&amp;disablekb=1&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;loop=1&amp;fs=0&amp;rel=0&amp;mute=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Ftalentgarden.org&amp;widgetid=1"
-                    data-gtm-yt-inspected-11809038_69="true"></iframe>
+            <img alt=""
+                 class="w-100"
+                 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod.s3.amazonaws.com%2Fimages%2Fsmall-garden-ideas-1614032371.jpg%3Fcrop%3D0.668xw%3A1.00xh%3B0.332xw%2C0%26resize%3D640%3A*&f=1&nofb=1">
+
           </div>
         </div>
         <div class="hover d-flex align-items-center">
-          <div class="container">
+          <div style="align-items: center; align-content: center">
             <div class="content-text p-sm-5 p-4"><h3 class="lubalin mb-4">Welcome to the <span style="color: limegreen">garden</span>
               of innovation,
               A green eco ecosystem to work like no other,

@@ -4,7 +4,7 @@
       <div class="row align-items-center">
         <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
           <router-link class="ml-3 logo" to="/"><img
-              src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/tag-orange.svg"
+              src="/public/images/deflogo.jpeg"
               alt="Talent Garden" height="65px"></router-link>
         </div>
         <div class="d-lg-none d-block ml-auto pr-4">
@@ -23,22 +23,22 @@
             <ul id="menu-main-menu" class="menu">
               <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking">Coworking</router-link>
+                <router-link to="/coworking">Coworking v</router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-else id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking">Coworking</router-link>
+                <router-link to="/coworking">Coworking v</router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/innovation-school">Campus</router-link>
+                <router-link to="/innovation-school">Campus v</router-link>
                 <SchoolSubMenu/>
               </li>
               <li v-else id="menu-item-25"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/innovation-school">Campus</router-link>
+                <router-link to="/innovation-school">Campus v</router-link>
                 <SchoolSubMenu/>
               </li>
 
