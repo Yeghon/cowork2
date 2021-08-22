@@ -7,7 +7,7 @@
         <div class="video">
           <div class="embed-responsive embed-responsive-16by9 overlay-img">
             <img class="w-100 d-block"
-                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/01-talent-garden-innovation-school-online-900x720.jpg"
+                 src="../../../public/images/gazebo.jpeg"
                  alt="">
           </div>
         </div>

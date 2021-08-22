@@ -7,7 +7,7 @@
         <div class="video">
           <div class="embed-responsive embed-responsive-16by9 overlay-img">
             <img class="w-100 d-block"
-                 src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/01-talent-garden-innovation-school-online-900x720.jpg"
+                 src="../../../public/images/executive_boardroom1.jpeg"
                  alt="">
           </div>
         </div>
@@ -22,6 +22,16 @@
 <!--          <div class="d-block mt-3">-->
 <!--            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/coworking">Book a Space</router-link>-->
 <!--          </div>-->
+        </div>
+      </div>
+    </div>
+    <div id="header-video" class="position-relative w-100"
+         style="background-image: url(https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intro-home.jpg)">
+      <div class="video">
+        <div class="embed-responsive embed-responsive-16by9 overlay-img">
+          <img class="w-100 d-block"
+               src="../../../public/images/executive_boardroom1.jpeg"
+               alt="">
         </div>
       </div>
     </div>
