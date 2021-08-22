@@ -30,7 +30,7 @@
               courses</a></div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5"><img class="w-100 d-block"
-                                                                     src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/01-talent-garden-innovation-school-online-900x720.jpg"
+                                                                     src="../../../public/images/onlinelearning.jpeg"
                                                                      alt=""></div>
         </div>
       </div>

@@ -102,141 +102,141 @@
         </div>
       </div>
       <div class="wrapper-flex">
-        <div class="container block-text pb-5" id="row-0">
-          <div class="row align-items-center">
-            <div class="col-md-12"><h2 class="mb-5">Our clients</h2></div>
-            <div class="col-md-12">
-              <ul class="list-unstyled row logos justify-content-start">
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/a2a.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/acea.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/cisco.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/electrolux.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Logo_FCA.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/google-for-startup.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intesa-san-paolo.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/lavazza.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/peg.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/roche.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/sisal.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Logo_Terna.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/unicredit.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Theras-Logo.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-1.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-27.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-2.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-3.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-4.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-5.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-6.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-7.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-8.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-9.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-10.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-12.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-13.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-14.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-15.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-25.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-17.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-18.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-19.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-20.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-21.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-26.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-23.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-24.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/angelini.jpg"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-25.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-26.png"
-                    alt="" class="mx-auto"></li>
-                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img
-                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-27.png"
-                    alt="" class="mx-auto"></li>
-              </ul>
-            </div>
-          </div>
-        </div>
+<!--        <div class="container block-text pb-5" id="row-0">-->
+<!--          <div class="row align-items-center">-->
+<!--            <div class="col-md-12"><h2 class="mb-5">Our clients</h2></div>-->
+<!--            <div class="col-md-12">-->
+<!--              <ul class="list-unstyled row logos justify-content-start">-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/a2a.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/acea.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/cisco.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/electrolux.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Logo_FCA.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/google-for-startup.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intesa-san-paolo.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/lavazza.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/peg.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/roche.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/sisal.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Logo_Terna.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/unicredit.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Theras-Logo.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-1.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-27.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-2.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-3.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-4.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-5.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-6.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-7.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-8.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-9.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-10.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-12.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-13.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-14.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-15.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-25.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-17.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-18.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-19.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-20.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-21.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-26.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-23.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-24.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/angelini.jpg"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-25.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-26.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
+<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-27.png"-->
+<!--                    alt="" class="mx-auto"></li>-->
+<!--              </ul>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
         <div class="bg-light" id="row-5">
           <div class="container pt-3 pb-5">
             <div class="row">
@@ -249,27 +249,25 @@
                 <div class="effect-img"><img class="w-100"
                                              src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Smart-Working.jpg"
                                              alt=""></div>
-                <div class="card-body py-4"><h6 class="black">Smart Working</h6>
-                  <p class="text mb-0">For companies that want to give their employees the opportunity to do smart<br>
-                    working in an innovative space that stimulates new ideas and connections with talented
-                    professionals.</p></div>
+                <div class="card-body py-4"><h6 class="black">All talents  under one roof</h6></div>
               </div>
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
                                              src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Branded-Meeting-Room.jpg"
                                              alt=""></div>
-                <div class="card-body py-4"><h6 class="black">Branded Meeting Room</h6>
-                  <p class="text mb-0">An interactive space capable of adding value to business meetings with your
-                    partners and to convey the key message of your brand to the community. The meeting room can be
-                    reserved by the community online.</p></div>
+                <div class="card-body py-4"><h6 class="black">Speedy delivery of your project</h6></div>
               </div>
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
                                              src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Corporate-Space.jpg"
                                              alt=""></div>
-                <div class="card-body py-4"><h6 class="black">Corporate Space</h6>
-                  <p class="text mb-0">Choose between a dedicated private office from 4 up to 20 people or branded desks
-                    in an open space to experience our way of working in close contact with the community.</p></div>
+                <div class="card-body py-4"><h6 class="black">Affordable rates</h6></div>
+              </div>
+              <div class="card mb-lg-0 mb-4 mx-3 px-0">
+                <div class="effect-img"><img class="w-100"
+                                             src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Corporate-Space.jpg"
+                                             alt=""></div>
+                <div class="card-body py-4"><h6 class="black">Training is our specialty</h6></div>
               </div>
             </div>
             <div class="row align-items-center justify-content-center">
