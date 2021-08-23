@@ -1,5 +1,5 @@
 <template>
-  <ul class="sub-menu">
+  <ul class="sub-menu" style="left: 30%">
     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12651403">
       <ul class="sub-menu">
         <li id="menu-item-12651408"
