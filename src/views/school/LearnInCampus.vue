@@ -6,23 +6,6 @@
         <div class="row py-5">
           <div class="col-lg-5 order-lg-2 pt-4">
             <div class="max-text mx-auto">
-              <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
-                  property="item"
-                  typeof="WebPage"
-                  title="Go to Talent Garden."
-                  to="/"
-                  class="home"><span
-                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
-                  class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><router-link property="item"
-                                                                                                       typeof="WebPage"
-                                                                                                       title="Go to Innovation School."
-                                                                                                       to="/innovation-school"
-                                                                                                       class="courses-root post post-courses"><span
-                  property="name">Innovation School</span></router-link><meta content="2"
-                                                                              property="position"></span><span
-                  property="itemListElement" typeof="ListItem"><meta property="position" content="3"></span></nav>
-              <div class="line"></div>
               <h1 class="mt-2">Talent Garden Innovation School</h1>
               <p>Be part of the next generation of developers and innovators <br>
                 by training with industry leaders on the trendiest <br>
@@ -35,10 +18,10 @@
                                                                      alt=""></div>
         </div>
       </div>
-      <div class="bg-light py-5" id="course">
+      <div class="bg-light py-5" id="course" >
         <div class="container py-5">
-          <div class="col-12">
-            <h2 class="mt-2">Our courses</h2>
+          <div class="col-12" align="center">
+            <h2 class="mt-2" >Our courses</h2>
             <p class="mb-0">We will be offering multiple courses running concurrently.</p>
             <div v-for="course in courses" :key="course" class="mt-5 container-filter" id="MixItUp8E8326">
               <div class="mix  italy  part-time  calabiana-milan-innovation-school  italian  business"><a

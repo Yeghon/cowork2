@@ -6,25 +6,8 @@
         <div class="row py-5">
           <div class="col-lg-5 order-lg-2 pt-4">
             <div class="max-text mx-auto">
-              <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link href="/"
-                                                                                                               typeof="WebPage"
-                                                                                                               title="Go to Talent Garden."
-                                                                                                               property="item"
-                                                                                                               class="home"><span
-                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
-                  class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><router-link property="item"
-                                                                                                       typeof="WebPage"
-                                                                                                       title="Go to Innovation School."
-                                                                                                       to="/innovation-school"
-                                                                                                       class="courses-root post post-courses"><span
-                  property="name">Innovation School</span></router-link><meta content="2"
-                                                                              property="position"></span><span
-                  class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><span
-                  property="name">Online</span><meta property="position" content="3"></span></nav>
-              <div class="line"></div>
               <h1 class="mt-2">Talent Garden Innovation School <span class="orange">Online</span></h1>
-              <p>We will are currently offering the following courses online.</p> <a href="#course"
+              <p>We are currently offering the following courses online.</p> <a href="#course"
                                                                                      class="btn btn-primary mt-4 smooth"
                                                                                      id="anchor-course">Go to our
               courses</a></div>
@@ -37,11 +20,8 @@
       <div class="bg-light py-5" id="course">
         <div class="container py-5">
           <div class="col-12">
-            <div class="orange text-uppercase font-weight-bold font-size-14 lett-space-2 mb-4 d-flex align-items-start">
-              Online
-            </div>
-            <h2 class="mt-2">Our courses</h2>
-            <p class="mb-0">Talent Garden Innovation School offers programmes and training courses for individuals and
+            <h2 align="center" class="mt-2">Our courses</h2>
+            <p align="center" class="mb-0">Talent Garden Innovation School offers programmes and training courses for individuals and
               companies.</p>
             <div class="mt-5 container-filter" id="MixItUp8ABD34">
               <div class="mix  online  part-time  calabiana-milan-innovation-school  italian  business"><a

@@ -2,7 +2,7 @@
   <div class="bg-light" id="row-5">
     <div class="container pt-3 pb-5">
       <div class="row">
-        <div class="col-12 pt-5"><h2>Why Train With Us</h2>
+        <div class="col-12 pt-5" align="center"><h2>Why Train With Us</h2>
           <p>Talent Garden’s mission is to create local, vibrant, globally connected campuses that empower digital
             &amp; tech communities.</p></div>
       </div>

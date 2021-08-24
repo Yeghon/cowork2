@@ -13,13 +13,13 @@
         </div>
         <div class="hover d-flex align-items-center">
           <div class="container">
-            <div class="content-text p-sm-5 p-4"><h1 class="lubalin mb-4">Beautiful work space and a meeting place.</h1>
+            <div class=" p-sm-5 p-4"><h1 class="lubalin mb-4" style="color: #fff;">Beautiful work space and a meeting place.</h1>
             </div>
           </div>
         </div>
       </div>
     </main>
-    <div class="container block-text pb-5" id="row-x1">
+    <div class="container block-text pb-5" id="row-x1" style="margin-top: 8%;">
       <div class="row justify-content-between align-items-center pb-5">
         <div class="col-lg-5  mt-lg-0 mt-5 text-editor order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Creating Global
           Connections</h2>

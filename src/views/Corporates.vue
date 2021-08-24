@@ -7,16 +7,6 @@
           <div class="row">
             <div class="col-lg-5 pt-4 order-lg-2">
               <div class="max-text mx-auto bg-white p-lg-0 p-4">
-                <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                     vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
-                    property="item"
-                    typeof="WebPage"
-                    title="Go to Talent Garden."
-                    to="/"
-                    class="home"><span
-                    property="name">Home</span></router-link><meta content="1" property="position"></span><span
-                    class="mx-1">/</span><span class="post post-page current-item">Corporate Programme</span></nav>
-                <div class="line"></div>
                 <h2>Innovation is<br> to experience change as an opportunity.</h2>
                 <p><span style="font-weight: 400;">We have partnered with corporate  entities on the areas of</span>
                 </p>
@@ -102,145 +92,10 @@
         </div>
       </div>
       <div class="wrapper-flex">
-<!--        <div class="container block-text pb-5" id="row-0">-->
-<!--          <div class="row align-items-center">-->
-<!--            <div class="col-md-12"><h2 class="mb-5">Our clients</h2></div>-->
-<!--            <div class="col-md-12">-->
-<!--              <ul class="list-unstyled row logos justify-content-start">-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/a2a.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/acea.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/cisco.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/electrolux.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Logo_FCA.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/google-for-startup.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intesa-san-paolo.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/lavazza.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/peg.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/roche.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/sisal.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Logo_Terna.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/11/unicredit.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Theras-Logo.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-1.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-27.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-2.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-3.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-4.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-5.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-6.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-7.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-8.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-9.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-10.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-12.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-13.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-14.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-15.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-25.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-17.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-18.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-19.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-20.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-21.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/07/Member-logos-26.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-23.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-24.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/angelini.jpg"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-25.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-26.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--                <li class="col-lg-2 col-md-4 col-6 mb-md-5 text-center mb-md-0 mb-5"><img-->
-<!--                    src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Member-logos-27.png"-->
-<!--                    alt="" class="mx-auto"></li>-->
-<!--              </ul>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </div>-->
         <div class="bg-light" id="row-5">
           <div class="container pt-3 pb-5">
             <div class="row">
-              <div class="col-12 pt-5"><h2>Why Partner With Us</h2>
+              <div align="center" class="col-12 pt-5"><h2>Why Partner With Us</h2>
                 <p>Talent Garden’s mission is to create local, vibrant, globally connected campuses that empower digital
                   &amp; tech communities.</p></div>
             </div>

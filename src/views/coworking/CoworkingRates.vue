@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-light" id="row-5">
+  <div class="bg-light" id="row-5" align="center">
     <div class="container pt-3 pb-5">
       <div class="row">
         <div class="col-12 pt-5"><h2>Become a member and get full access</h2></div>

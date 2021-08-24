@@ -6,16 +6,6 @@
         <div class="row pt-5">
           <div class="col-lg-5 order-lg-2">
             <div class="max-text mx-auto pt-4">
-              <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
-                  property="item"
-                  typeof="WebPage"
-                  title="Go to Talent Garden."
-                  to="/"
-                  class="home"><span
-                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
-                  class="mx-1">/</span><span class="post post-page current-item">About</span></nav>
-              <div class="line"></div>
               <h1 class="mt-2">Connecting you to the next opportunity</h1></div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5">
@@ -44,9 +34,6 @@ pl-lg-5		"><h2 class="mb-3">We are a Community, not just a space</h2>
                     <p><span style="font-weight: 400;">We are a community of digital innovators and industry leaders. We offer a platform to network and connect our members to opportunities.
 Our training and events are unique and tailored to suit the market trends.</span>
                     </p>
-<!--                    <div class="d-block mt-3"><a class="btn btn-primary d-block mt-1"-->
-<!--                                                 href="#" target="_self">Global-->
-<!--                      community</a></div>-->
                     <p></p></div>
                 </div>
               </div>
@@ -63,55 +50,10 @@ order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Location</h2>
               <p></p>
               <p><span style="font-weight: 400;">We are located  along Ngong Road  within the ngong racecourse and jockey club.</span>
               </p>
-<!--              <div class="d-block mt-3">-->
-<!--                <router-link class="btn btn-primary d-block mt-1" target="_self"-->
-<!--                             to="/coworking">Coworking Space-->
-<!--                </router-link>-->
-<!--              </div>-->
               <p></p></div>
           </div>
         </div>
-<!--        <div class="pb-5 mb-5" id="row-2">-->
-<!--          <div class="bg-light pt-5">-->
-<!--            <div class="pt-5">-->
-<!--              <div class="container block-text pb-5" id="row-x2">-->
-<!--                <div class="row justify-content-between align-items-center pb-5">-->
-<!--                  <div class="col-lg-7 "><img class="w-100"-->
-<!--                                              src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/leaders-digital.jpg"-->
-<!--                                              alt=""></div>-->
-<!--                  <div class="col-lg-5  mt-lg-0 mt-5 text-editor-->
-<!--pl-lg-5		"><h2 class="mb-3">Developing leaders in the digital world</h2>-->
-<!--                    <p></p>-->
-<!--                    <p><span style="font-weight: 400;">To support our community we also launched in 2015 the Talent Garden Innovation School, our innovative educational institute offering training programs and courses for both individuals and companies, focusing on five key areas coding, data, marketing, design and business. </span>-->
-<!--                    </p>-->
-<!--                    <div class="d-block mt-3">-->
-<!--                      <router-link class="btn btn-primary d-block mt-1"-->
-<!--                                   target="_self" to="/innovation-school">Innovation-->
-<!--                        School-->
-<!--                      </router-link>-->
-<!--                    </div>-->
-<!--                    <p></p></div>-->
-<!--                </div>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </div>-->
-<!--        <div class="container block-text pb-5" id="row-x3">-->
-<!--          <div class="row justify-content-between align-items-center pb-5">-->
-<!--            <div class="col-lg-7 order-lg-2"><img class="w-100"-->
-<!--                                                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/passion-space.jpg"-->
-<!--                                                  alt=""></div>-->
-<!--            <div class="col-lg-5  mt-lg-0 mt-5 text-editor-->
-<!--order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Connecting with tech giants</h2>-->
-<!--              <p></p>-->
-<!--              <p><span style="font-weight: 400;">Connecting digital innovators with the most important players in different industries is key to fostering relationships and collaboration between companies and our community. Innovation is a vital element for corporate growth and requires the right combination of people, processes and technologies.&nbsp;</span>-->
-<!--              </p>-->
-<!--              <div class="d-block mt-3"><a class="btn btn-primary d-block mt-1"-->
-<!--                                           href="#" target="_self">Corporate-->
-<!--                Programs</a></div>-->
-<!--              <p></p></div>-->
-<!--          </div>-->
-<!--        </div>-->
+
       </div>
     </main>
     <newsletter/>

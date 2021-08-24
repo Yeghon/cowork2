@@ -12,11 +12,10 @@
 
           </div>
         </div>
-        <div class="hover d-flex align-items-center"
-             style="background-image: url(https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intro-home.jpg)">
+        <div class="hover d-flex align-items-center">
         <div style="align-items: center; align-content: center">
-            <div style="display: flex; align-items: center; margin-left: 40%">
-              <h3 class="lubalin mb-4" style="color: #fff;">Welcome to the <span style="color: limegreen">garden</span>
+            <div style="display: flex; align-items: center; margin-left: 30%">
+              <h3 class="lubalin mb-4" style="color: #fff; font-size: 46px">Welcome to the <span style="color: limegreen">garden</span>
               of innovation. <br>
               A green eco ecosystem to work like no other. <br>
               We equip you with skills and technologies to build the next generation of innovations.<br>

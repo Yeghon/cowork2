@@ -23,22 +23,22 @@
             <ul id="menu-main-menu" class="menu">
               <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking">Coworking v</router-link>
+                <router-link to="/coworking/subcoworking">Coworking v</router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-else id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking">Coworking v</router-link>
+                <router-link to="/coworking/subcoworking">Coworking v</router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/innovation-school">Campus v</router-link>
+                <router-link to="/school/campus">Campus v</router-link>
                 <SchoolSubMenu/>
               </li>
               <li v-else id="menu-item-25"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/innovation-school">Campus v</router-link>
+                <router-link to="/school/campus">Campus v</router-link>
                 <SchoolSubMenu/>
               </li>
 
@@ -46,12 +46,6 @@
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
                 <router-link active-class="current-menu-item"
                              to="/corporates">Corporates
-                </router-link>
-              </li>
-              <li v-else id="menu-item-24"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
-                <router-link active-class="current-menu-item"
-                             to="/meetings">Meetings
                 </router-link>
               </li>
               <li v-if="$route.name === 'meeting'" id="menu-item-24"
