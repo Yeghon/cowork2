@@ -17,6 +17,11 @@ const router = new VueRouter({
             component: () => import('@/views/Home3')
         },
         {
+            path: '/meetings',
+            name: 'meetings',
+            component: () => import('@/views/Meetings')
+        },
+        {
             path: '/about',
             name: 'about',
             component: () => import('@/views/AboutUs'),

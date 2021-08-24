@@ -4,7 +4,7 @@
       <div class="row align-items-center">
         <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
           <router-link class="ml-3 logo" to="/"><img
-              src="../../public/images/deflogo.jpeg"
+              class="bg-transparent" src="../../public/images/deflogo.png"
               alt="Talent Garden" height="65px"></router-link>
         </div>
         <div class="d-lg-none d-block ml-auto pr-4">
@@ -46,6 +46,18 @@
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
                 <router-link active-class="current-menu-item"
                              to="/corporates">Corporates
+                </router-link>
+              </li>
+              <li v-else id="menu-item-24"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
+                <router-link active-class="current-menu-item"
+                             to="/meetings">Meetings
+                </router-link>
+              </li>
+              <li v-if="$route.name === 'meeting'" id="menu-item-24"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
+                <router-link active-class="current-menu-item"
+                             to="/meetings">Meetings
                 </router-link>
               </li>
               <li v-else id="menu-item-24"
