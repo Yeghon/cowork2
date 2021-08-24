@@ -1,7 +1,7 @@
 <template>
   <div align="center">
     <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px">Our locations</div>
-    <div><h3 style="font-size: 20px; font-weight: 600; color: #343434; letter-spacing: -0.03em; line-height: 1.5">There is no green space like the environs of Ngong forest
+    <div><h3 style="font-size: 20px; font-weight: 600; color: #343434; letter-spacing: -0.03em; line-height: 1.5">There is no green space like the environs of Ngong forest<br>
       Enjoy the ambient green ecosystem at our location in Ngong race course golf and jockey club</h3>
     </div>
     <div class="container pt-3 pb-5">

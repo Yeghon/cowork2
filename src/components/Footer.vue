@@ -7,7 +7,7 @@
                class="logo-footer" height="80" itemprop="logo"></router-link>
         </div>
         <div class="col-lg-3 col-md-5 col-6"><h5 class="white text-uppercase font-size-12 font-weight-bold lett-space-1"
-                                                 itemprop="name">Nairobi Business Park</h5>
+                                                 itemprop="name">Ngong race course golf and jockey club</h5>
           <p class="white font-size-14 mb-0">Ngong Road<br> Nairobi, Kenya</p>
         </div>
         <div class="col-lg-3 col-md-3 col-6">

@@ -12,12 +12,14 @@
 
           </div>
         </div>
-        <div class="hover d-flex align-items-center">
-          <div style="align-items: center; align-content: center">
-            <div class="content-text p-sm-5 p-4"><h3 class="lubalin mb-4">Welcome to the <span style="color: limegreen">garden</span>
-              of innovation,
-              A green eco ecosystem to work like no other,
-              We equip you with skills and technologies to build the next generation of innovations.
+        <div class="hover d-flex align-items-center"
+             style="background-image: url(https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intro-home.jpg)">
+        <div style="align-items: center; align-content: center">
+            <div style="display: flex; align-items: center; margin-left: 40%">
+              <h3 class="lubalin mb-4" style="color: #fff;">Welcome to the <span style="color: limegreen">garden</span>
+              of innovation. <br>
+              A green eco ecosystem to work like no other. <br>
+              We equip you with skills and technologies to build the next generation of innovations.<br>
               Welcome to our community and be part of the next generation DIGITAL leaders
             </h3>
             </div>
@@ -28,28 +30,12 @@
         <div class="row py-5">
           <div class="col-lg-5 order-lg-2 pt-4">
             <div class="max-text mx-auto">
-              <nav aria-label="breadcrumb" class="breadcrumb_nav mb-3" typeof="BreadcrumbList"
-                   vocab="https://schema.org/"><span property="itemListElement" typeof="ListItem"><router-link
-                  property="item"
-                  typeof="WebPage"
-                  title="Go to Talent Garden."
-                  to="/"
-                  class="home"><span
-                  property="name">Home</span></router-link><meta content="1" property="position"></span><span
-                  class="mx-1">/</span><span property="itemListElement" typeof="ListItem"><router-link property="item"
-                                                                                                       typeof="WebPage"
-                                                                                                       title="Go to Innovation School."
-                                                                                                       to="/innovation-school"
-                                                                                                       class="courses-root post post-courses"><span
-                  property="name">Innovation School</span></router-link><meta content="2"
-                                                                              property="position"></span><span
-                  property="itemListElement" typeof="ListItem"><meta property="position" content="3"></span></nav>
-              <div class="line"></div>
               <h1 class="mt-2">What makes us unique</h1>
               <p>Work within the greenest space in nairobi, excellent outdoor gazebos,
                 The space is set  to give you clean, quiet and wellness centered  co-working and training space
-              </p> <a
-                href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a></div>
+              </p>
+              <a href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a>
+            </div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5"><img class="w-100 d-block"
                                                                      src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Hero_Image_Talent_Garden_Zoom_Background_4-900x720.jpg"
