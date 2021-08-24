@@ -4,15 +4,6 @@
     <main>
       <div id="header-video" class="position-relative w-100"
            style="background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod.s3.amazonaws.com%2Fimages%2Fsmall-garden-ideas-1614032371.jpg)">
-<!--           style="background-image: url(https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intro-home.jpg)">-->
-<!--        <div class="video">-->
-<!--          <div class="embed-responsive embed-responsive-16by9 overlay-img">-->
-<!--            <img alt=""-->
-<!--                 class="w-100"-->
-<!--                 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod.s3.amazonaws.com%2Fimages%2Fsmall-garden-ideas-1614032371.jpg%3Fcrop%3D0.668xw%3A1.00xh%3B0.332xw%2C0%26resize%3D640%3A*&f=1&nofb=1">-->
-
-<!--          </div>-->
-<!--        </div>-->
         <div align="center" class="hover d-flex align-items-center" style="background: rgba(0, 0, 0, .6)">
           <div>
             <div class="content-text p-sm-5 p-4" style="background: rgba(0, 0, 0, .1)">

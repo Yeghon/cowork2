@@ -18,22 +18,22 @@
                                                                      alt=""></div>
         </div>
       </div>
-      <div class="bg-light py-5" id="course" >
+      <div class="bg-light py-5" id="course">
         <div class="container py-5">
           <div class="col-12" align="center">
-            <h2 class="mt-2" >Our courses</h2>
+            <h2 class="mt-2">Our courses</h2>
             <p class="mb-0">We will be offering multiple courses running concurrently.</p>
-            <div v-for="course in courses" :key="course" class="mt-5 container-filter" id="MixItUp8E8326">
+            <div v-for="course in courses" :key="course" class="mt-5" id="MixItUp8E8326">
               <div class="mix  italy  part-time  calabiana-milan-innovation-school  italian  business"><a
                   href="#"
                   class="px-5 py-4 bg-white d-block w-100 mb-3 single-course ">
                 <div class="row align-items-center py-1">
                   <div class="col-lg-7 mb-lg-0 mb-4 pb-lg-0 pb-4">
                     <h4 class="black lubalin font-weight-bold mb-0 font-size-24 d-block my-2">{{ course.name }}</h4>
-               </div>
+                  </div>
                   <div
                       class="col-lg-2 col-sm-6 mb-sm-0 mb-4 text-center border-left d-sm-block d-flex align-items-center">
-                </div>
+                  </div>
                   <div class="col-lg-3 col-sm-6"><span class="btn btn-primary d-block py-3">Learn more</span></div>
                 </div>
               </a></div>
