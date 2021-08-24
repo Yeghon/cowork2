@@ -10,7 +10,7 @@
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5">
             <div class="img-intro"><img class="w-100"
-                                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/talent-garden-location.jpg"
+                                        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theworkspace.co.za%2Fwp-content%2Fuploads%2F2016%2F11%2F04-communal-office-space-1.jpg"
                                         alt=""></div>
           </div>
         </div>
@@ -22,11 +22,7 @@
               <div class="container block-text pb-5" id="row-x0">
                 <div class="row justify-content-between align-items-center pb-5">
                   <div class="col-lg-7 ">
-                    <iframe id="video-embed" width="100%" height="500"
-                            src="https://www.youtube.com/embed/-9FUpjTE6tk?enablejsapi=1&amp;origin=https%3A%2F%2Ftalentgarden.org"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen="" data-gtm-yt-inspected-11809038_69="true"></iframe>
+                    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdm0qx8t0i9gc9.cloudfront.net%2Fthumbnails%2Fvideo%2FEyvF0jkPg%2Fvideoblocks-african-american-worker-talking-to-company-boss-happy-mixed-ethnicity-colleagues-work-in-trendy-loft-office-space-4k_rbglolnxsz_thumbnail-1080_01.png">
                   </div>
                   <div class="col-lg-5  mt-lg-0 mt-5 text-editor
 pl-lg-5		"><h2 class="mb-3">We are a Community, not just a space</h2>
@@ -43,7 +39,7 @@ Our training and events are unique and tailored to suit the market trends.</span
         <div class="container block-text pb-5" id="row-x1">
           <div class="row justify-content-between align-items-center pb-5">
             <div class="col-lg-7 order-lg-2"><img class="w-100"
-                                                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/SingularityU-Italy-Summit.jpg"
+                                                  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ylitalot.net%2Fimages%2F2014%2F09%2FM9113006_l.jpg"
                                                   alt=""></div>
             <div class="col-lg-5  mt-lg-0 mt-5 text-editor
 order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Location</h2>
