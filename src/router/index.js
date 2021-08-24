@@ -14,7 +14,7 @@ const router = new VueRouter({
         {
             path: '/',
             name: 'home',
-            component: () => import('@/views/Home3')
+            component: () => import('@/views/Home2')
         },
         {
             path: '/about',
