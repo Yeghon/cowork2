@@ -7,7 +7,7 @@
       <div v-for="rate in rates" :key="rate" class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Smart-Working.jpg"
+                                       src="../../../public/images/undraw_online_payments_luau.png"
                                        alt=""></div>
           <div class="card-body py-4">
             <p>Daily Membership</p>
@@ -19,7 +19,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Branded-Meeting-Room.jpg"
+                                       src="../../../public/images/undraw_Payments_re_77x0.png"
                                        alt=""></div>
           <div class="card-body py-4"><p>Monthly Membership</p>
             <h3 class="black">Ksh. 20,000</h3>
@@ -30,7 +30,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Corporate-Space.jpg"
+                                       src="../../../public/images/undraw_personal_finance_tqcd.png"
                                        alt=""></div>
           <div class="card-body py-4"><p>Dedicated Desk</p>
             <h3 class="black">Ksh. 25,000</h3>

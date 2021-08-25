@@ -28,7 +28,7 @@
                 href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a></div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5"><img class="w-100 d-block"
-                                                                     src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Hero_Image_Talent_Garden_Zoom_Background_4-900x720.jpg"
+                                                                     src="../../public/images/undraw_different_love_a3rg.png"
                                                                      alt=""></div>
         </div>
       </div>

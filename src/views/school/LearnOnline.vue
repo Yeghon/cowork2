@@ -8,12 +8,12 @@
             <div class="max-text mx-auto">
               <h1 class="mt-2">Talent Garden Innovation School <span class="orange">Online</span></h1>
               <p>We are currently offering the following courses online.</p> <a href="#course"
-                                                                                     class="btn btn-primary mt-4 smooth"
-                                                                                     id="anchor-course">Go to our
+                                                                                class="btn btn-primary mt-4 smooth"
+                                                                                id="anchor-course">Go to our
               courses</a></div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5"><img class="w-100 d-block"
-                                                                     src="../../../public/images/onlinelearning.jpeg"
+                                                                     src="../../../public/images/undraw_Online_learning_re_qw08.png"
                                                                      alt=""></div>
         </div>
       </div>
@@ -21,7 +21,8 @@
         <div class="container py-5">
           <div class="col-12">
             <h2 align="center" class="mt-2">Our courses</h2>
-            <p align="center" class="mb-0">Talent Garden Innovation School offers programmes and training courses for individuals and
+            <p align="center" class="mb-0">Talent Garden Innovation School offers programmes and training courses for
+              individuals and
               companies.</p>
             <div class="mt-5 container-filter" id="MixItUp8ABD34">
               <div class="mix  online  part-time  calabiana-milan-innovation-school  italian  business"><a
@@ -34,14 +35,9 @@
                     </div>
                     <h4 class="black lubalin font-weight-bold mb-0 font-size-24 d-block my-2">General web
                       development-Php, html, JS</h4>
-<!--                    <span class="black"><div-->
-<!--                        class="lang d-inline-block px-2 border mr-2 font-weight-medium text-uppercase"-->
-<!--                        style="font-size:12px; letter-spacing:1px; padding-top:2px">English</div> Nairobi Business Park </span>-->
                   </div>
                   <div
                       class="col-lg-2 col-sm-6 mb-sm-0 mb-4 text-center border-left d-sm-block d-flex align-items-center">
-<!--                    <span class="primary d-block mb-0">15.10.2021</span> <span-->
-<!--                      class="black lett-space-2 font-size-12 text-uppercase ml-auto">Part Time</span>-->
                   </div>
                   <div class="col-lg-3 col-sm-6"><span class="btn btn-primary d-block py-3">Learn more</span></div>
                 </div>
@@ -57,14 +53,9 @@
                     <h4 class="black lubalin font-weight-bold mb-0 font-size-24 d-block my-2">Start up 101- Starting a
                       business in Kenya A-Z
                       Master</h4>
-<!--                    <span class="black"><div-->
-<!--                      class="lang d-inline-block px-2 border mr-2 font-weight-medium text-uppercase"-->
-<!--                      style="font-size:12px; letter-spacing:1px; padding-top:2px">English</div> </span>-->
                   </div>
                   <div
                       class="col-lg-2 col-sm-6 mb-sm-0 mb-4 text-center border-left d-sm-block d-flex align-items-center">
-<!--                    <span class="primary d-block mb-0">08.10.2021</span> <span-->
-<!--                      class="black lett-space-2 font-size-12 text-uppercase ml-auto">Part Time</span>-->
                   </div>
                   <div class="col-lg-3 col-sm-6"><span class="btn btn-primary d-block py-3">Learn more</span></div>
                 </div>
