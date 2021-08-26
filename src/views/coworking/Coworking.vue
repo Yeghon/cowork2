@@ -13,21 +13,26 @@
         </div>
         <div class="hover d-flex align-items-center">
           <div class="container">
-            <div class=" p-sm-5 p-4"><h1 class="lubalin mb-4" style="color: #fff;">Beautiful work space and a meeting place.</h1>
+            <div class=" p-sm-5 p-4"><h1 class="lubalin mb-4" style="color: #fff;">Beautiful work space and a meeting
+              place.</h1>
             </div>
           </div>
         </div>
       </div>
     </main>
-    <div class="container block-text pb-5" id="row-x1" style="margin-top: 8%;">
-      <div class="row justify-content-between align-items-center pb-5">
-        <div class="col-lg-5  mt-lg-0 mt-5 text-editor order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Creating Global
-          Connections</h2>
-          <p><span style="font-weight: 400;">Come to our coworking space, pick a hot desk, fire up your laptop and get to work.  You will choose to work from task desks, garden benches, tree swings indoor couches all at the price of one We will also give you access to meeting rooms to meet your clients and make the deals.</span>
-          </p>
-          <div class="d-block mt-3">
-            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/book-a-space">Book a Space</router-link>
-          </div>
+    <div style="display: grid; place-items: center; margin: 25px">
+      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>Creating global connections</h2>
+      </div>
+      <div>
+        <h3 style="font-size: 20px; font-weight: 600; color: #343434; letter-spacing: -0.03em; line-height: 1.5">
+          <p>
+          <span style="font-weight: 400;">
+            Come to our coworking space, pick a hot desk, fire up your laptop and get to work. <br>
+            You will choose to work from task desks, garden benches, tree swings indoor couches all at the price of one. <br>
+            We will also give you access to meeting rooms to meet your clients and make the deals.</span>
+          </p></h3>
+        <div style="display: grid; place-items: center">
+          <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space">Book a Space</router-link>
         </div>
       </div>
     </div>

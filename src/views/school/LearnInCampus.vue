@@ -34,7 +34,10 @@
                   <div
                       class="col-lg-2 col-sm-6 mb-sm-0 mb-4 text-center border-left d-sm-block d-flex align-items-center">
                   </div>
-                  <div class="col-lg-3 col-sm-6"><span class="btn btn-primary d-block py-3">Learn more</span></div>
+                  <div class="col-lg-3 col-sm-6">
+                    <router-link class="btn btn-primary d-block mt-1" target="_self" to="/book-a-space">Book a Space
+                    </router-link>
+                  </div>
                 </div>
               </a></div>
             </div>

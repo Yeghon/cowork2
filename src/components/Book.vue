@@ -9,24 +9,18 @@
         <h3>Book a Space/Room</h3>
       </div>
       <div style="position: center; margin: 20px; border: 3px solid limegreen; border-radius: 15px">
-        <!--        <form>-->
-        <!--          <label for="fname">First name:</label><br>-->
-        <!--          <input type="text" id="fname" name="fname" value="John"><br>-->
-        <!--          <label for="lname">Last name:</label><br>-->
-        <!--          <input type="text" id="lname" name="lname" value="Doe">-->
-        <!--        </form>-->
         <form>
           <label for="fname">First name:</label><br>
-          <input type="text" id="fname" name="fname" placeholder="firstname"><br>
+          <input type="text" id="fname" name="fname" placeholder="firstname" required><br>
 
           <label for="lname">Last name:</label><br>
-          <input type="text" id="lname" name="lname" value="lastname"><br>
+          <input type="text" id="lname" name="lname" placeholder="lastname" required><br>
 
           <label for="email">Email Address:</label><br>
-          <input type="email" id="email" name="email" value="email@123.com"><br>
+          <input type="email" id="email" name="email" placeholder="email@123.com" required><br>
 
-          <label for="phone">Phone Number:</label><br>
-          <input type="text" id="phone" name="phone" value="07XXXXXXXX"><br>
+          <label for="phone" class="fa">Phone Number:</label><br>
+          <input type="text" id="phone" name="phone" placeholder="07XXXXXXXX" required><br>
 
           <label for="product">Product:</label><br>
           <select required id="product">
@@ -34,8 +28,6 @@
             <option value="monthly">Monthly</option>
             <option value="dedicated">Dedicated desk</option>
           </select><br>
-
-<!--          Other: <input type="text" name="firstname" value="firstname"/>-->
           <button class="btn btn-primary mt-4 smooth" id="anchor-course" style="margin-bottom: 10px; border-radius: 15px">Book a space</button>
         </form>
       </div>

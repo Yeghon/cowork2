@@ -4,7 +4,7 @@
       <div class="row pt-3 pb-3">
         <div class="col-lg-3 col-md-4 col-12 mb-md-0 mb-5">
           <router-link itemprop="url" to="/"><img src="../../public/images/deflogo.jpeg"
-               class="logo-footer" height="80" itemprop="logo"></router-link>
+                                                  class="logo-footer" height="80" itemprop="logo"></router-link>
         </div>
         <div class="col-lg-3 col-md-5 col-6"><h5 class="white text-uppercase font-size-12 font-weight-bold lett-space-1"
                                                  itemprop="name">Ngong race course golf and jockey club</h5>
@@ -13,12 +13,29 @@
         <div class="col-lg-3 col-md-3 col-6">
           <div class="menu-footer-01-container">
             <ul id="menu-footer-01" class="menu">
-              <li id="menu-item-603"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
                 <router-link aria-current="page" to="/">Home</router-link>
               </li>
-              <li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a
-                  href="/about">About</a></li>
+              <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
+                <router-link to="/coworking/subcoworking">Coworking</router-link>
+              </li>
+              <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
+                <router-link to="/school/campus">Campus</router-link>
+              </li>
+              <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
+                <router-link active-class="current-menu-item" to="/corporates">Corporates</router-link>
+              </li>
+              <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
+                <router-link to="/event-spaces">Event Spaces</router-link>
+              </li>
+              <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
+                <router-link to="/about">About</router-link>
+              </li>
             </ul>
           </div>
         </div>

@@ -66,7 +66,7 @@
               <div class="legal-consent-container" data-reactid=".hbspt-forms-0.2">
                 <div class="hs-richtext" data-reactid=".hbspt-forms-0.2.2"><p>I have read and agree to the <a
                     href="#" rel="noopener" target="_blank">Privacy Policy</a>
-                  of&nbsp;Talent Garden S.p.A.</p></div>
+                  of&nbsp;Italent Garden Nairobi, Kenya.</p></div>
               </div>
               <div class="hs_submit hs-submit" data-reactid=".hbspt-forms-0.5">
                 <div class="hs-field-desc" style="display:none;" data-reactid=".hbspt-forms-0.5.0"></div>

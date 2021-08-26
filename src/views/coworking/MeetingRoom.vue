@@ -13,13 +13,15 @@
         </div>
       </div>
     </main>
-    <div class="container block-text pb-5" id="row-x1">
-      <div class="row justify-content-between align-items-center pb-5">
-        <div class="col-lg-5  mt-lg-0 mt-5 text-editor order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">We offer the most
-          flexible meeting spaces at affordable rates.</h2>
-          <p><span style="font-weight: 400;">From a 4 seater meeting room to a full 16 seater boardroom with servings and equipped with the tech to help you host your meeting</span>
-          </p>
-        </div>
+    <div style="display: grid; place-items: center; margin-top: 150px; margin-bottom: 150px; padding: 20px">
+      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>We offer the most
+        flexible meeting spaces at affordable rates.</h2>
+      </div>
+      <div>
+        <h3 style="font-size: 20px; font-weight: 600; color: #343434; letter-spacing: -0.03em; line-height: 1.5">
+          <p>
+            <span style="font-weight: 400;">From a 4 seater meeting room to a full 16 seater boardroom with servings and equipped with the tech to help you host your meeting</span>
+          </p></h3>
       </div>
     </div>
     <div id="header-video" class="position-relative w-100"
@@ -32,16 +34,15 @@
         </div>
       </div>
     </div>
-    <div class="container block-text pb-5" id="row-x1">
-      <div class="row justify-content-between align-items-center pb-5">
-        <div class="col-lg-5  mt-lg-0 mt-5 text-editor order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Why our meeting
-          rooms.</h2>
-          <ul v-for="benefit in benefits" :key="benefit">
-            <li><p><span style="font-weight: 400;">{{ benefit }}</span></p></li>
-          </ul>
-          <div class="d-block mt-3">
-            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/book-a-space">Book a Room</router-link>
-          </div>
+    <div style="display: grid; place-items: center; margin-top: 150px; margin-bottom: 150px; padding: 20px">
+      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>Why our meeting rooms.</h2>
+      </div>
+      <div>
+        <ul v-for="benefit in benefits" :key="benefit">
+          <li><p><span style="font-weight: 400;">{{ benefit }}</span></p></li>
+        </ul>
+        <div style="display: grid; place-items: center">
+          <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space">Book a Space</router-link>
         </div>
       </div>
     </div>
