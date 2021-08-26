@@ -12,6 +12,10 @@
                 Be part of our community to connect with digital leaders and learn new technologies to build the next
                 digital innovation
               </h3>
+              <div>
+                <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space" style="margin: 10px; border-radius: 25px">Become a member</router-link>
+                <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space" style="margin: 10px; border-radius: 25px">Learn with us</router-link>
+              </div>
             </div>
           </div>
         </div>

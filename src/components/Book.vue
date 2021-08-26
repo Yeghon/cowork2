@@ -1,7 +1,27 @@
 <template>
   <div>
     <navigation/>
-    <div align="center" style="margin: 30px">
+<!--    <div style="display: flex; justify-content: center; margin: 25px; border: 2px solid red; border-radius: 25px">-->
+<!--      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>Creating global connections</h2>-->
+<!--      </div>-->
+<!--      <div>-->
+<!--        <h3 style="font-size: 20px; font-weight: 600; color: #343434; letter-spacing: -0.03em; line-height: 1.5">-->
+<!--          <p>-->
+<!--          <span style="font-weight: 400;">-->
+<!--            Come to our coworking space, pick a hot desk, fire up your laptop and get to work. <br>-->
+<!--            You will choose to work from task desks, garden benches, tree swings indoor couches all at the price of one. <br>-->
+<!--            We will also give you access to meeting rooms to meet your clients and make the deals.</span>-->
+<!--          </p></h3>-->
+<!--        <div style="display: grid; place-items: center">-->
+<!--          <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space">Book a Space</router-link>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+
+
+
+
+    <div style="margin: 30px">
       <div>
         <img src="public/images/deflogo.png"/>
       </div>

@@ -2,7 +2,7 @@
   <div class="bg-light" id="row-5">
     <div class="container pt-3 pb-5">
       <div class="row">
-        <div align="center" class="col-12 pt-5"><h2>Our Services</h2></div>
+        <div style="display: grid; place-items: center" class="col-12 pt-5"><h2>Our Services</h2></div>
       </div>
       <div class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
@@ -11,7 +11,7 @@
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Coworking Space</h6>
             <p class="text mb-0">Host over 200 innovators</p>
-            <a href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a></div>
+            <a href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course" style="position: relative; bottom: 0;">Learn more</a></div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
