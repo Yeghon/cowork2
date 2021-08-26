@@ -23,22 +23,27 @@
             <ul id="menu-main-menu" class="menu">
               <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking/subcoworking">Coworking</router-link>
+                <router-link to="/coworking/subcoworking"></router-link>
+                <coworking-sub-menu/>
+              </li>
+              <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
+                  class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
+                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down" /></router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-else id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking/subcoworking">Coworking</router-link>
+                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down" /></router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/school/campus">Campus</router-link>
+                <router-link to="/school/campus">Campus &nbsp;<font-awesome-icon icon="chevron-down" /></router-link>
                 <SchoolSubMenu/>
               </li>
               <li v-else id="menu-item-25"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/school/campus" class="fa fa-angle-down">Campus</router-link>
+                <router-link to="/school/campus" class="fa fa-angle-down">Campus &nbsp;<font-awesome-icon icon="chevron-down" /></router-link>
                 <SchoolSubMenu/>
               </li>
 
