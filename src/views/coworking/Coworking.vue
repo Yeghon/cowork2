@@ -26,7 +26,7 @@
           <p><span style="font-weight: 400;">Come to our coworking space, pick a hot desk, fire up your laptop and get to work.  You will choose to work from task desks, garden benches, tree swings indoor couches all at the price of one We will also give you access to meeting rooms to meet your clients and make the deals.</span>
           </p>
           <div class="d-block mt-3">
-            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/coworking">Book a Space</router-link>
+            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/book-a-space">Book a Space</router-link>
           </div>
         </div>
       </div>

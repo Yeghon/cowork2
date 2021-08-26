@@ -29,7 +29,7 @@ const router = new VueRouter({
         {
             path: '/coworking',
             name: 'coworking',
-            component: () => import('@/views/coworking')
+            component: () => import('@/views/coworking/Coworking')
         },
         {
             path: '/corporates',
@@ -75,7 +75,17 @@ const router = new VueRouter({
             path: '/coworking/privateoffice',
             name: 'private-office',
             component: () => import('@/views/coworking/PrivateOffice')
-        }
+        },
+        {
+            path: '/book-a-space',
+            name: 'reserve',
+            component: () => import('@/components/Book')
+        },
+        // {
+        //     path: '/coworking/privateoffice',
+        //     name: 'private-office',
+        //     component: () => import('@/views/coworking/PrivateOffice')
+        // }
     ],
 })
 

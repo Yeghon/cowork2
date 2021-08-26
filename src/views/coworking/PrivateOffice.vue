@@ -18,7 +18,7 @@
         <div class="col-lg-5  mt-lg-0 mt-5 text-editor order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Equipped private office for you with two extra task seats.</h2>
           <p><span style="font-weight: 400;">Use other amenities in the space. You can choose to work from the outdoors gazebo or swing while paying for the private office.</span></p>
           <div class="d-block mt-3">
-            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/coworking">Book a Space</router-link>
+            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/book-a-space">Book a Space</router-link>
           </div>
         </div>
       </div>

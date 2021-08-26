@@ -40,7 +40,7 @@
             <li><p><span style="font-weight: 400;">{{ benefit }}</span></p></li>
           </ul>
           <div class="d-block mt-3">
-            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/coworking">Book a Room</router-link>
+            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/book-a-space">Book a Room</router-link>
           </div>
         </div>
       </div>

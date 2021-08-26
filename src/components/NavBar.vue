@@ -38,7 +38,7 @@
               </li>
               <li v-else id="menu-item-25"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/school/campus">Campus v</router-link>
+                <router-link to="/school/campus" class="fa fa-angle-down">Campus</router-link>
                 <SchoolSubMenu/>
               </li>
 

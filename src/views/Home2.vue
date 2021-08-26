@@ -7,12 +7,13 @@
         <div align="center" class="hover d-flex align-items-center" style="background: rgba(0, 0, 0, .6)">
           <div>
             <div class="content-text p-sm-5 p-4" style="background: rgba(0, 0, 0, .1)">
-              <h3 class="lubalin mb-4" style="color: #ffffff;">Welcome to the <span style="color: limegreen">garden</span>
-              of innovation.<br>
-              A green eco ecosystem to work like no other.<br>
-              We equip you with skills and technologies to build the next generation of innovations.
-              Welcome to our community and be part of the next generation DIGITAL leaders
-            </h3>
+              <h3 class="lubalin mb-4" style="color: #ffffff;">Welcome to the <span
+                  style="color: limegreen">garden</span>
+                of innovation.<br>
+                A green eco ecosystem to work like no other.<br>
+                We equip you with skills and technologies to build the next generation of innovations.
+                Welcome to our community and be part of the next generation DIGITAL leaders
+              </h3>
             </div>
           </div>
         </div>
@@ -23,9 +24,12 @@
             <div class="max-text mx-auto">
               <h1 class="mt-2">What makes us unique</h1>
               <p>Work within the greenest space in nairobi, excellent outdoor gazebos,
-                The space is set  to give you clean, quiet and wellness centered  co-working and training space
-              </p> <a
-                href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a></div>
+                The space is set to give you clean, quiet and wellness centered co-working and training space
+              </p>
+              <router-link to="/book-a-space" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</router-link>
+<!--              <a-->
+<!--                  href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a>-->
+            </div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5"><img class="w-100 d-block"
                                                                      src="../../public/images/undraw_different_love_a3rg.png"
