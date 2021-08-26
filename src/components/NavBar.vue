@@ -28,7 +28,7 @@
               </li>
               <li v-else id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking/subcoworking">Coworking v</router-link>
+                <router-link to="/coworking/subcoworking">Coworking</router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
