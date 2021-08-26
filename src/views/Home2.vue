@@ -7,7 +7,7 @@
         <div align="center" class="hover d-flex align-items-center" style="background: rgba(0, 0, 0, .6)">
           <div>
             <div class="content-text p-sm-5 p-4" style="background: rgba(0, 0, 0, .1)">
-              <h3 class="lubalin mb-4" style="color: #ffffff;">We are a unique <span
+              <h3 class="lubalin mb-4" style="color: #ffffff; letter-spacing: 2px;">We are a unique <span
                   style="color: limegreen">garden</span> of innovation,
                 Be part of our community to connect with digital leaders and learn new technologies to build the next
                 digital innovation

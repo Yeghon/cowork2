@@ -11,7 +11,11 @@
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Coworking Space</h6>
             <p class="text mb-0">Host over 200 innovators</p>
-            <a href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course" style="position: relative; bottom: 0;">Learn more</a></div>
+          </div>
+          <div style="display: grid; place-items: center">
+            <router-link class="btn btn-primary mt-5" target="_self" to="/coworking/subcoworking">Learn more
+            </router-link>
+          </div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
@@ -19,8 +23,11 @@
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Private Office</h6>
             <p class="text mb-0">Have a dedicated space within the hub and access other amenities.</p>
-
-            <a href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a></div>
+          </div>
+          <div style="display: grid; place-items: center">
+            <router-link class="btn btn-primary mt-5" target="_self" to="/coworking/privateoffice">Learn more
+            </router-link>
+          </div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
@@ -28,9 +35,10 @@
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Host Events
           </h6>
-            <p class="text mb-0">Seminars, fireside chats.</p>
-
-            <a href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a></div>
+            <p class="text mb-0">Seminars, fireside chats.</p></div>
+          <div style="display: grid; place-items: center">
+            <router-link class="btn btn-primary mt-5" target="_self" to="/event-spaces">Learn more</router-link>
+          </div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
@@ -39,7 +47,10 @@
           <div class="card-body py-4"><h6 class="black">Campus
           </h6>
             <p class="text mb-0">Train and equip innovators and job seekers on trendy technologies.</p>
-            <a href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a></div>
+          </div>
+          <div style="display: grid; place-items: center">
+            <router-link class="btn btn-primary mt-5" target="_self" to="/school/campus">Learn more</router-link>
+          </div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
@@ -48,7 +59,10 @@
           <div class="card-body py-4"><h6 class="black">Corporate packages
           </h6>
             <p class="text mb-0">We outsource, build software applications for corporate</p>
-            <a href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Learn more</a></div>
+          </div>
+          <!--          <div style="display: grid; place-items: center">-->
+          <!--            <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space">Book a Space</router-link>-->
+          <!--          </div>-->
         </div>
       </div>
     </div>
