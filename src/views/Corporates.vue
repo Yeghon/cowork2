@@ -32,37 +32,37 @@
                        data-swiper-slide-index="5"
                        style="width: 649px; opacity: 0; transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
                     <img
-                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Corporate-Innovation_4-Talent-Garden-900x720.jpg"
+                        src="../../public/images/undraw_teacher_35j2.png"
                         alt=""></div>
                   <div class="swiper-slide" data-swiper-slide-index="0"
                        style="width: 649px; opacity: 0; transform: translate3d(-649px, 0px, 0px); transition-duration: 0ms;">
                     <img
-                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/Rainmaking-Loft_21-900x720.jpg"
+                        src="../../public/images/undraw_teacher_35j2.png"
                         alt=""></div>
                   <div class="swiper-slide" data-swiper-slide-index="1"
                        style="width: 649px; opacity: 0; transform: translate3d(-1298px, 0px, 0px); transition-duration: 0ms;">
                     <img
-                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/NEXIAdvisor_114-900x720.jpg"
+                        src="../../public/images/undraw_teacher_35j2.png"
                         alt=""></div>
                   <div class="swiper-slide" data-swiper-slide-index="2"
                        style="width: 649px; opacity: 0; transform: translate3d(-1947px, 0px, 0px); transition-duration: 0ms;">
                     <img
-                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/03/DSCF4101-900x720.jpg"
+                        src="../../public/images/undraw_teacher_35j2.png"
                         alt=""></div>
                   <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="3"
                        style="width: 649px; opacity: 0; transform: translate3d(-2596px, 0px, 0px); transition-duration: 0ms;">
                     <img
-                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Corporate-Innovation_2-Talent-Garden-900x720.jpg"
+                        src="../../public/images/undraw_teacher_35j2.png"
                         alt=""></div>
                   <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="4"
                        style="width: 649px; opacity: 1; transform: translate3d(-3245px, 0px, 0px); transition-duration: 0ms;">
                     <img
-                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Corporate-Innovation_3-Talent-Garden-900x720.jpg"
+                        src="../../public/images/undraw_teacher_35j2.png"
                         alt=""></div>
                   <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="5"
                        style="width: 649px; opacity: 0; transform: translate3d(-3894px, 0px, 0px); transition-duration: 0ms;">
                     <img
-                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Corporate-Innovation_4-Talent-Garden-900x720.jpg"
+                        src="../../public/images/undraw_teacher_35j2.png"
                         alt=""></div>
                   <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span
                       class="swiper-pagination-bullet" tabindex="0" role="button"
@@ -102,25 +102,25 @@
             <div class="pt-4 card-group row">
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
-                                             src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Smart-Working.jpg"
+                                             src="../../public/images/undraw_multitasking_hqg3.png"
                                              alt=""></div>
                 <div class="card-body py-4"><h6 class="black">All talents  under one roof</h6></div>
               </div>
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
-                                             src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Branded-Meeting-Room.jpg"
+                                             src="../../public/images/undraw_Online_learning_re_qw08.png"
                                              alt=""></div>
                 <div class="card-body py-4"><h6 class="black">Speedy delivery of your project</h6></div>
               </div>
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
-                                             src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Corporate-Space.jpg"
+                                             src="../../public/images/undraw_online_payments_luau.png"
                                              alt=""></div>
                 <div class="card-body py-4"><h6 class="black">Affordable rates</h6></div>
               </div>
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
-                                             src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/Corporate-Space.jpg"
+                                             src="../../public/images/undraw_software_engineer_lvl5.png"
                                              alt=""></div>
                 <div class="card-body py-4"><h6 class="black">Training is our specialty</h6></div>
               </div>

@@ -14,7 +14,7 @@
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5">
             <div class="img-intro"><img class="w-100"
-                                        src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/eduon.jpg"
+                                        src="../../public/images/undraw_urban_design_kpu8.png"
                                         alt=""></div>
           </div>
         </div>
@@ -30,7 +30,7 @@
                         class="h-100 d-flex flex-column smooth bg-white" href="#intro-landing" target="_self">
                       <figure class="mb-0 d-flex justify-content-center align-items-center bg-white">
                         <div class="effect-img"><img class="w-100"
-                                                     src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/big-event-space.jpg"
+                                                     src="../../public/images/undraw_special_event_4aj8.png"
                                                      alt=""></div>
                       </figure>
                       <figcaption class="mt-0 py-4 px-sm-4 px-5 bg-white"><h6 class="black">Conferences</h6>
@@ -43,7 +43,7 @@
                         class="h-100 d-flex flex-column smooth bg-white" href="#intro-landing" target="_self">
                       <figure class="mb-0 d-flex justify-content-center align-items-center bg-white">
                         <div class="effect-img"><img class="w-100"
-                                                     src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/event-space.jpg"
+                                                     src="../../public/images/undraw_into_the_night_vumi.png"
                                                      alt=""></div>
                       </figure>
                       <figcaption class="mt-0 py-4 px-sm-4 px-5 bg-white"><h6 class="black">Fireside Chat</h6>
@@ -55,7 +55,7 @@
                         class="h-100 d-flex flex-column smooth bg-white" href="#intro-landing" target="_self">
                       <figure class="mb-0 d-flex justify-content-center align-items-center bg-white">
                         <div class="effect-img"><img class="w-100"
-                                                     src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/conference-room.jpg"
+                                                     src="../../public/images/undraw_remotely_2j6y.png"
                                                      alt=""></div>
                       </figure>
                       <figcaption class="mt-0 py-4 px-sm-4 px-5 bg-white"><h6 class="black">Hackathons</h6>

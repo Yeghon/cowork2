@@ -7,7 +7,7 @@
         <div class="video">
           <div class="embed-responsive embed-responsive-16by9 overlay-img">
             <img class="w-100 d-block"
-                 src="../../../public/images/executive_boardroom1.jpeg"
+                 src="../../../public/images/undraw_Online_learning_re_qw08.png"
                  alt="">
           </div>
         </div>
@@ -19,9 +19,6 @@
           flexible meeting spaces at affordable rates.</h2>
           <p><span style="font-weight: 400;">From a 4 seater meeting room to a full 16 seater boardroom with servings and equipped with the tech to help you host your meeting</span>
           </p>
-<!--          <div class="d-block mt-3">-->
-<!--            <router-link class="btn btn-primary d-block mt-1" target="_self" to="/coworking">Book a Space</router-link>-->
-<!--          </div>-->
         </div>
       </div>
     </div>
@@ -30,7 +27,7 @@
       <div class="video">
         <div class="embed-responsive embed-responsive-16by9 overlay-img">
           <img class="w-100 d-block"
-               src="../../../public/images/executive_boardroom1.jpeg"
+               src="../../../public/images/undraw_photocopy_gj0t.png"
                alt="">
         </div>
       </div>

@@ -7,16 +7,10 @@
         <div class="video">
           <div class="embed-responsive embed-responsive-16by9 overlay-img">
             <img class="w-100 d-block"
-                 src="../../../public/images/executive_2seats.jpeg"
+                 src="../../../public/images/undraw_interior_design_9i70.png"
                  alt="">
           </div>
         </div>
-<!--        <div class="hover d-flex align-items-center">-->
-<!--          <div class="container">-->
-<!--            <div class="content-text p-sm-5 p-4"><h1 class="lubalin mb-4">Beautiful work space and a meeting place.</h1>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </div>-->
       </div>
     </main>
     <div class="container block-text pb-5" id="row-x1">

@@ -48,19 +48,18 @@
                              to="/corporates">Corporates
                 </router-link>
               </li>
-              <li v-if="$route.name === 'meeting'" id="menu-item-24"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
-                <router-link active-class="current-menu-item"
-                             to="/meetings">Meetings
-                </router-link>
-              </li>
               <li v-else id="menu-item-24"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
                 <router-link active-class="current-menu-item"
                              to="/corporates">Corporates
                 </router-link>
               </li>
-
+              <li v-if="$route.name === 'meeting'" id="menu-item-24"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
+                <router-link active-class="current-menu-item"
+                             to="/meetings">Meetings
+                </router-link>
+              </li>
               <li v-if="$route.name === 'event-spaces'" id="menu-item-23"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 current-menu-item">
                 <router-link
