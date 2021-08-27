@@ -1,5 +1,5 @@
 <template>
-  <header class="position-fixed">
+  <header class="position-fixed" onclick="this.classList.toggle('open')">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
@@ -18,7 +18,8 @@
             </svg>
           </button>
         </div>
-        <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0">
+<!--        <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0">-->
+        <nav class="col-lg-10 text-right text-uppercase px-lg-3 px-0" onclick="this.classList.toggle('open')">
           <div class="menu-main-menu-container">
             <ul id="menu-main-menu" class="menu">
               <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
