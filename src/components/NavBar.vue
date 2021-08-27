@@ -1,5 +1,5 @@
 <template>
-  <header class="position-fixed" onclick="this.classList.toggle('open')">
+  <header class="position-fixed">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
@@ -8,7 +8,7 @@
               alt="Talent Garden" height="65px"></router-link>
         </div>
         <div class="d-lg-none d-block ml-auto pr-4">
-          <button id="menuCollapse">
+          <button id="menuCollapse" @click="toggleNavbar()">
             <svg class="ham hamRotate" viewBox="0 0 100 100" width="52" onclick="this.classList.toggle('active')">
               <path class="line top"
                     d="m 30,33 h 40 c 0,0 9.044436,-0.654587 9.044436,-8.508902 0,-7.854315 -8.024349,-11.958003 -14.89975,-10.85914 -6.875401,1.098863 -13.637059,4.171617 -13.637059,16.368042 v 40"></path>
@@ -18,7 +18,7 @@
             </svg>
           </button>
         </div>
-        <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0" onclick="this.classList.toggle('open')">
+        <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0" v-bind:class="{ open: navOpen }">
           <div class="menu-main-menu-container">
             <ul id="menu-main-menu" class="menu">
               <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
@@ -104,5 +104,15 @@ import SchoolSubMenu from "@/views/school/SchoolSubMenu";
 export default {
   name: 'navigation',
   components: {SchoolSubMenu, CoworkingSubMenu},
+  data: function () {
+    return {
+      navOpen: false,
+    }
+  },
+  methods: {
+    toggleNavbar() {
+      this.navOpen = !this.navOpen;
+    }
+  },
 }
 </script>
