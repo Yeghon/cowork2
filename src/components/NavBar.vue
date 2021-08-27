@@ -28,22 +28,27 @@
               </li>
               <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down" /></router-link>
+                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down"/>
+                </router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-else id="menu-item-12662877"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down" /></router-link>
+                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down"/>
+                </router-link>
                 <coworking-sub-menu/>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/school/campus">Campus &nbsp;<font-awesome-icon icon="chevron-down" /></router-link>
+                <router-link to="/school/campus">Campus &nbsp;<font-awesome-icon icon="chevron-down"/>
+                </router-link>
                 <SchoolSubMenu/>
               </li>
               <li v-else id="menu-item-25"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
-                <router-link to="/school/campus" class="fa fa-angle-down">Campus &nbsp;<font-awesome-icon icon="chevron-down" /></router-link>
+                <router-link to="/school/campus" class="fa fa-angle-down">Campus &nbsp;<font-awesome-icon
+                    icon="chevron-down"/>
+                </router-link>
                 <SchoolSubMenu/>
               </li>
 
@@ -84,25 +89,6 @@
                     to="/about">About
                 </router-link>
               </li>
-            </ul>
-          </div>
-          <div class="d-lg-none d-block text-left mt-5">
-            <ul class="social-share list-unstyled mb-0 px-4">
-              <li><a href="#" rel="nofollow" target="_blank"> <img
-                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/facebook.svg"
-                  alt="talent garden facebook"> </a></li>
-              <li class="mr-4"><a href="https://www.instagram.com/talentgarden/" target="_blank" rel="nofollow"> <img
-                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/instagram.svg"
-                  alt="talent garden instagram"> </a></li>
-              <li><a href="#" rel="nofollow" target="_blank"> <img
-                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/linkedin.svg"
-                  alt="talent garden linkedin"> </a></li>
-              <li><a href="https://twitter.com/TalentGardenen" target="_blank" rel="nofollow"> <img
-                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/twitter.svg"
-                  alt="talent garden twitter"> </a></li>
-              <li><a href="https://www.youtube.com/c/TalentGardenOfficial" target="_blank" rel="nofollow"> <img
-                  src="https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/tag/assets/img/icon/youtube.svg"
-                  alt="talent garden youtube"> </a></li>
             </ul>
           </div>
         </nav>
