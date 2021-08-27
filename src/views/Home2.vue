@@ -13,8 +13,8 @@
                 digital innovation
               </h3>
               <div>
-                <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space" style="margin: 10px; border-radius: 25px">Become a member</router-link>
-                <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space" style="margin: 10px; border-radius: 25px">Learn with us</router-link>
+                <router-link class="btn btn-primary mt-5" target="_self" to="/coworking" style="margin: 10px; border-radius: 25px">Become a member</router-link>
+                <router-link class="btn btn-primary mt-5" target="_self" to="/school/campus" style="margin: 10px; border-radius: 25px">Learn with us</router-link>
               </div>
             </div>
           </div>

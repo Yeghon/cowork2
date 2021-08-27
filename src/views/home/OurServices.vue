@@ -60,9 +60,9 @@
           </h6>
             <p class="text mb-0">We outsource, build software applications for corporate</p>
           </div>
-          <!--          <div style="display: grid; place-items: center">-->
-          <!--            <router-link class="btn btn-primary mt-5" target="_self" to="/book-a-space">Book a Space</router-link>-->
-          <!--          </div>-->
+          <div style="display: grid; place-items: center">
+            <router-link class="btn btn-primary mt-5" target="_self" to="/corporates">Learn More</router-link>
+          </div>
         </div>
       </div>
     </div>

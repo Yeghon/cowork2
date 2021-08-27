@@ -18,8 +18,7 @@
             </svg>
           </button>
         </div>
-<!--        <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0">-->
-        <nav class="col-lg-10 text-right text-uppercase px-lg-3 px-0" onclick="this.classList.toggle('open')">
+        <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0" onclick="this.classList.toggle('open')">
           <div class="menu-main-menu-container">
             <ul id="menu-main-menu" class="menu">
               <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
