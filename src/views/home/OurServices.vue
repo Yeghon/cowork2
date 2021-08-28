@@ -103,4 +103,8 @@ export default {
 
 <style scoped>
 
+*, .black {
+  font-family: Typo_Round_bold;
+}
+
 </style>

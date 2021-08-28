@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row pt-3 pb-3">
         <div class="col-lg-3 col-md-4 col-12 mb-md-0 mb-5">
-          <router-link itemprop="url" to="/"><img src="../../public/images/deflogo.jpeg"
+          <router-link itemprop="url" to="/"><img src="../../public/images/Talent-Logo-01.png"
                                                   class="logo-footer" height="80" itemprop="logo"></router-link>
         </div>
         <div class="col-lg-3 col-md-5 col-6"><h5 class="white text-uppercase font-size-12 font-weight-bold lett-space-1"

@@ -13,7 +13,7 @@
       </div>
     </main>
     <div style="display: grid; place-items: center; margin-top: 150px; margin-bottom: 150px; padding: 20px">
-      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>Equipped private office for you
+      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2 style="font-family: Typo_Round_bold;">Equipped private office for you
         with two extra seats.</h2>
       </div>
       <div>

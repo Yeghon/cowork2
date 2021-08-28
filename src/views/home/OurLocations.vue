@@ -1,5 +1,5 @@
 <template>
-  <div align="center">
+  <div align="center" >
     <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>Our locations</h2></div>
     <div><h3 style="font-size: 20px; font-weight: 600; color: #343434; letter-spacing: -0.03em; line-height: 1.5">There
       is no green space like the environs of Ngong forest<br>
@@ -29,5 +29,9 @@ export default {
 </script>
 
 <style scoped>
+
+* {
+  font-family: Typo_Round_bold;
+}
 
 </style>

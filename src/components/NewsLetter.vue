@@ -2,7 +2,7 @@
   <div class="bg-primary" id="newsletter">
     <div class="container">
       <div class="row align-items-center py-5">
-        <div class="col-lg-4"><h4 class="white lubalin font-size-40 font-weight-bold">Sign up to our newsletter</h4>
+        <div class="col-lg-4"><h4 class="white lubalin font-size-40 font-weight-bold" style="font-family: Typo_Round_bold;">Sign up to our newsletter</h4>
           <p class="white mb-0">Stay up to date with all the latest news</p></div>
         <div class="col-lg-7 ml-auto form-newsletter mt-lg-0 mt-5">
           <div class="hbspt-form" id="hbspt-form-1628438421594-5870094169">

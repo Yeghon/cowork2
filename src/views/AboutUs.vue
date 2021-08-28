@@ -71,4 +71,8 @@ export default {
 
 <style scoped>
 
+h1, h2 {
+  font-family: Typo_Round_bold;
+}
+
 </style>

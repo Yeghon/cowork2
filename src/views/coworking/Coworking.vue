@@ -13,7 +13,7 @@
         </div>
         <div class="hover d-flex align-items-center">
           <div class="container">
-            <div class=" p-sm-5 p-4"><h1 class="lubalin mb-4" style="color: #fff;">Beautiful work space and a meeting
+            <div class=" p-sm-5 p-4"><h1 class="lubalin mb-4" style="color: #fff; font-family: Typo_Round_bold;">Beautiful work space and a meeting
               place.</h1>
             </div>
           </div>
@@ -21,7 +21,7 @@
       </div>
     </main>
     <div style="display: grid; place-items: center; margin: 25px">
-      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>Creating global connections</h2>
+      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2 style="font-family: Typo_Round_bold;">Creating global connections</h2>
       </div>
       <div>
         <h3 style="font-size: 20px; font-weight: 600; color: #343434; letter-spacing: -0.03em; line-height: 1.5">

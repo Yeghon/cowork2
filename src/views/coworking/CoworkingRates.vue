@@ -2,7 +2,7 @@
   <div class="bg-light" id="row-5" align="center">
     <div class="container pt-3 pb-5">
       <div class="row">
-        <div class="col-12 pt-5"><h2>Become a member and get full access</h2></div>
+        <div class="col-12 pt-5"><h2 style="font-family: Typo_Round_bold;">Become a member and get full access</h2></div>
       </div>
       <div v-for="rate in rates" :key="rate" class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
@@ -70,5 +70,7 @@ export default {
 </script>
 
 <style scoped>
-
+.black {
+  font-family: Typo_Round_bold;
+}
 </style>

@@ -6,7 +6,7 @@
         <div class="row py-5">
           <div class="col-lg-5 order-lg-2 pt-4">
             <div class="max-text mx-auto">
-              <h1 class="mt-2">Talent Garden Innovation School <span class="orange">Online</span></h1>
+              <h1 class="mt-2" style="font-family: Typo_Round_bold;">Talent Garden Innovation School <span class="orange">Online</span></h1>
               <p>We are currently offering the following courses online.</p> <a href="#course"
                                                                                 class="btn btn-primary mt-4 smooth"
                                                                                 id="anchor-course">Go to our
@@ -20,7 +20,7 @@
       <div class="bg-light py-5" id="course">
         <div class="container py-5">
           <div class="col-12">
-            <h2 align="center" class="mt-2">Our courses</h2>
+            <h2 align="center" class="mt-2" style="font-family: Typo_Round_bold;">Our courses</h2>
             <p align="center" class="mb-0">Talent Garden Innovation School offers programmes and training courses for
               individuals and
               companies.</p>
@@ -33,7 +33,7 @@
                     <div class="type d-inline-block mr-2 font-weight-bold text-uppercase text-primary"
                          style="font-size:12px; letter-spacing:2px">Online
                     </div>
-                    <h4 class="black lubalin font-weight-bold mb-0 font-size-24 d-block my-2">General web
+                    <h4 class="black lubalin font-weight-bold mb-0 font-size-24 d-block my-2" style="font-family: Typo_Round_bold;">General web
                       development-Php, html, JS</h4>
                   </div>
                   <div
@@ -53,7 +53,7 @@
                     <div class="type d-inline-block mr-2 font-weight-bold text-uppercase text-primary"
                          style="font-size:12px; letter-spacing:2px">Online
                     </div>
-                    <h4 class="black lubalin font-weight-bold mb-0 font-size-24 d-block my-2">Start up 101- Starting a
+                    <h4 class="black lubalin font-weight-bold mb-0 font-size-24 d-block my-2" style="font-family: Typo_Round_bold;">Start up 101- Starting a
                       business in Kenya A-Z
                       Master</h4>
                   </div>

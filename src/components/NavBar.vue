@@ -4,7 +4,7 @@
       <div class="row align-items-center">
         <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
           <router-link class="ml-3 logo" to="/"><img
-              class="bg-transparent" src="../../public/images/deflogo.png"
+              class="bg-transparent" src="../../public/images/Talent-Logo-01.png"
               alt="Talent Garden" height="65px"></router-link>
         </div>
         <div class="d-lg-none d-block ml-auto pr-4">
@@ -21,22 +21,15 @@
         <nav id="nav" class="col-lg-10 text-right text-uppercase px-lg-3 px-0" v-bind:class="{ open: navOpen }">
           <div class="menu-main-menu-container">
             <ul id="menu-main-menu" class="menu">
-              <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
-                  class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking/subcoworking"></router-link>
-                <coworking-sub-menu/>
+              <li v-if="$route.name === 'corporates'" id="menu-item-24"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
+                <router-link active-class="current-menu-item" to="/corporates">Corporates</router-link>
               </li>
-              <li v-if="$route.name === 'coworking'" id="menu-item-12662877"
-                  class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down"/>
+              <li v-else id="menu-item-24"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
+                <router-link active-class="current-menu-item"
+                             to="/corporates">Corporates
                 </router-link>
-                <coworking-sub-menu/>
-              </li>
-              <li v-else id="menu-item-12662877"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662877">
-                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down"/>
-                </router-link>
-                <coworking-sub-menu/>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"
                   class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
@@ -51,33 +44,31 @@
                 </router-link>
                 <SchoolSubMenu/>
               </li>
-
-              <li v-if="$route.name === 'corporates'" id="menu-item-24"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
-                <router-link active-class="current-menu-item" to="/corporates">Corporates</router-link>
-              </li>
-              <li v-else id="menu-item-24"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
-                <router-link active-class="current-menu-item"
-                             to="/corporates">Corporates
+              <li v-if="$route.name === 'coworking'" id="menu-item-25"
+                  class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
+                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon icon="chevron-down"/>
                 </router-link>
+                <coworking-sub-menu/>
               </li>
-              <li v-if="$route.name === 'meeting'" id="menu-item-24"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
-                <router-link active-class="current-menu-item"
-                             to="/meetings">Meetings
+              <li v-else id="menu-item-25"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
+                <router-link to="/coworking/subcoworking">Coworking &nbsp;<font-awesome-icon
+                    icon="chevron-down"/>
                 </router-link>
+                <coworking-sub-menu/>
               </li>
-              <li v-if="$route.name === 'event-spaces'" id="menu-item-23"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 current-menu-item">
-                <router-link to="/event-spaces">Event Spaces</router-link>
-              </li>
-
-              <li v-else id="menu-item-23"
-                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23">
-                <router-link
-                    to="/event-spaces">Event Spaces
+              <li v-if="$route.name === 'hire'" id="menu-item-25"
+                  class="menu-item menu-item-type-post_type current-menu-item menu-item-object-page menu-item-has-children menu-item-25">
+                <router-link to="#">Hire &nbsp;<font-awesome-icon icon="chevron-down"/>
                 </router-link>
+                <HireProfessionals/>
+              </li>
+              <li v-else id="menu-item-25"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
+                <router-link to="#">Hire &nbsp;<font-awesome-icon
+                    icon="chevron-down"/>
+                </router-link>
+                <HireProfessionals/>
               </li>
               <li v-if="$route.name === 'about'" id="menu-item-21"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21 current-menu-item">
@@ -100,10 +91,11 @@
 <script>
 import CoworkingSubMenu from "@/views/coworking/CoworkingSubMenu";
 import SchoolSubMenu from "@/views/school/SchoolSubMenu";
+import HireProfessionals from "@/views/hire/HireProfessionals";
 
 export default {
   name: 'navigation',
-  components: {SchoolSubMenu, CoworkingSubMenu},
+  components: {HireProfessionals, SchoolSubMenu, CoworkingSubMenu},
   data: function () {
     return {
       navOpen: false,
