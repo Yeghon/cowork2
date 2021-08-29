@@ -23,12 +23,12 @@
             <ul id="menu-main-menu" class="menu">
               <li v-if="$route.name === 'corporates'" id="menu-item-24"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
-                <router-link active-class="current-menu-item" to="/corporates">Corporates</router-link>
+                <router-link active-class="current-menu-item" to="/corporates">Innovation & Partnerships</router-link>
               </li>
               <li v-else id="menu-item-24"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
                 <router-link active-class="current-menu-item"
-                             to="/corporates">Corporates
+                             to="/corporates">Innovation & Partnerships
                 </router-link>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"

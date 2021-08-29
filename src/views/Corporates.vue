@@ -7,14 +7,14 @@
           <div class="row">
             <div class="col-lg-5 pt-4 order-lg-2">
               <div class="max-text mx-auto bg-white p-lg-0 p-4">
-                <h2 style="font-family: Typo_Round_bold;">Innovation is<br> to experience change as an opportunity.</h2>
+                <h2 style="font-family: Typo_Round_bold;">Innovation is<br> to experience change as an opportunity</h2>
                 <p><span style="font-weight: 400;">We have partnered with corporate  entities on the areas of</span>
                 </p>
-                <p><b>Training</b><span style="font-weight: 400;">, We train staff on some skills that will boost your talent pool. We offer a number of courses as listed in our talent pool. We can offer custom made training on request as well.</span>
+                <p><b>Training</b><span style="font-weight: 400;">, We train staff on some skills that will boost your talent pool We offer a number of courses as listed in our talent pool We can offer custom made training on request as well</span>
                 </p>
-                <p><b>Seminars</b><span style="font-weight: 400;">, Come to our facility to undertake seminars and conferences. Our space is the best to host outdoor events, social and networking events.</span>
+                <p><b>Seminars</b><span style="font-weight: 400;">, Come to our facility to undertake seminars and conferences Our space is the best to host outdoor events, social and networking events</span>
                 </p>
-                <p><b>Outsourcing</b><span style="font-weight: 400;">, We have a talent pool where you can pick from. Our training produces top talent ready to add to your team. We will interview, equip, onboard and send resources to join your team in the shortest time possible.</span>
+                <p><b>Outsourcing</b><span style="font-weight: 400;">, We have a talent pool where you can pick from Our training produces top talent ready to add to your team We will interview, equip, onboard and send resources to join your team in the shortest time possible</span>
                 </p>
                 <p><b>Software Development</b><span style="font-weight: 400;">, We will develop and deliver software applications </span>
                 </p>
@@ -104,25 +104,31 @@
                 <div class="effect-img"><img class="w-100"
                                              src="../../public/images/undraw_multitasking_hqg3.png"
                                              alt=""></div>
-                <div class="card-body py-4"><h6 class="black">All talents under one roof</h6></div>
+                <div class="card-body py-4">
+                </div>
+                <h6 class="black">All talents under one roof</h6>
               </div>
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
                                              src="../../public/images/undraw_Online_learning_re_qw08.png"
                                              alt=""></div>
-                <div class="card-body py-4"><h6 class="black">Speedy delivery of your project</h6></div>
+                <div class="card-body py-4">
+                </div>
+                <h6 class="black">Speedy delivery of your project</h6>
               </div>
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
                                              src="../../public/images/undraw_online_payments_luau.png"
                                              alt=""></div>
-                <div class="card-body py-4"><h6 class="black">Affordable rates</h6></div>
+                <div class="card-body py-4"></div>
+                <h6 class="black">Affordable rates</h6>
               </div>
               <div class="card mb-lg-0 mb-4 mx-3 px-0">
                 <div class="effect-img"><img class="w-100"
                                              src="../../public/images/undraw_software_engineer_lvl5.png"
                                              alt=""></div>
-                <div class="card-body py-4"><h6 class="black">Training is our specialty</h6></div>
+                <div class="card-body py-4"></div>
+                <h6 class="black">Training is our specialty</h6>
               </div>
             </div>
             <div class="row align-items-center justify-content-center">
@@ -163,5 +169,6 @@ export default {
 <style scoped>
 .black {
   font-family: Typo_Round_bold;
+  padding: 10px;
 }
 </style>
