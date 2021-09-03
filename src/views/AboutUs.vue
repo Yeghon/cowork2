@@ -6,7 +6,7 @@
         <div class="row pt-5">
           <div class="col-lg-5 order-lg-2">
             <div class="max-text mx-auto pt-4">
-              <h1 class="mt-2">Connecting you to the next opportunity</h1></div>
+              <h1 class="mt-2"><span>Connecting</span> you to the next opportunity</h1></div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5">
             <div class="img-intro"><img class="w-100"
@@ -25,10 +25,11 @@
                     <img src="../../public/images/new-graphics/campus-out.jpeg">
                   </div>
                   <div class="col-lg-5  mt-lg-0 mt-5 text-editor
-pl-lg-5		"><h2 class="mb-3">We are a Community, not just a space</h2>
+pl-lg-5		"><h2 class="mb-3">We are a <span>Community</span>, not just a space</h2>
                     <p></p>
-                    <p><span style="font-weight: 400;">We are a community of digital innovators and industry leaders. We offer a platform to network and connect our members to opportunities.
-Our training and events are unique and tailored to suit the market trends.</span>
+                    <p><span style="font-weight: 400;">We are a community of digital innovators and industry leaders<br>
+                      We offer a platform to network and connect our members to opportunities<br>
+                      Our training and events are unique and tailored to suit the market trends</span>
                     </p>
                     <p></p></div>
                 </div>
@@ -44,7 +45,7 @@ Our training and events are unique and tailored to suit the market trends.</span
             <div class="col-lg-5  mt-lg-0 mt-5 text-editor
 order-lg-1 pl-lg-3 pr-lg-5"><h2 class="mb-3">Location</h2>
               <p></p>
-              <p><span style="font-weight: 400;">We are located  along Ngong Road  within the ngong racecourse and jockey club.</span>
+              <p><span style="font-weight: 400;">We are located  along Ngong Road  within the ngong racecourse and jockey club</span>
               </p>
               <p></p></div>
           </div>

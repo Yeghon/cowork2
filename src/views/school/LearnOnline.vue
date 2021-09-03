@@ -7,7 +7,7 @@
           <div class="col-lg-5 order-lg-2 pt-4">
             <div class="max-text mx-auto">
               <h1 class="mt-2" style="font-family: Typo_Round_bold;">Talent Garden Innovation School <span class="orange">Online</span></h1>
-              <p>We are currently offering the following courses online.</p> <a href="#course"
+              <p>We are currently offering the following courses online</p> <a href="#course"
                                                                                 class="btn btn-primary mt-4 smooth"
                                                                                 id="anchor-course">Go to our
               courses</a></div>
@@ -23,7 +23,7 @@
             <h2 align="center" class="mt-2" style="font-family: Typo_Round_bold;">Our courses</h2>
             <p align="center" class="mb-0">Talent Garden Innovation School offers programmes and training courses for
               individuals and
-              companies.</p>
+              companies</p>
             <div class="mt-5 container-filter" id="MixItUp8ABD34">
               <div class="mix  online  part-time  calabiana-milan-innovation-school  italian  business"><a
                   href="#"

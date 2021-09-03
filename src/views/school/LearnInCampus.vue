@@ -9,7 +9,7 @@
               <h1 class="mt-2" style="font-family: Typo_Round_bold;">Talent Garden Innovation School</h1>
               <p>Be part of the next generation of developers and innovators <br>
                 by training with industry leaders on the trendiest <br>
-                and on demand skills.
+                and on demand skills
               </p> <a
                 href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Go to our courses</a></div>
           </div>
@@ -22,7 +22,7 @@
         <div class="container py-5">
           <div class="col-12" align="center">
             <h2 class="mt-2" style="font-family: Typo_Round_bold;">Our courses</h2>
-            <p class="mb-0">We will be offering multiple courses running concurrently.</p>
+            <p class="mb-0">We will be offering multiple courses running concurrently</p>
             <div v-for="course in courses" :key="course" class="mt-5" id="MixItUp8E8326">
               <div class="mix  italy  part-time  calabiana-milan-innovation-school  italian  business"><a
                   href="#"

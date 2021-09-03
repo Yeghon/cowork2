@@ -22,7 +22,7 @@
                                        src="../../../public/images/new-graphics/Client-Copy-04.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Private Office</h6>
-            <p class="text mb-0">Have a dedicated space within the hub and access other amenities.</p>
+            <p class="text mb-0">Have a dedicated space within the hub and access other amenities</p>
           </div>
           <div style="display: grid; place-items: center">
             <router-link class="btn btn-primary mt-5" target="_self" to="/coworking/privateoffice">Learn more
@@ -35,7 +35,7 @@
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Host Events
           </h6>
-            <p class="text mb-0">Seminars, fireside chats.</p></div>
+            <p class="text mb-0">Seminars, fireside chats</p></div>
           <div style="display: grid; place-items: center">
             <router-link class="btn btn-primary mt-5" target="_self" to="/event-spaces">Learn more</router-link>
           </div>
@@ -46,7 +46,7 @@
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Campus
           </h6>
-            <p class="text mb-0">Train and equip innovators and job seekers on trendy technologies.</p>
+            <p class="text mb-0">Train and equip innovators and job seekers on trendy technologies</p>
           </div>
           <div style="display: grid; place-items: center">
             <router-link class="btn btn-primary mt-5" target="_self" to="/school/campus">Learn more</router-link>
