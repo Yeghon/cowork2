@@ -31,7 +31,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/new-graphics/Client-Copy-08.jpg"
+                                       src="../../../public/images/new-graphics/ClientCopy-18.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Host Events
           </h6>

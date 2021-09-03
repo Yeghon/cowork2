@@ -47,7 +47,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/new-graphics/Client-Copy-12.jpg"
+                                       src="../../../public/images/new-graphics/ClientCopy-22.jpg"
                                        alt=""></div>
           <div class="card-body py-4"></div><h6 class="black">Discounted hot desk post launch</h6>
           <p class="text mb-0">An interactive space capable of adding value to business meetings with your

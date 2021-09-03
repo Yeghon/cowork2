@@ -14,7 +14,7 @@
                 href="#course" class="btn btn-primary mt-4 smooth" id="anchor-course">Go to our courses</a></div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5"><img class="w-100 d-block"
-                                                                     src="../../../public/images/new-graphics/Client-Copy-03.jpg"
+                                                                     src="../../../public/images/new-graphics/campus-out.jpeg"
                                                                      alt=""></div>
         </div>
       </div>

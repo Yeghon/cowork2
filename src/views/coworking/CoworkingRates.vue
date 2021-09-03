@@ -7,7 +7,7 @@
       <div v-for="rate in rates" :key="rate" class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/new-graphics/Client-Copy-06.jpg"
+                                       src="../../../public/images/new-graphics/Client-Copy-10.jpg"
                                        alt=""></div>
           <div class="card-body py-4">
             <p>Daily Membership</p>
@@ -19,7 +19,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/new-graphics/Client-Copy-11.jpg"
+                                       src="../../../public/images/new-graphics/ClientCopy-14.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><p>Monthly Membership</p>
             <h3 class="black">Ksh 20,000</h3>
@@ -30,7 +30,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/new-graphics/Client-Copy-12.jpg"
+                                       src="../../../public/images/new-graphics/ClientCopy-15.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><p>Dedicated Desk</p>
             <h3 class="black">Ksh 25,000</h3>

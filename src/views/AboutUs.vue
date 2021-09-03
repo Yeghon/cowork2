@@ -10,7 +10,7 @@
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5">
             <div class="img-intro"><img class="w-100"
-                                        src="../../public/images/new-graphics/Client-Copy-03.jpg"
+                                        src="../../public/images/new-graphics/ClientCopy-23.jpg"
                                         alt=""></div>
           </div>
         </div>
@@ -22,7 +22,7 @@
               <div class="container block-text pb-5" id="row-x0">
                 <div class="row justify-content-between align-items-center pb-5">
                   <div class="col-lg-7 ">
-                    <img src="../../public/images/new-graphics/campus-out.jpeg">
+                    <img src="../../public/images/new-graphics/ClientCopy-25.jpg">
                   </div>
                   <div class="col-lg-5  mt-lg-0 mt-5 text-editor
 pl-lg-5		"><h2 class="mb-3">We are a <span>Community</span>, not just a space</h2>

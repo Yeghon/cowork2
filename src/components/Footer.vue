@@ -21,22 +21,10 @@
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
                 <router-link active-class="current-menu-item" to="/school/campus">Learn in Campus</router-link>
               </li>
-<!--              <li-->
-<!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">-->
-<!--                <router-link active-class="current-menu-item" to="/school/online">Learn Online</router-link>-->
-<!--              </li>-->
               <li
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
                 <router-link active-class="current-menu-item" to="/coworking/subcoworking">Coworking</router-link>
               </li>
-<!--              <li-->
-<!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">-->
-<!--                <router-link active-class="current-menu-item" to="/coworking/privateoffice">Private Office</router-link>-->
-<!--              </li>-->
-<!--              <li-->
-<!--                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">-->
-<!--                <router-link active-class="current-menu-item" to="/coworking/meetingroom">Meeting Room</router-link>-->
-<!--              </li>-->
               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-603">
                 <router-link aria-current="page" to="#">Hire</router-link>
               </li>

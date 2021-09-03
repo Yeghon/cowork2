@@ -7,7 +7,7 @@
       <div class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/new-graphics/Client-Copy-03.jpg"
+                                       src="../../../public/images/new-graphics/experts.jpeg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Learn from industry leaders</h6></div>
         </div>
@@ -25,7 +25,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/new-graphics/Client-Copy-07.jpg"
+                                       src="../../../public/images/new-graphics/ClientCopy-19.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Custom packages for each client</h6></div>
         </div>
