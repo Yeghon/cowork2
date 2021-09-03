@@ -9,7 +9,7 @@
       <div class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_connected_world_wuay.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-04.jpg"
                                        alt=""></div>
           <div class="card-body py-4"></div><h6 class="black">Hands on training-Learn while working on real projects</h6>
           <p class="text mb-0">For companies that want to give their employees the opportunity to do smart<br>
@@ -18,7 +18,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_developer_activity_bv83.png"
+                                       src="../../../public/images/new-graphics/experts.jpeg"
                                        alt=""></div>
           <div class="card-body py-4"></div><h6 class="black">Be trained by industry leaders</h6>
           <p class="text mb-0">An interactive space capable of adding value to business meetings with your
@@ -27,7 +27,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_photocopy_gj0t.png"
+                                       src="../../../public/images/new-graphics/world.jpeg"
                                        alt=""></div>
           <div class="card-body py-4"></div><h6 class="black">Get connected to job opportunities
         </h6>
@@ -38,7 +38,7 @@
       <div class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_Processing_re_tbdu.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-11.jpg"
                                        alt=""></div>
           <div class="card-body py-4"></div><h6 class="black">Get connected with investors</h6>
           <p class="text mb-0">For companies that want to give their employees the opportunity to do smart<br>
@@ -47,7 +47,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_software_engineer_lvl5.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-12.jpg"
                                        alt=""></div>
           <div class="card-body py-4"></div><h6 class="black">Discounted hot desk post launch</h6>
           <p class="text mb-0">An interactive space capable of adding value to business meetings with your
@@ -56,7 +56,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_speech_to_text_9uir.png"
+                                       src="../../../public/images/new-graphics/online-meeting.jpeg"
                                        alt=""></div>
           <div class="card-body py-4"></div><h6 class="black">Virtual address for your space</h6>
           <p class="text mb-0">Choose between a dedicated private office from 4 up to 20 people or branded desks

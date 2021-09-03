@@ -2,12 +2,11 @@
   <div>
     <navigation/>
     <main>
-      <div id="header-video" class="position-relative w-100"
-           style="background-image: url(https://334045-1026637-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/intro-home.jpg)">
+      <div id="header-video" class="position-relative w-100">
         <div class="video">
           <div class="embed-responsive embed-responsive-16by9 overlay-img">
             <img class="w-100 d-block"
-                 src="../../../public/images/undraw_Online_learning_re_qw08.png"
+                 src="../../../public/images/new-graphics/Client-Copy-07.jpg"
                  alt="">
           </div>
         </div>
@@ -15,7 +14,7 @@
     </main>
     <div style="display: grid; place-items: center; margin-top: 150px; margin-bottom: 150px; padding: 20px">
       <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>We offer the most
-        flexible meeting spaces at affordable rates.</h2>
+        flexible meeting spaces at affordable rates</h2>
       </div>
       <div>
         <h3 style="font-size: 20px; font-weight: 600; color: #343434; letter-spacing: -0.03em; line-height: 1.5">
@@ -29,13 +28,13 @@
       <div class="video">
         <div class="embed-responsive embed-responsive-16by9 overlay-img">
           <img class="w-100 d-block"
-               src="../../../public/images/undraw_photocopy_gj0t.png"
+               src="../../../public/images/new-graphics/experts.jpeg"
                alt="">
         </div>
       </div>
     </div>
     <div style="display: grid; place-items: center; margin-top: 150px; margin-bottom: 150px; padding: 20px">
-      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>Why our meeting rooms.</h2>
+      <div style="font-size: 16px; font-weight: 600; color: #4c4c4c; margin: 16px"><h2>Why our meeting rooms</h2>
       </div>
       <div>
         <ul v-for="benefit in benefits" :key="benefit">

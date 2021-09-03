@@ -13,7 +13,7 @@
               courses</a></div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5"><img class="w-100 d-block"
-                                                                     src="../../../public/images/undraw_Online_learning_re_qw08.png"
+                                                                     src="../../../public/images/new-graphics/online-meeting.jpeg"
                                                                      alt=""></div>
         </div>
       </div>

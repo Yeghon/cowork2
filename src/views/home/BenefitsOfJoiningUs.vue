@@ -7,31 +7,31 @@
       <div class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_Site_stats_re_ejgy.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-03.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Learn from industry leaders</h6></div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_Pitching_re_fpgk.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-11.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Introduction to investors and employers</h6></div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_connected_world_wuay.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-08.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Member Networking Events</h6></div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_Work_from_anywhere_re_s2i6.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-07.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Custom packages for each client</h6></div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_Gardening_eaf3.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-05.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Work in the outdoors of a garden</h6></div>
         </div>

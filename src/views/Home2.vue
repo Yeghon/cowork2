@@ -37,7 +37,7 @@
             </div>
           </div>
           <div class="col-lg-7 mt-lg-0 mt-5 order-lg-1 pr-lg-5">
-            <img class="w-100 d-block" src="../../public/images/undraw_different_love_a3rg.png" alt=""></div>
+            <img class="w-100 d-block" src="../../public/images/new-graphics/Client-Copy-01.jpg" alt=""></div>
         </div>
       </div>
       <our-services/>

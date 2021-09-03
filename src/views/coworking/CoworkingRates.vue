@@ -7,36 +7,36 @@
       <div v-for="rate in rates" :key="rate" class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_online_payments_luau.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-06.jpg"
                                        alt=""></div>
           <div class="card-body py-4">
             <p>Daily Membership</p>
-            <h3 class="black">Ksh. 2,000</h3>
+            <h3 class="black">Ksh 2,000</h3>
             <p>Per Day, Excluding VAT</p>
             <p class="text mb-0">For companies that want to give their employees the opportunity to do smart<br>
               working in an innovative space that stimulates new ideas and connections with talented
-              professionals.</p></div>
+              professionals</p></div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_Payments_re_77x0.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-11.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><p>Monthly Membership</p>
-            <h3 class="black">Ksh. 20,000</h3>
+            <h3 class="black">Ksh 20,000</h3>
             <p>Per Day, Excluding VAT</p>
             <p class="text mb-0">An interactive space capable of adding value to business meetings with your
-              partners and to convey the key message of your brand to the community. The meeting room can be
-              reserved by the community online.</p></div>
+              partners and to convey the key message of your brand to the community The meeting room can be
+              reserved by the community online</p></div>
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_personal_finance_tqcd.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-12.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><p>Dedicated Desk</p>
-            <h3 class="black">Ksh. 25,000</h3>
+            <h3 class="black">Ksh 25,000</h3>
             <p>Per Day, Excluding VAT</p>
             <p class="text mb-0">Choose between a dedicated private office from 4 up to 20 people or branded desks
-              in an open space to experience our way of working in close contact with the community.</p></div>
+              in an open space to experience our way of working in close contact with the community</p></div>
         </div>
       </div>
     </div>

@@ -5,7 +5,7 @@
         <div class="col-lg-2 col-6 logo pl-lg-0 pl-4 py-2">
           <router-link class="ml-3 logo" to="/"><img
               class="bg-transparent" src="../../public/images/Talent-Logo-01.png"
-              alt="Talent Garden" height="65px"></router-link>
+              alt="iTalent Garden" height="65px"></router-link>
         </div>
         <div class="d-lg-none d-block ml-auto pr-4">
           <button id="menuCollapse" @click="toggleNavbar()">
@@ -23,12 +23,12 @@
             <ul id="menu-main-menu" class="menu">
               <li v-if="$route.name === 'corporates'" id="menu-item-24"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 current-menu-item">
-                <router-link active-class="current-menu-item" to="/corporates">Innovation & Partnerships</router-link>
+                <router-link active-class="current-menu-item" to="/corporates">Corporates</router-link>
               </li>
               <li v-else id="menu-item-24"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
                 <router-link active-class="current-menu-item"
-                             to="/corporates">Innovation & Partnerships
+                             to="/corporates">Corporates
                 </router-link>
               </li>
               <li v-if="$route.name === 'innovation-school'" id="menu-item-25"

@@ -7,7 +7,7 @@
       <div class="pt-4 card-group row">
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_co-working_825n.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-02.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Coworking Space</h6>
             <p class="text mb-0">Host over 200 innovators</p>
@@ -19,7 +19,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_teacher_35j2.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-04.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Private Office</h6>
             <p class="text mb-0">Have a dedicated space within the hub and access other amenities.</p>
@@ -31,7 +31,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_special_event_4aj8.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-08.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Host Events
           </h6>
@@ -42,7 +42,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_Having_fun_re_vj4h.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-09.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Campus
           </h6>
@@ -54,7 +54,7 @@
         </div>
         <div class="card mb-lg-0 mb-4 mx-3 px-0">
           <div class="effect-img"><img class="w-100"
-                                       src="../../../public/images/undraw_Payments_re_77x0.png"
+                                       src="../../../public/images/new-graphics/Client-Copy-12.jpg"
                                        alt=""></div>
           <div class="card-body py-4"><h6 class="black">Corporate packages
           </h6>

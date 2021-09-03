@@ -6,7 +6,7 @@
         <div class="video">
           <div class="embed-responsive embed-responsive-16by9 overlay-img">
             <img class="w-100 d-block"
-                 src="../../../public/images/undraw_interior_design_9i70.png"
+                 src="../../../public/images/new-graphics/Client-Copy-04.jpg"
                  alt="">
           </div>
         </div>
